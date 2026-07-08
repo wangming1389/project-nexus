@@ -30,7 +30,7 @@ GEMINI_API_KEY="your_api_key_here"
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 

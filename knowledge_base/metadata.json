@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-08T11:45:48.555553+00:00",
+    "generated_at": "2026-07-08T15:39:05.782117+00:00",
     "article_count": 405,
     "saved": 405,
     "skipped": 0,
@@ -1101,9 +1101,9 @@
             "slug": "how-to-use-youtube-with-optisigns.md",
             "section_id": 26324076807315,
             "created_at": "2020-06-27T17:16:34Z",
-            "updated_at": "2026-06-18T05:00:56Z",
+            "updated_at": "2026-07-08T15:01:25Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-            "content_hash": "1e2318ce481977367a8ee5908231eca0ea5de248895edd5c1c8f3bfc900a239b"
+            "content_hash": "c7ef1ec132d99ed9b226f7d40ded7311bff791babb205ad22830718b0bd2a839"
         },
         {
             "id": 360051014773,
@@ -3281,9 +3281,9 @@
             "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
             "section_id": 27458218745235,
             "created_at": "2024-04-19T19:08:25Z",
-            "updated_at": "2026-06-02T22:08:42Z",
+            "updated_at": "2026-07-08T14:47:07Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-            "content_hash": "23aaa40e8ca0e38a5eb15de18c4a355182e02cd6a5600c5fe623847c60a3fa59"
+            "content_hash": "134806131c482128b4e347d4fdbbbbbec4477995c5ac02cca83e8e8a8164123e"
         },
         {
             "id": 29217646663187,
@@ -3991,9 +3991,9 @@
             "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
             "section_id": 26324330971411,
             "created_at": "2026-05-28T19:01:32Z",
-            "updated_at": "2026-06-15T19:14:16Z",
+            "updated_at": "2026-07-08T14:58:11Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-            "content_hash": "431f211649c229a074e6c0f2fb75f5c8d6b561aa58db5bc2d1f2476ad2528aa0"
+            "content_hash": "942f00853391f63f1567f9e075c72a2e1e70135de34a71dfb5cf7ab1fdb37148"
         },
         {
             "id": 52350277262483,
