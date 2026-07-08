@@ -8,12 +8,12 @@ METADATA_FILE = KNOWLEDGE_DIR / "metadata.json"
 CHAT_MODEL = "gemini-3.5-flash"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 TEMPERATURE = 0.0
-TOP_K = 5
+TOP_K = 10
 
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 150
 
-COLLECTION_NAME = "optisigns_articles_st"
+COLLECTION_NAME = "optisigns_articles_v2"
 
 BASE_URL = "https://support.optisigns.com/api/v2/help_center/en-us"
 PER_PAGE = 100

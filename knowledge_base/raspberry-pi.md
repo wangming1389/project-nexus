@@ -1,5 +1,6 @@
 # Raspberry Pi
-        ### In this article, we'll break down how to get OptiSigns running on a Rapsberry Pi device.
+
+### In this article, we'll break down how to get OptiSigns running on a Rapsberry Pi device.
 
 * [Two Methods to Get OptiSigns Running on a Raspberry Pi](#Methods)
 * [Method 1: Download & Use Prebuilt SD Card Image](#Method1)
@@ -195,9 +196,3 @@ While Raspberry Pi do run OptiSigns well under most circumstances, there are a f
 ### That's all!
 
 If you have any questions or issues that need support, please feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360034379693
-        Section ID: 26398464765075
-        Updated At: 2025-10-07T15:03:02Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi
-    

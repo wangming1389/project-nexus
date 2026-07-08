@@ -1,5 +1,6 @@
 # Displaying SharePoint Sites on OptiSigns
-        ### In this article, we will show how to display an internal SharePoint site on OptiSigns digital signage.
+
+### In this article, we will show how to display an internal SharePoint site on OptiSigns digital signage.
 
 * [What You Need](#WhatYouNeed)
 * [Setting Up the SharePoint App](#SettingUp)
@@ -127,9 +128,3 @@ This will ensure no one, not even OptiSigns, can decrypt your password under any
 ### That's all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting SharePoint to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 4414539282067
-        Section ID: 26324023523603
-        Updated At: 2025-11-10T15:11:25Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
-    

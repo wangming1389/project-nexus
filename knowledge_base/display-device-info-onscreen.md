@@ -1,5 +1,6 @@
 # Display Device Info Onscreen
-        ### In this article, we will guide you through the process for displaying your device's information on screen.
+
+### In this article, we will guide you through the process for displaying your device's information on screen.
 
 * [Before You Begin](#Begin)
 * [Step 1: Create Designer Asset](#Step1)
@@ -108,9 +109,3 @@ If we were to assign it to another screen, these values would change. This makes
 This is how you can display device info on the screen using device data mapping feature.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 27070013297427
-        Section ID: 26319411901075
-        Updated At: 2025-09-04T15:08:40Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/27070013297427-Display-Device-Info-Onscreen
-    

@@ -1,5 +1,6 @@
 # Photos, GIFs, and QR Codes in Designer
-        ### In this article, we’ll cover how to add and edit Photos, GIFs, and QR Codes in Designer.
+
+### In this article, we’ll cover how to add and edit Photos, GIFs, and QR Codes in Designer.
 
 * [Photos](#Photos)
   + [Background](#Background)
@@ -377,9 +378,3 @@ This will fix the GIF and it will display properly.
 ### **That’s all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at <support@optisigns.com>.
-        ---
-        Article ID: 42526907045651
-        Section ID: 42593092881043
-        Updated At: 2025-09-26T20:04:17Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer
-    

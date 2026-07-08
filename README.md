@@ -1,6 +1,8 @@
 # Support Bot RAG Pipeline
 
-This is a home test submission for building a Retrieval-Augmented Generation (RAG) pipeline for support articles. The project includes scraping, vector indexing, a terminal chat interface, and a deployment configuration for daily updates.
+![OptiBot UI](assets/screenshot.png)
+
+This is a test submission for building a Retrieval-Augmented Generation (RAG) pipeline for support articles. The project includes scraping, vector indexing, a terminal chat interface, and a deployment configuration for daily updates.
 
 ## Architecture
 1. **Scraper**: Pulls support articles via API, converts HTML to Markdown, and calculates content hashes to detect changes.

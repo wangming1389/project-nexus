@@ -1,5 +1,6 @@
 # Data Residency and OptiSigns
-        Customers on the Engage or Enterprise Plans can request their data to be stored in a certain country, or region for data residency requirements.
+
+Customers on the Engage or Enterprise Plans can request their data to be stored in a certain country, or region for data residency requirements.
 
 By default, all customer's data are stored simultaneously in the:
 
@@ -24,9 +25,3 @@ Engage or Enterprise customers can request your data to be stored in:
   + Sydney (Amazon AWS)
 
 Please contact [support@optisigns.com](mailto:support@optisigns.com) or your sales rep if you are interested in pricing or would like to enable this feature on your account
-        ---
-        Article ID: 9169378546195
-        Section ID: 26319169224851
-        Updated At: 2026-06-05T14:25:01Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns
-    

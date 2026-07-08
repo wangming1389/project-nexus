@@ -1,5 +1,6 @@
 # How to use Market Index App
-        Beside the [Stock Apps](https://support.optisigns.com/hc/en-us/articles/360044115513), where you can select a list of your own Stock Tickers, you can use Marked Index app for quicker, more general market prices update. You can add one of these app:
+
+Beside the [Stock Apps](https://support.optisigns.com/hc/en-us/articles/360044115513), where you can select a list of your own Stock Tickers, you can use Marked Index app for quicker, more general market prices update. You can add one of these app:
 
 * World Market Index: Display Index for US, UK, Japan, China, Hong Hong indices
 * US Market Index: S&P 500, Dow Jones industrial Average and NASDAQ indices
@@ -45,9 +46,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls of Playlists and Schedules too.
 
  If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049155994
-        Section ID: 26324377674003
-        Updated At: 2025-08-29T21:28:36Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049155994-How-to-use-Market-Index-App
-    

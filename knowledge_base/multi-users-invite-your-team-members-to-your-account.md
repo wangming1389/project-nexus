@@ -1,5 +1,6 @@
 # Multi-users: Invite your team members to your account
-        With OptiSigns, you can invite your team members to help with managing and updating screens.  
+
+With OptiSigns, you can invite your team members to help with managing and updating screens.  
 For more advanced multi teams and different levels of security setup, [please read this article.](https://support.optisigns.com/hc/en-us/articles/360034883113)
 
 To invite your team members, go to Account Members in your Preference Setting.
@@ -40,9 +41,3 @@ Your teammate will receive an invitation email looking like below:
 They can click on the link to finish the registration process and then can help you with managing your account.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016990233
-        Section ID: 26319169224851
-        Updated At: 2025-09-04T18:00:06Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016990233-Multi-users-Invite-your-team-members-to-your-account
-    

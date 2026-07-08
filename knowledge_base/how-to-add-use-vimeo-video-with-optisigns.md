@@ -1,5 +1,6 @@
 # How to add & use Vimeo video with OptiSigns
-        We support Vimeo out of the box.
+
+We support Vimeo out of the box.
 
 You just need to log on, add Vimeo App:
 
@@ -23,9 +24,3 @@ You then can use this Vimeo video on your playlist or assign directly to screen 
 ![](https://support.optisigns.com/hc/article_attachments/15320186326547)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016254994
-        Section ID: 26324076807315
-        Updated At: 2025-09-04T18:00:23Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns
-    

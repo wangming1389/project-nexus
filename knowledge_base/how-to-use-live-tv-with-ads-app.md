@@ -1,5 +1,6 @@
 # How to use Live TV with Ads App
-        |  |
+
+|  |
 | --- |
 | **NOTE** |
 | This feature is available to subscribers with an **Engage plan** or above. |
@@ -64,9 +65,3 @@ You have created your Live TV with Ads app.
 You can assign it to your screens now and start promoting your business & increase your sales!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500006130902
-        Section ID: 26323864575507
-        Updated At: 2025-09-04T18:40:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-use-Live-TV-with-Ads-App
-    

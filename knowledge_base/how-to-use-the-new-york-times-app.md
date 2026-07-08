@@ -1,5 +1,6 @@
 # How to use the New York Times app
-        ### In this article, we'll explain how to use the Guardian News app on OptiSigns.
+
+### In this article, we'll explain how to use the Guardian News app on OptiSigns.
 
 * [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360040991534#WhatYouNeed)
 * [Creating a The New York Times News Asset](https://support.optisigns.com/hc/en-us/articles/360040991534#Creating)
@@ -69,9 +70,3 @@ After you've configured the New York Times News app to your liking, hit **Save**
 ## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360045121233
-        Section ID: 26324224269459
-        Updated At: 2025-10-10T19:47:31Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-use-the-New-York-Times-app
-    

@@ -3,7 +3,6 @@ import subprocess
 from scrape import main as scrape_main
 from index import main as index_main
 from chat import main as chat_main
-from compare import compare as compare_main
 from cleanup import cleanup as cleanup_main
 
 
@@ -28,7 +27,6 @@ def main():
             "scrape",
             "index",
             "chat",
-            "compare",
             "cleanup",
             "ui",
             "batch",
@@ -42,7 +40,6 @@ def main():
         "scrape": scrape_main,
         "index": index_main,
         "chat": chat_main,
-        "compare": compare_main,
         "cleanup": cleanup_main,
         "ui": ui_main,
         "batch": batch_main,

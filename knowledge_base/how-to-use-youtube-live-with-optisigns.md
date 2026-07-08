@@ -1,5 +1,6 @@
 # How to use YouTube Live with OptiSigns
-        There are 2 ways to use YouTube Live with OptiSigns.
+
+There are 2 ways to use YouTube Live with OptiSigns.
 
 1) Use a YouTube link that's already live, just like any other YouTube video link, once the live event is over, YouTube will automatically convert it to a normal video link and you still can use it normally.
 
@@ -14,9 +15,3 @@ A church is broadcasting their Sunday 9AM session on YouTube Live, the church al
 In this case, you should use our [YouTube Live Schedule app](https://support.optisigns.com/hc/en-us/articles/360060284174)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500002131621
-        Section ID: 26324076807315
-        Updated At: 2025-09-05T14:35:18Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500002131621-How-to-use-YouTube-Live-with-OptiSigns
-    

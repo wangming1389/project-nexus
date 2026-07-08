@@ -1,5 +1,6 @@
 # How to tell which Dropbox account that I linked to OptiSigns?
-        Quickest way is to sign out and sign in again with the right account.  
+
+Quickest way is to sign out and sign in again with the right account.  
  ![](https://support.optisigns.com/hc/article_attachments/360029344853)
 
 If you do want to know which account is connected to, go to your Dropbox account.
@@ -9,9 +10,3 @@ Click Settings, connected app, and see if it has "File Stack" there. We use File
 ![](https://support.optisigns.com/hc/article_attachments/360028527554)
 
 ![](https://support.optisigns.com/hc/article_attachments/360029344833)
-        ---
-        Article ID: 360019588654
-        Section ID: 26319441450131
-        Updated At: 2025-08-29T18:51:46Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns
-    

@@ -1,5 +1,6 @@
 # How to Create and Use Nested Playlists
-        ## Introduction
+
+## Introduction
 
 Sometimes, you need to re-use a playlist inside another playlist. This feature is called a nested playlist or sub-playlist.
 
@@ -47,9 +48,3 @@ If the child playlist duration is longer than this duration, it will get cut off
 If you set specific transition for playlist items in Global, this transition setting will remain.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360043621953
-        Section ID: 26319329063571
-        Updated At: 2025-09-04T20:17:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists
-    

@@ -1,5 +1,6 @@
 # Where to Buy OptiSigns Devices
-        |  |  |  |
+
+|  |  |  |
 | --- | --- | --- |
 | **OptiStick** | **Pro Player** | **ProMax Player** |
 | **US:**   * [Login and Order](https://app.optisigns.com/app/s/order-device) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-android-stick-player-2) | **US:**   * [Amazon.com](https://www.amazon.com/dp/B0DXX7YS7M?maas=maas_adg_AC5AAF2ED77206D312A3371F03F33017_afap_abs&ref_=aa_maas&tag=maas) (recommended) * [Login and Order](https://app.optisigns.com/app/s/order-device/pro-player) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-digital-signage-player) | **US:**   * [Login and Order](https://app.optisigns.com/app/s/order-device/promax-player) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-promax-signage-player) |
@@ -104,9 +105,3 @@ The OptiSigns ProMax Player has all the capabilities of a Pro Player, but also a
 **International Customers:**
 
 * [Log in & order from your account](https://app.optisigns.com/app/s/order-device/promax-player) - An additional $30 shipping fee will be levied, in addition to any relevant customs and tariff fees.
-        ---
-        Article ID: 32129032857875
-        Section ID: 26726383037715
-        Updated At: 2026-03-30T17:22:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices
-    

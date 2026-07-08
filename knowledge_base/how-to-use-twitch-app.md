@@ -1,5 +1,6 @@
 # How to use Twitch App
-        Twitch have grown to more than just a game streaming platform, you now can find music channels, talk shows, computer programming class, etc. on this platform.
+
+Twitch have grown to more than just a game streaming platform, you now can find music channels, talk shows, computer programming class, etc. on this platform.
 
 You can put your favorite Twitch channels on Digital Signs with OptiSigns' Twitch app.  
 You can show or hide chat bar with your channel as well. Here's an example how it would look with chat bar on:
@@ -41,9 +42,3 @@ You can assign the newly created instance to your screen by going to Screens, cl
 You can put the created social walls in a Playlist and/or Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360046859534
-        Section ID: 26324076807315
-        Updated At: 2025-09-05T14:57:13Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App
-    

@@ -1,5 +1,6 @@
 # How to Upload & Manage Your Files/ Assets
-        ## **Introduction:**
+
+## **Introduction:**
 
 This article will walk you through how to manage your files/ contents.  
 You can upload, search, preview, download, delete, add to playlists, replace thumbnails, duplicate assets, and replace assets.
@@ -84,9 +85,3 @@ You can drag files from your File Explorers or Finders here. Or connect with you
 ![](https://support.optisigns.com/hc/article_attachments/18804619527571)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016247974
-        Section ID: 26318828341267
-        Updated At: 2026-05-28T19:30:59Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets
-    

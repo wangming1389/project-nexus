@@ -1,5 +1,6 @@
 # How to use the MindMeister App
-        Mind map is highly visual, engaging way to organize & communicate your thoughts, create it with MindMeister and share on your Digital Signs.
+
+Mind map is highly visual, engaging way to organize & communicate your thoughts, create it with MindMeister and share on your Digital Signs.
 
 You can create Mind Meister app with OptiSigns.
 
@@ -45,9 +46,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created MindMeister in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500005889381
-        Section ID: 26324330971411
-        Updated At: 2025-08-28T20:06:43Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App
-    

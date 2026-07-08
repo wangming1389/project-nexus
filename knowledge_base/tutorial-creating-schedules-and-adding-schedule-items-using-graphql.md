@@ -1,5 +1,6 @@
 # Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL
-        Using GraphQL, it’s possible to create a schedule on OptiSigns, then add items to it and assign values to them. We’ll cover each of these steps in turn.
+
+Using GraphQL, it’s possible to create a schedule on OptiSigns, then add items to it and assign values to them. We’ll cover each of these steps in turn.
 
 **1. Creating a New Schedule**
 
@@ -180,9 +181,3 @@ Here, we’ve changed the repeat frequency from daily to weekly, and the start d
 **Previous Article - [Tutorial: Creating or Updating Website Assets Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL)**
 
 **Next Article - [Pagination](https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination)**
-        ---
-        Article ID: 36558834998291
-        Section ID: 4414558217235
-        Updated At: 2025-09-04T14:03:45Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL
-    

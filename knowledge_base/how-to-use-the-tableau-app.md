@@ -1,5 +1,6 @@
 # How to Use the Tableau App
-        ### In this article, we’ll show you how to set up and use the Tableau app to display Dashboards on digital signs.
+
+### In this article, we’ll show you how to set up and use the Tableau app to display Dashboards on digital signs.
 
 * [What You’ll Need](#WhatYouNeed)
 * [Step 1: Set Up OptiSigns as a Connected App in Tableau](#Step1)
@@ -192,9 +193,3 @@ There are a few critical points to note here.
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 39250660729747
-        Section ID: 26324330971411
-        Updated At: 2026-01-06T22:36:49Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App
-    

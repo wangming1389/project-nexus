@@ -1,5 +1,6 @@
 # How to Use the Microsoft Meeting Room App
-        * [What You'll Need](#WhatYouNeed)
+
+* [What You'll Need](#WhatYouNeed)
 * [Creating a Microsoft Meeting Room App](#Creating)
   + [(OPTIONAL) Allow Booking](#AllowBooking)
 * [Deploying a Microsoft Meeting Room App](#Deploying)
@@ -150,9 +151,3 @@ This administrator access is only needed for first time access. Once the OptiSig
 ### **That's all!**
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4406214738707
-        Section ID: 26324023523603
-        Updated At: 2026-03-25T21:28:34Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App
-    

@@ -1,5 +1,6 @@
 # Getting Started with Touch Screen Kiosks
-        ### The ability to turn your screens into engaging, interactive touch screen kiosks is one of Optisigns’ most powerful features. Here, we’ll show you the different options available and how to get your kiosks up and running fast.
+
+### The ability to turn your screens into engaging, interactive touch screen kiosks is one of Optisigns’ most powerful features. Here, we’ll show you the different options available and how to get your kiosks up and running fast.
 
 * [Types of Touch Screen Kiosks](#Types)  
   + [Kiosk Lite](#Lite)
@@ -214,9 +215,3 @@ Consider using Windows Group Policy or third-party tools to further restrict key
 You've successfully created a Kiosk design in OptiSigns. It can be edited at any time from the **Engage** tab. These Kiosk designs can be added to any existing content schedules or playlists.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com.](mailto:support@optisigns.com)
-        ---
-        Article ID: 31449657955347
-        Section ID: 26322303862419
-        Updated At: 2025-10-29T18:57:43Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks
-    

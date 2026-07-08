@@ -1,5 +1,6 @@
 # How to use Currency Exchange App
-        With OptiSigns, you can display up to date currency exchange rate on your digital signs.
+
+With OptiSigns, you can display up to date currency exchange rate on your digital signs.
 
 Data is updated every 15 min.
 
@@ -46,9 +47,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls of Playlists and Schedules too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049156234
-        Section ID: 26324377674003
-        Updated At: 2025-09-04T15:14:58Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-use-Currency-Exchange-App
-    

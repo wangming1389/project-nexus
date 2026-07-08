@@ -1,5 +1,6 @@
 # How to use published Google Slides with OptiSigns (old way)
-        This method still works, but we have implemented [new method to connect to your Google Slides](https://support.optisigns.com/hc/en-us/articles/360050642833).
+
+This method still works, but we have implemented [new method to connect to your Google Slides](https://support.optisigns.com/hc/en-us/articles/360050642833).
 
 [Google Slides](https://www.google.com/slides/about/) is a very popular ways to create and share your presentation. You can also use it on your Digital Signage screen. For more 5 creatives ideas on how to use Google Slides on Digital Signs, [click here](https://www.optisigns.com/).
 
@@ -108,9 +109,3 @@ Click Save
 If you make changes to the slides, and save them, the screen will updated every "Update Interval".
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016375573
-        Section ID: 26318933920019
-        Updated At: 2025-09-02T18:55:54Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016375573-How-to-use-published-Google-Slides-with-OptiSigns-old-way
-    

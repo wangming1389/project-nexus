@@ -1,5 +1,6 @@
 # Legacy DataSources
-        ### In this article, we’ll cover our Legacy DataSources - key-value pair formatting with Google Sheets or Microsoft 365 Excel
+
+### In this article, we’ll cover our Legacy DataSources - key-value pair formatting with Google Sheets or Microsoft 365 Excel
 
 * [How it Works and When to Use Legacy DataSources](#HowitWorks)
 * [Creating Data Mapping Elements](#Creating)
@@ -117,9 +118,3 @@ Some best practices:
 ### **That’s all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42915219118739
-        Section ID: 42924355604627
-        Updated At: 2025-09-04T16:58:08Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources
-    

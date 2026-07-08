@@ -1,5 +1,6 @@
 # Show/Hide downloading status on your Player
-        With Android, Fire TV, Windows, Linux, and Raspberry Pi players, you can set to show/hide downloads.
+
+With Android, Fire TV, Windows, Linux, and Raspberry Pi players, you can set to show/hide downloads.
 
 When the player is downloading video/images, it will show the download status like this:
 
@@ -22,9 +23,3 @@ Or on the player, you can open Side Menu -> Advanced -> and uncheck Show Downloa
 That's it!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at[support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 12947300131731
-        Section ID: 26319049025683
-        Updated At: 2025-09-04T15:32:11Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player
-    

@@ -1,5 +1,6 @@
 # What types of files are supported?
-        OptiSigns supports a wide range of files for playback. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/360016247974)** if you need to know how to upload files. All supported files are:
+
+OptiSigns supports a wide range of files for playback. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/360016247974)** if you need to know how to upload files. All supported files are:
 
 **All common images files:**
 
@@ -62,9 +63,3 @@ Televisions compatible with OptiSigns are of the following resolutions:
   + 8K UHD (7680 × 4320 progressive scan)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016342373
-        Section ID: 26324586060947
-        Updated At: 2025-09-08T14:04:57Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported
-    

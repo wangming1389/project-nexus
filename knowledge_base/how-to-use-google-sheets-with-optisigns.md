@@ -1,5 +1,6 @@
 # How to use Google Sheets with OptiSigns
-        ### Google Sheets is among one of the most popular spreadsheet applications available online. In OptiSigns, you can set up a Google Sheets app so that whenever changes are made on your Sheet it will automatically show up on your screen.
+
+### Google Sheets is among one of the most popular spreadsheet applications available online. In OptiSigns, you can set up a Google Sheets app so that whenever changes are made on your Sheet it will automatically show up on your screen.
 
 |  |
 | --- |
@@ -141,9 +142,3 @@ Explore what else you can do with Google Sheets below:
 * [How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets](https://support.optisigns.com/hc/en-us/articles/29979283289235)
 
 If you have any questions, please reach out to our Customer Support team at support@optisigns.com
-        ---
-        Article ID: 360056977214
-        Section ID: 26324064516755
-        Updated At: 2025-12-12T21:10:43Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns
-    

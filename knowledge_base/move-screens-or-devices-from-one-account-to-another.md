@@ -1,5 +1,6 @@
 # Move Screens or Devices from One Account to Another
-        ### In this article, we will walk you through the process of moving a screen or device from one OptiSigns account to another.
+
+### In this article, we will walk you through the process of moving a screen or device from one OptiSigns account to another.
 
 * [Step 1: Unpair the Screen from Current Account](#Step1)
   + [Using OptiSigns Player (With Device Access)](#Player)
@@ -75,9 +76,3 @@ Your screen will now be linked to this account.
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 27458261258387
-        Section ID: 27458218745235
-        Updated At: 2025-08-29T17:03:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another
-    

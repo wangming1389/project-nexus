@@ -1,5 +1,6 @@
 # How to Use Microsoft Outlook Calendar with OptiSigns
-        * [What You'll Need](#WhatYouNeed)
+
+* [What You'll Need](#WhatYouNeed)
 * [Creating a Microsoft Outlook Calendar App](#Creating)
 * [Deploying a Microsoft Outlook Calendar App](#Deploying)
 * [Frequently Asked Questions](#FAQs)
@@ -155,9 +156,3 @@ Now, the appropriate calendar should display once it's been recreated in OptiSig
 ### That's all!
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360036250853
-        Section ID: 26324023523603
-        Updated At: 2026-03-25T21:28:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns
-    

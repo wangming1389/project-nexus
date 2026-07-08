@@ -1,5 +1,6 @@
 # How to Design Kiosk Apps Using Kiosk Designer Pro
-        ### In this guide, we'll show you how to effortlessly customize templates into interactive kiosk apps with just a few clicks, perfectly tailored to your unique requirements.
+
+### In this guide, we'll show you how to effortlessly customize templates into interactive kiosk apps with just a few clicks, perfectly tailored to your unique requirements.
 
 * [About OptiSigns Kiosk App Functionality](#about)
 * [Setting Up a Kiosk App Using Kiosk Designer Pro](#Setting)
@@ -136,9 +137,3 @@ Click **Save**.
 You have successfully created your kiosk app using Kiosk Designer Pro, and it is now ready to be used.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 15313086319763
-        Section ID: 26322303862419
-        Updated At: 2025-11-05T17:31:50Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro
-    

@@ -1,5 +1,6 @@
 # Engage Plan - FAQs
-        **What is OptiSigns Engage Plan?**
+
+**What is OptiSigns Engage Plan?**
 
 Engage is a new suite of apps and features designed to help you turn screens into two-way communications. It enables the creation of engaging, impressive, and interactive connections with your customers.
 
@@ -45,9 +46,3 @@ Additional SMS are billed at $0.025 per message
 [**Getting Started with Touch Screen Kiosks**](https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks#Getting)
 
 [**Designing Kiosk Apps Using Kiosk Designer Pro**](https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro)
-        ---
-        Article ID: 23565267463315
-        Section ID: 26322203193235
-        Updated At: 2026-06-29T19:25:18Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs
-    

@@ -112,14 +112,7 @@ def article_to_markdown(article: dict) -> str:
         heading_style="ATX",
     )
 
-    return f"""# {title}
-        {markdown_body}
-        ---
-        Article ID: {article.get("id")}
-        Section ID: {article.get("section_id")}
-        Updated At: {article.get("updated_at")}
-        Article URL: {article.get("html_url")}
-    """
+    return f"# {title}\n\n{markdown_body}"
 
 
 def build_metadata(article: dict) -> dict:

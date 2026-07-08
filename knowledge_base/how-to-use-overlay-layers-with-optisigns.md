@@ -1,5 +1,6 @@
 # How to use Overlay layers with OptiSigns
-        With OptiSigns SplitScreen, you can overlay items on top of each other.  
+
+With OptiSigns SplitScreen, you can overlay items on top of each other.  
 In example below we overlay OptiSigns Logo and a QR Code on top of the screen.  
 As the content play, the logo keep staying on top.  
 This is particular useful if you want to overlay logo, QR Codes, but you can overlay any content.
@@ -23,9 +24,3 @@ Tips: use a transparent PNG image if you want to have transparent background.
 Note: Transparent PNG background currently only work for Windows, Linux, Mac, Raspberry Pi. On Android & FireTV it will show as black background.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360050602413
-        Section ID: 26499750035603
-        Updated At: 2025-09-02T19:14:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-use-Overlay-layers-with-OptiSigns
-    

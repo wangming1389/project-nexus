@@ -1,5 +1,6 @@
 # How To Create and Use Operational Schedules (HDMI-CEC, RS-232)
-        ### Do you want your screen to automatically turn on and off according to a schedule to save time and energy? Operational Schedule, an all-in-one feature, makes this easier than ever before!
+
+### Do you want your screen to automatically turn on and off according to a schedule to save time and energy? Operational Schedule, an all-in-one feature, makes this easier than ever before!
 
 |  |
 | --- |
@@ -121,9 +122,3 @@ With that, you've created your Operational Schedule. This schedule can be ***reu
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 28598173096723
-        Section ID: 27458218745235
-        Updated At: 2026-06-02T22:08:42Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232
-    

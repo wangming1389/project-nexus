@@ -1,5 +1,6 @@
 # How to Order a Preconfigured OptiSigns Android Player Device
-        OptiSigns devices are designed for easy, fast deployment. To support it, OptiSigns Android Sticks can be ordered with pre-configuration. You can order your devices directly through our portal, which will pair it to your account and pre-configure the device with screen name, Wi-Fi, and time zone.  **Please not that pre-configuration is available for US customers only.**
+
+OptiSigns devices are designed for easy, fast deployment. To support it, OptiSigns Android Sticks can be ordered with pre-configuration. You can order your devices directly through our portal, which will pair it to your account and pre-configure the device with screen name, Wi-Fi, and time zone.  **Please not that pre-configuration is available for US customers only.**
 
 |  |
 | --- |
@@ -34,9 +35,3 @@ You can also order devices through other channels:
 * Buy from [Amazon.com](https://links.optisigns.com/optistick-amazon-us) ([CA](https://links.optisigns.com/optistick-amazon-ca), [UK](https://links.optisigns.com/optistick-amazon-uk), [DE](https://links.optisigns.com/optistick-amazon-de))
 
 #### That's it! Now, you can bring your screens to life with OptiSigns!
-        ---
-        Article ID: 31960461758611
-        Section ID: 26319049025683
-        Updated At: 2026-06-11T17:48:29Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device
-    

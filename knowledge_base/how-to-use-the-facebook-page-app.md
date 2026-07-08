@@ -1,5 +1,6 @@
 # How to Use the Facebook Page App
-        ### In this article, we'll explain how to set up a Facebook app to display information off Facebook on your digital signs.
+
+### In this article, we'll explain how to set up a Facebook app to display information off Facebook on your digital signs.
 
 * [What You'll Need](#WhatYouNeed)
 * [Setting Up a Facebook App](#SettingUp)
@@ -118,9 +119,3 @@ In order to display multiple Facebook pages, you can create individual page asse
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360023848334
-        Section ID: 26324141467539
-        Updated At: 2026-02-02T17:17:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App
-    

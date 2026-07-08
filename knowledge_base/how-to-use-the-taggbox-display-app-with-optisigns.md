@@ -1,5 +1,6 @@
 # How to use the Taggbox Display app with OptiSigns
-        With the Taggbox Display, you can do these:
+
+With the Taggbox Display, you can do these:
 
 * Collect Content From 15+ Social Platforms, like Twitter, Instagram, Facebook, Linkedin ... etc.
 * Customize & Moderate Your Display Wall
@@ -45,9 +46,3 @@ You can assign the newly created Taggbox Display asset to your screen by going t
 You can put the Taggbox Display wall to a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500009343862
-        Section ID: 26324141467539
-        Updated At: 2025-09-04T15:16:41Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns
-    

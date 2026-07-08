@@ -1,5 +1,6 @@
 # How to use Follow Us App
-        This article will guide you through how to create and use Follow Us Wall app.
+
+This article will guide you through how to create and use Follow Us Wall app.
 
 This app is useful to encourage viewers to follow you on social media platform, and increase your follower base.
 
@@ -47,9 +48,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049875794
-        Section ID: 26324141467539
-        Updated At: 2026-07-05T19:15:39Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App
-    

@@ -1,5 +1,6 @@
 # How to use Airtable with OptiSigns
-        *Airtable* is a platform for building collaborative applications. You can display it on your Digital Signage screen with the OptiSigns.
+
+*Airtable* is a platform for building collaborative applications. You can display it on your Digital Signage screen with the OptiSigns.
 
 You can view an example here:  
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/9392530973331)
@@ -41,9 +42,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the Airtalbe app in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 9392587446675
-        Section ID: 26324441989651
-        Updated At: 2025-08-29T20:20:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns
-    

@@ -1,5 +1,6 @@
 # How to Use the CountUp App
-        ### In this article, we'll explain how to use the CountUp app on OptiSigns.
+
+### In this article, we'll explain how to use the CountUp app on OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating a CountUp Asset](#Creating)
@@ -105,9 +106,3 @@ After you've configured the CountUp app to your liking, hit **Save**. Your Count
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360041222994
-        Section ID: 26324141467539
-        Updated At: 2026-05-05T17:07:53Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App
-    

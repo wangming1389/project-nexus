@@ -1,5 +1,6 @@
 # How to Use Microsoft PowerPoint with OptiSigns
-        ### Microsoft PowerPoint is an incredibly popular way to create and share your presentation. With OptiSigns, you can bring these presentations to your digital screens in a variety of ways.
+
+### Microsoft PowerPoint is an incredibly popular way to create and share your presentation. With OptiSigns, you can bring these presentations to your digital screens in a variety of ways.
 
 ---
 
@@ -136,9 +137,3 @@ To use Microsoft single sign-on, sign in through [app.optisigns.com](http://app.
 ## That's it!
 
 You've now successfully uploaded your PowerPoint file to OptiSigns!
-        ---
-        Article ID: 4414355658899
-        Section ID: 26324023523603
-        Updated At: 2026-02-05T17:57:12Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns
-    

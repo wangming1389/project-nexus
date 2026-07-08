@@ -1,5 +1,6 @@
 # How to Display a Snowflake Dashboard with OptiSigns
-        * [What You'll Need](#WhatYouNeed)
+
+* [What You'll Need](#WhatYouNeed)
 * [Creating a Snowflake App](#CreateanApp)
 * [Deploying a Snowflake App](#Deploying)
 * [Frequently Asked Questions](#FAQs)
@@ -126,9 +127,3 @@ Now your Snowflake asset can be displayed securely.
 ### That's all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting Snowflake to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 53028011485715
-        Section ID: 26588648205715
-        Updated At: 2026-07-01T21:59:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns
-    

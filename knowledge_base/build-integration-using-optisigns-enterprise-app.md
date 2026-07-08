@@ -1,5 +1,6 @@
 # Build Integration Using OptiSigns Enterprise App
-        The digital signage use case for enterprise user is complex. There may be needs to integrate with various systems and have those systems to initiate a process to send data and control the screen.Or in some cases, there may be a need even to build a custom single purpose app used to operate the screens. OptiSigns Enterprise App is specifically designed for these types of real-time enterprise data integrations. With OptiSigns Enterprise app, you can easily achieve:
+
+The digital signage use case for enterprise user is complex. There may be needs to integrate with various systems and have those systems to initiate a process to send data and control the screen.Or in some cases, there may be a need even to build a custom single purpose app used to operate the screens. OptiSigns Enterprise App is specifically designed for these types of real-time enterprise data integrations. With OptiSigns Enterprise app, you can easily achieve:
 
 * Load a custom-designed page on the screen as needed and have data points integrated with any applications that need to control the screen.
 * Embed and build the integration with your enterprise applications and allow you to send freeform data to the screens.
@@ -77,9 +78,3 @@ On the screen, you will see those data sent from the demo Control Center are dis
 This is how you can build integration with OptiSigns Enterprise App.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 13320135306515
-        Section ID: 26319305433875
-        Updated At: 2025-08-28T20:24:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App
-    

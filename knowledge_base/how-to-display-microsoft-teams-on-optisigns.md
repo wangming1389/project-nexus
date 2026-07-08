@@ -1,5 +1,6 @@
 # How to display Microsoft Teams on OptiSigns
-        This app is to display Microsoft Teams Chat, we have other apps for [Microsoft Team Meeting](https://support.optisigns.com/hc/en-us/articles/4404053129619) or [Team Live event](https://support.optisigns.com/hc/en-us/articles/4411530012307)
+
+This app is to display Microsoft Teams Chat, we have other apps for [Microsoft Team Meeting](https://support.optisigns.com/hc/en-us/articles/4404053129619) or [Team Live event](https://support.optisigns.com/hc/en-us/articles/4411530012307)
 
 You can display your Microsoft Teams Channels on your digital signs screen with OptiSigns.
 
@@ -54,9 +55,3 @@ This administrator access is only needed for first time access. Once the OptiSig
 Congratulation, you have created Microsoft Teams asset, now you can assign it to your screens, playlist, schedule like any other assets.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4417940565139
-        Section ID: 26324023523603
-        Updated At: 2025-09-04T18:24:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns
-    

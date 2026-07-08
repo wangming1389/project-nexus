@@ -1,5 +1,6 @@
 # How to use RTSP Streams on OptiSigns Devices
-        #### Nowadays, RTSP Camera Streaming is popular. You can display your RTSP Stream on your Digital Screen via OptiSigns.
+
+#### Nowadays, RTSP Camera Streaming is popular. You can display your RTSP Stream on your Digital Screen via OptiSigns.
 
 This article will guide you through how to create and use the RTSP Stream app on the OptiSigns devices.
 
@@ -44,9 +45,3 @@ You can change the wall at any time by clicking on it in the Files/Assets tab.
 You can put the walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 8098889840531
-        Section ID: 26318933920019
-        Updated At: 2026-03-16T15:03:03Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices
-    

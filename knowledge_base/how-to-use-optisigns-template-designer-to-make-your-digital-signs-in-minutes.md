@@ -1,5 +1,6 @@
 # How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes
-        |  |
+
+|  |
 | --- |
 | **Important:** Designer 2.0 is currently the default option, but you can still go back to Designer 1.0 by clicking the "Use Designer 1.0" button in the top-right corner. |
 |  |
@@ -149,9 +150,3 @@ This will make a copy of your current design and set it as template. Now other u
 |  |  |
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4404151402899
-        Section ID: 26324589379091
-        Updated At: 2026-06-20T07:00:26Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes
-    

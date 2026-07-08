@@ -1,5 +1,6 @@
 # Roku Release Notes & Limitation
-        Updated Sep 2023. After Roku OS 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.
+
+Updated Sep 2023. After Roku OS 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.
 
 Roku platform has a lot of restrictions. **In short, if you just need to display static menus or simple slideshows, and don't mind spending sometime setting it up, then it's OK.**
 
@@ -35,9 +36,3 @@ In summary, currently, you can reliably use the OptiSigns app on Roku to display
 Other features will not function correctly due to the limitations of the Roku platform.
 
 If you have further questions, or feedback please send us an email at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360042143333
-        Section ID: 26319632936723
-        Updated At: 2026-06-02T20:21:45Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation
-    

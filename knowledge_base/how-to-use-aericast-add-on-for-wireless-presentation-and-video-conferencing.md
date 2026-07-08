@@ -1,5 +1,6 @@
 # How to use AeriCast Add-on for Wireless Presentation and Video Conferencing
-        With the AeriCast add-on, you can turn any conference room TV into a digital sign. Aericast also allows user to present from their laptops to those screens without needing cables, dongles or extra hardware.
+
+With the AeriCast add-on, you can turn any conference room TV into a digital sign. Aericast also allows user to present from their laptops to those screens without needing cables, dongles or extra hardware.
 
 With a USB webcam, mic and speakers connected to the OptiSigns Windows Player, users can wirelessly link these devices and use them in the video conference.
 
@@ -86,9 +87,3 @@ You have configured the Aericast Wireless Presentation add-on.
 You can change these settings by clicking on it in the **Files/Assets** tab.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 14502723487379
-        Section ID: 26500520147347
-        Updated At: 2025-09-04T16:49:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing
-    

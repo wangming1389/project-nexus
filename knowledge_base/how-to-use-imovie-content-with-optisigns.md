@@ -1,5 +1,6 @@
 # How to use iMovie content with OptiSigns?
-        All you need to do is export iMovie to. an MP4 video file and upload it to OptiSigns.
+
+All you need to do is export iMovie to. an MP4 video file and upload it to OptiSigns.
 
 To export iMovie to MP4:
 
@@ -16,9 +17,3 @@ In the pop-up window "Save exported file as...", after entitling the exported vi
 ![movie-to-mpeg-4](https://20629229.fs1.hubspotusercontent-na1.net/hubfs/20629229/movie-to-mpeg-4.jpg)
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016494933
-        Section ID: 26319006646035
-        Updated At: 2025-08-29T18:55:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016494933-How-to-use-iMovie-content-with-OptiSigns
-    

@@ -1,5 +1,6 @@
 # Get Started with OptiSigns API
-        The easiest way to get started with the development is to use the provided web-based GraphQL IDE.  You can access it from here.  
+
+The easiest way to get started with the development is to use the provided web-based GraphQL IDE.  You can access it from here.  
 <https://graphql-gateway.optisigns.com/graphql>
 
 You also will need API key to provide authorization to your account. You can learn how to get your API key from [here](https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key).
@@ -64,9 +65,3 @@ query{
 **Previous Article - [Generate and Manage API Key](https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key)**
 
 **Next Article - [GraphQL API Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen)**
-        ---
-        Article ID: 4414563863827
-        Section ID: 4414558217235
-        Updated At: 2025-11-06T16:52:11Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started-with-OptiSigns-API
-    

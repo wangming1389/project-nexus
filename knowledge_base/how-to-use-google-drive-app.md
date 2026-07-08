@@ -1,5 +1,6 @@
 # How to use Google Drive App
-        With OptiSigns, you can quickly put images, videos from your Google Drive on your Digital Signs screens  by using Google Drive App. The app will create a playlist for files in your Google Drive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal.
+
+With OptiSigns, you can quickly put images, videos from your Google Drive on your Digital Signs screens  by using Google Drive App. The app will create a playlist for files in your Google Drive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal.
 
 With the OptiSigns Google Drive app you can:
 
@@ -81,9 +82,3 @@ You can also force refresh, sync by clicking the Refresh Data button.
 * To ensure good performance of the app, max file size is limit at 100MB, and max number of files supported in folder is 200. If you have big video files, it's better to upload directly to OptiSigns; and if you have more than 200 files, you can split them up in multiple Google Drive folders.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049518313
-        Section ID: 26324064516755
-        Updated At: 2025-08-29T19:49:24Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-use-Google-Drive-App
-    

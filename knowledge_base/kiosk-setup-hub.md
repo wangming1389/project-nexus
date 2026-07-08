@@ -1,5 +1,6 @@
 # Kiosk Setup Hub
-        ### Welcome to the OptiKiosk Setup Help Center.
+
+### Welcome to the OptiKiosk Setup Help Center.
 
 OptiKiosks make digital signage easy, reliable, and powerful. Each kiosk comes pre-configured for use with OptiSigns and can be managed from anywhere.
 
@@ -44,9 +45,3 @@ Very large interactive free-standing display.
 | --- | --- |
 | **OptiKiosk 10 - Priced at $199.99 USD** | **OptiKiosk 32 - Priced at $799.99 USD** |
 | **US:**   * [**Amazon**](https://www.amazon.com/dp/B0FM8KFZP2) * [**Shopify**](https://shop.optisigns.com/products/optisound-music-player-all-in-one-background-music-digital-signage-solution) | **US:**   * [**Amazon**](https://www.amazon.com/dp/B0FGKMVRP7) * [**Shopify**](https://shop.optisigns.com/products/optikiosk-32-32-touchscreen-digital-signage-kiosk-with-optisigns-software-wall-mount-stand-variants) |
-        ---
-        Article ID: 44650391786131
-        Section ID: 26726383037715
-        Updated At: 2026-03-30T17:22:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub
-    

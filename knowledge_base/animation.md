@@ -1,5 +1,6 @@
 # Animation
-        ### In this article, we’ll go over how to add Animations to any part of your design.
+
+### In this article, we’ll go over how to add Animations to any part of your design.
 
 * [How to Add Animations to Design Elements](https://support.optisigns.com/hc/en-us/articles/undefined#AddAnimations)
   + [Page Animations](#PageAnimations)
@@ -162,9 +163,3 @@ By contrast, Windows and Linux devices or OptiSigns players can handle significa
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42305104960147
-        Section ID: 42593092881043
-        Updated At: 2025-09-02T19:02:02Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42305104960147-Animation
-    

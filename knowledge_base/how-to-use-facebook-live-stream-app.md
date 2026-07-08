@@ -1,5 +1,6 @@
 # How to use Facebook Live Stream App
-        This article will guide you through how to create and use Facebook Live Stream app.
+
+This article will guide you through how to create and use Facebook Live Stream app.
 
 You can push a Facebook Live streams to all of your digital signs.
 
@@ -49,9 +50,3 @@ If you are producing live streams on Facebook, you can create, schedule the link
 More information on how to schedule live stream here: <https://www.facebook.com/business/help/2087325741287572?id=1123223941353904>
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360048660813
-        Section ID: 26324141467539
-        Updated At: 2025-09-02T18:30:50Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App
-    

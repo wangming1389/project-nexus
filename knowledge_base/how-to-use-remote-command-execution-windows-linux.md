@@ -1,5 +1,6 @@
 # How to use Remote Command Execution - Windows/Linux
-        ### In this article, we'll show you how to use the OptiSigns Portal to Execute Remote Commands on your Windows and Linux Devices.
+
+### In this article, we'll show you how to use the OptiSigns Portal to Execute Remote Commands on your Windows and Linux Devices.
 
 * [Enable Remote Command Feature on Account](#Enable)
 * [How to Execute Remote Commands](#Howto)
@@ -75,9 +76,3 @@ Go to the side menu on the OptiSigns player, click **Advanced Options**, and you
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4408658251027
-        Section ID: 26319268269203
-        Updated At: 2025-09-05T14:59:20Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux
-    

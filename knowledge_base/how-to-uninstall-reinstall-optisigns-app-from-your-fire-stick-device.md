@@ -1,5 +1,6 @@
 # How to uninstall/reinstall OptiSigns app from your Fire Stick device
-        Sometimes, if you experiencing issues with OptiSigns app, a common way to fix is to reinstall the app.  
+
+Sometimes, if you experiencing issues with OptiSigns app, a common way to fix is to reinstall the app.  
 In this guide, we will walk you through end to end process to uninstall OptiSigns app from your Amazon Fire Stick device.  
 Here is a quick video showing you how to uninstall the reinstall the OptiSigns app on your Fire Stick:
 
@@ -54,9 +55,3 @@ Once the app is installed, launch it.
 You're ready to go.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360053198573
-        Section ID: 26319570450195
-        Updated At: 2025-09-02T19:06:34Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device
-    

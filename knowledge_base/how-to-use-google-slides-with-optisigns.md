@@ -1,5 +1,6 @@
 # How to Use Google Slides with OptiSigns
-        ### In this article, we'll show how to use Google Slides with OptiSigns.
+
+### In this article, we'll show how to use Google Slides with OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating a Google Slide Asset on OptiSigns](#CreatingAsset)
@@ -160,9 +161,3 @@ Whew!
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360050642833
-        Section ID: 26324064516755
-        Updated At: 2026-01-31T15:45:41Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns
-    

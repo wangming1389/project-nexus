@@ -1,5 +1,6 @@
 # How to display SmartSheet report on OptiSigns
-        Smartsheet is a popular SaaS platform for project & work management.
+
+Smartsheet is a popular SaaS platform for project & work management.
 
 With OptiSigns, you can easily display your Smartsheet reports, dashboards on the screen.
 
@@ -48,9 +49,3 @@ To get the Smartsheet report URL, you can go to your Smartsheet report and click
 Congratulation, you have created a Smartsheet asset, now you can assign it to your screens, playlist, schedule like any other assets.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 8399990754195
-        Section ID: 26324330971411
-        Updated At: 2025-09-04T18:50:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-display-SmartSheet-report-on-OptiSigns
-    

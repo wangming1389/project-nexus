@@ -1,5 +1,6 @@
 # How to install OptiSigns on Samsung Tizen Smart TVs
-        While OptiSigns app is available on Samsung Tizen app store, we still recommend to use a dedicated player like [OptiSigns Android Player](https://links.optisigns.com/szzk) due to following reasons:
+
+While OptiSigns app is available on Samsung Tizen app store, we still recommend to use a dedicated player like [OptiSigns Android Player](https://links.optisigns.com/szzk) due to following reasons:
 
 * Samsung Tizen does not allow apps to autostart, include Digital Signage app like OptiSigns, so not really suitable for digital signage unless your team can turn on/off TV every day as part of their schedule
 * Low local storage, usually only a few hundreds MBs available. It's good for streaming Youtube, Netflix, but for Digital Signage you want your content to be downloaded and cached locally to ensure playback even when there’s network interruption and save bandwidths.
@@ -42,9 +43,3 @@ Pair the screen using your screen's code and start assigning content to it.
 For detailed steps check [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 14726570281875
-        Section ID: 26318650413843
-        Updated At: 2025-09-02T19:37:57Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs
-    

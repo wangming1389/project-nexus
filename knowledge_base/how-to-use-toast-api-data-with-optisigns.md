@@ -1,5 +1,6 @@
 # How to use Toast API data with OptiSigns
-        ### Toast is one of the most common Point-of-Sale systems in North America. In this article, we'll explain how to set up API integration between your Toast system and OptiSigns.
+
+### Toast is one of the most common Point-of-Sale systems in North America. In this article, we'll explain how to set up API integration between your Toast system and OptiSigns.
 
 * [Step 1: Preparation](#Step1)
 * [Step 2: Authentication to Toast API](#Step2)
@@ -106,9 +107,3 @@ For a step-by-step guide and more examples, please see our article on [Building 
 ## That's all!
 
 You have successfully retrieved data from Toast and displayed it on the screens using OptiSigns.
-        ---
-        Article ID: 31113088917907
-        Section ID: 26504586292499
-        Updated At: 2025-09-02T20:24:12Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns
-    

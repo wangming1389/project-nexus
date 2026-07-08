@@ -1,5 +1,6 @@
 # How to Create and Use the Split Screen App
-        The Split Screen feature in OptiSigns allows you to divide your screen into different zones or regions, enabling a more dynamic display of content. This feature is supported on all platforms except Roku and Apple TV. Commonly referred to as Split Screens, Screen Zones, or Screen Layouts, this guide will walk you through the steps to create and use the split screen app.
+
+The Split Screen feature in OptiSigns allows you to divide your screen into different zones or regions, enabling a more dynamic display of content. This feature is supported on all platforms except Roku and Apple TV. Commonly referred to as Split Screens, Screen Zones, or Screen Layouts, this guide will walk you through the steps to create and use the split screen app.
 
 ![](https://support.optisigns.com/hc/article_attachments/360041995893)
 
@@ -127,9 +128,3 @@ If you want to display each slide for 10 seconds, you will need to set your dura
 ## Additional Information
 
 For any additional questions, concerns, or feedback about OptiSigns, feel free to reach out to our support team at support@optisigns.com.
-        ---
-        Article ID: 360026559573
-        Section ID: 26324687977491
-        Updated At: 2026-02-04T16:37:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App
-    

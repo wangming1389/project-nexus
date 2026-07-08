@@ -1,5 +1,6 @@
 # List of Supported Cities for Weather Wall City Themes
-        ### To enhance the user experience with the Weather Wall app, we have added the City Themes feature.
+
+### To enhance the user experience with the Weather Wall app, we have added the City Themes feature.
 
 It displays images related to the city in the Location field, making your experience more personalized and engaging.
 
@@ -55,9 +56,3 @@ Below is a full list of cities we’re currently supporting:
 | Zurich, Switzerland | Vienna, Austria |
 | Stockholm, Sweden | Barcelona, Spain |
 | Amsterdam, Netherlands | *More coming soon...* |
-        ---
-        Article ID: 29465595849235
-        Section ID: 26323968117139
-        Updated At: 2026-04-08T13:41:37Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes
-    

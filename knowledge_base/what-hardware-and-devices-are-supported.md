@@ -1,5 +1,6 @@
 # What hardware and devices are supported?
-        ### You can run OptiSigns on any:
+
+### You can run OptiSigns on any:
 
 * OptiSigns Devices ([Where to Buy](https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices))
   + [OptiStick](https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiSigns-OptiStick-Digital-Signage-Player)
@@ -61,9 +62,3 @@
 ---
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360021855653
-        Section ID: 360003143773
-        Updated At: 2026-01-07T16:05:26Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported
-    

@@ -1,5 +1,6 @@
 # How to use Simple Calendar App
-        Simple Calendar App is a simple way to display a calendar for your office.  
+
+Simple Calendar App is a simple way to display a calendar for your office.  
 You can also add a simple message on the calendar wall as well.  
 Below is an example:
 
@@ -41,9 +42,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360041481553
-        Section ID: 26324342893715
-        Updated At: 2025-08-29T18:57:26Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-use-Simple-Calendar-App
-    

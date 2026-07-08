@@ -1,5 +1,6 @@
 # Connect Microsoft Teams Rooms to OptiSigns Digital Signage
-        Turn idle Microsoft Teams Rooms into digital signage. When a room is between meetings, OptiSigns plays your assigned content — announcements, dashboards, branding, menus — right on the room display, and clears it the instant a meeting starts.
+
+Turn idle Microsoft Teams Rooms into digital signage. When a room is between meetings, OptiSigns plays your assigned content — announcements, dashboards, branding, menus — right on the room display, and clears it the instant a meeting starts.
 
 This guide covers the **two ways to connect a Teams Room to OptiSigns**, so you can pick the one that fits how your organization works.
 
@@ -159,9 +160,3 @@ Activating signage on a Teams Room uses **one screen license** from your OptiSig
 * Email: [support@optisigns.com](mailto:support@optisigns.com)
 * More guides: [support.optisigns.com](https://support.optisigns.com)
 * Related: [Connect Zoom Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage) · [Connect Cisco Webex Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage)
-        ---
-        Article ID: 52350277262483
-        Section ID: 26324330971411
-        Updated At: 2026-06-24T18:39:16Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage
-    

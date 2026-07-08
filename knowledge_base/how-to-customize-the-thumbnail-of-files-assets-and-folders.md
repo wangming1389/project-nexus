@@ -1,5 +1,6 @@
 # How to Customize the Thumbnail of Files, Assets, and Folders
-        Take control of your files, assets, and folders by personalizing their thumbnails. By adding your personal touch to thumbnails, you can enhance your browsing experience, effortlessly spot and distinguish specific items, and uphold a polished and cohesive visual identity.
+
+Take control of your files, assets, and folders by personalizing their thumbnails. By adding your personal touch to thumbnails, you can enhance your browsing experience, effortlessly spot and distinguish specific items, and uphold a polished and cohesive visual identity.
 
 ## **Let's jump in and get started:**
 
@@ -36,9 +37,3 @@ Once the upload is complete, your thumbnail will be updated.
 You have successfully updated your thumbnail, and it is now ready to go!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 18399492388371
-        Section ID: 26319069331219
-        Updated At: 2025-09-04T18:20:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/18399492388371-How-to-Customize-the-Thumbnail-of-Files-Assets-and-Folders
-    

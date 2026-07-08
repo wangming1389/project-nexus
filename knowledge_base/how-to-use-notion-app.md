@@ -1,5 +1,6 @@
 # How to use Notion App
-        To put Notion Note on your Digital Signs.  
+
+To put Notion Note on your Digital Signs.  
 Go to Notion.com on your browser, open the note.  
 Click Share and Copy Share to web URL.
 
@@ -36,9 +37,3 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the apps in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 5119724468371
-        Section ID: 26324330971411
-        Updated At: 2025-08-29T21:52:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App
-    

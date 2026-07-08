@@ -1,5 +1,6 @@
 # Advanced: Enforce SSO login for your account
-        ### In this article, we'll explain how to enforce SSO logins for your OptiSigns account.
+
+### In this article, we'll explain how to enforce SSO logins for your OptiSigns account.
 
 * [Setting Up Basic SSO Enforcement (Microsoft, Facebook, Google)](#BasicSSO)
 * [Setting Up SAML SSO Enforcement (MS Entra ID, Okta, OneLogin, Google Workspace)](#SAML)
@@ -57,9 +58,3 @@ Please follow one of these guides to set up SSO via SAML.
 ### **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360061576673
-        Section ID: 26319169224851
-        Updated At: 2025-09-02T20:14:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account
-    

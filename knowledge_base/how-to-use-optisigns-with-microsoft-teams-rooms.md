@@ -1,5 +1,6 @@
 # How to Use OptiSigns with Microsoft Teams Rooms
-        ### In this article, we will explain how to set up OptiSigns for use with Microsoft Teams Rooms’ new Digital Signage option.
+
+### In this article, we will explain how to set up OptiSigns for use with Microsoft Teams Rooms’ new Digital Signage option.
 
 * [Prerequisites](#Prerequisites)
 * [Configure the Source within Teams Rooms Pro Management Portal and OptiSigns Web Player](#Configure)
@@ -131,9 +132,3 @@ This Virtual Room app will now be saved as an Asset on OptiSigns. By clicking on
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 36911639377683
-        Section ID: 26324023523603
-        Updated At: 2025-09-04T18:42:32Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms
-    

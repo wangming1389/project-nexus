@@ -1,5 +1,6 @@
 # Advanced Security: Managing User Roles
-        ### In this article, we will go over the ability to manage user roles in OptiSigns for improved security.
+
+### In this article, we will go over the ability to manage user roles in OptiSigns for improved security.
 
 * [Accessing User Management](#Accessing)
 * [Default User Roles](#Default)
@@ -153,9 +154,3 @@ Now these members can be removed from this Team, and have their user permissions
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360046356113
-        Section ID: 26319169224851
-        Updated At: 2026-02-04T16:01:54Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles
-    

@@ -1,5 +1,6 @@
 # How to set up Audit Log for your account
-        With Pro Plus or Enterprise Plan, you can enable Audit Log feature, which will log who has made what changes to your account.
+
+With Pro Plus or Enterprise Plan, you can enable Audit Log feature, which will log who has made what changes to your account.
 
 Here's the feature highlights:
 
@@ -57,9 +58,3 @@ You can also export the data out to CSV, Excel or PDF:
 You have activated and learned how to use the Audit Log feature.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4403332894867
-        Section ID: 26319169224851
-        Updated At: 2026-03-18T22:16:52Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account
-    

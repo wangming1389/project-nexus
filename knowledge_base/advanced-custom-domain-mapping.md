@@ -1,5 +1,6 @@
 # Advanced: Custom Domain mapping
-        With OptiSigns Pro Plus and Enterprise plan, you can enhance your branding by mapping your custom domain for OptiSigns Management Portal.
+
+With OptiSigns Pro Plus and Enterprise plan, you can enhance your branding by mapping your custom domain for OptiSigns Management Portal.
 
 For example: you can map your sub-domain: **login.abcmedia.com** so that your users can log in and use the portal from **login.abcmedia.com** and use the app like the screenshot below.
 
@@ -75,9 +76,3 @@ This process can take up to 24-48 hours to complete. You will be notified via em
 #### **That's all!**
 
 Once you get the notification that your SSL is activated, you can start using your own domain/sub-domain (i.e. <https://login.abcmedia.com>).
-        ---
-        Article ID: 1500000480302
-        Section ID: 26319276406419
-        Updated At: 2026-05-29T17:34:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping
-    

@@ -1,5 +1,6 @@
 # How to use iCloud Calendar with OptiSigns
-        ## This article will show you how to display an iCloud Calendar on your display screens with OptiSigns.
+
+## This article will show you how to display an iCloud Calendar on your display screens with OptiSigns.
 
 **Ensure Full iCloud Features**
 
@@ -80,9 +81,3 @@ You then can assign this newly created asset to your screens to display, or you 
 ![](https://support.optisigns.com/hc/article_attachments/27359175356179)
 
 If you have feedback on how to make the how-to guides better, please let us know at: support@optisigns.com
-        ---
-        Article ID: 27356288211859
-        Section ID: 26324342893715
-        Updated At: 2026-03-26T16:45:12Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns
-    

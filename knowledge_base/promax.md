@@ -1,5 +1,6 @@
 # ProMax
-        ### In this article, we will go over various features of the OptiSigns ProMax Player.
+
+### In this article, we will go over various features of the OptiSigns ProMax Player.
 
 * [What is the OptiSigns ProMax Digital Signage Player](#WhatIs)
   + [Why you should consider using the OptiSigns ProMax Player over our other offerings](#WhyConsider)
@@ -229,9 +230,3 @@ This displays a variety of information useful for troubleshooting.
 ## That’s it!
 
 You’re all set up and ready to go. Now, dive into the countless possibilities to enhance your digital displays with OptiSigns' powerful apps and integrations.
-        ---
-        Article ID: 38680194603155
-        Section ID: 26726383037715
-        Updated At: 2026-03-30T17:22:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax
-    

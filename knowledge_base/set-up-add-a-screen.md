@@ -1,5 +1,6 @@
 # Set up & add a screen
-        ## **Introduction:**
+
+## **Introduction:**
 
 This article will walk you through   
 1) Set up & add a screen  
@@ -73,9 +74,3 @@ You can click here to learn more options,
 * [How to push to screen](https://support.optisigns.com/hc/en-us/articles/11031462426259)
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016374813
-        Section ID: 26318906819091
-        Updated At: 2025-09-04T16:14:45Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen
-    

@@ -1,5 +1,6 @@
 # How to cancel subscription or pause subscription for Seasonal Use Case
-        With OptiSigns, customers paying via credit card have the capability to manage the subscription update in their account. Customers can decrease or increase your subscription as needed. Customers can go to the subscription update page to cancel the subscription or pause the subscription (reducing the number of subscriptions to 0), this will stop future charges on the account. This will help customers who are using the services seasonally or customers who want to cancel the subscription but would still like to keep the account and contents available as they may restart the subscription in the future.
+
+With OptiSigns, customers paying via credit card have the capability to manage the subscription update in their account. Customers can decrease or increase your subscription as needed. Customers can go to the subscription update page to cancel the subscription or pause the subscription (reducing the number of subscriptions to 0), this will stop future charges on the account. This will help customers who are using the services seasonally or customers who want to cancel the subscription but would still like to keep the account and contents available as they may restart the subscription in the future.
 
 Our "**Onhold**" folder reduces the number of screen licenses that are being counted as using subscription. This allows you to have new screens added without buying a new screen license. This also allows you to cancel your subscription without having to remove your screens from your OptiSigns account.
 
@@ -48,9 +49,3 @@ You will want to click on the "**-**" icon to reduce your subscriptions and "**n
 This will officially cancel your subscription, however, you will always have the ability to reactivate your account!
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 17639078588691
-        Section ID: 26319191493267
-        Updated At: 2026-05-28T20:38:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case
-    

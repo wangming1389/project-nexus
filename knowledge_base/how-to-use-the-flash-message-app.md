@@ -1,5 +1,6 @@
 # How to Use the Flash Message App
-        ### In this article, we'll explain how to use the Flash Message app to quickly take over your digital signs for announcements, quick messages, and more.
+
+### In this article, we'll explain how to use the Flash Message app to quickly take over your digital signs for announcements, quick messages, and more.
 
 * [What You'll Need](#WhatYouNeed)
 * [Setting Up the Flash Message App](#SettingUp)
@@ -114,9 +115,3 @@ You have created your Flash Message App, and know how to activate it.
 ## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360052827713
-        Section ID: 26324388001427
-        Updated At: 2025-12-23T21:35:47Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App
-    

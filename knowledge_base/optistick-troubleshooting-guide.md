@@ -1,5 +1,6 @@
 # OptiStick Troubleshooting Guide
-        ### In this article, we will troubleshoot the most common issues people encounter using our OptiStick Player.
+
+### In this article, we will troubleshoot the most common issues people encounter using our OptiStick Player.
 
 * [Identify Your Device](#Identify)
 * [Best Practices](#BestPractices)
@@ -301,9 +302,3 @@ Here are the steps for an RMA:
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 40147900639891
-        Section ID: 26319495746195
-        Updated At: 2026-06-26T13:52:36Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide
-    

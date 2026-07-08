@@ -1,5 +1,6 @@
 # Kiosk10
-        ![5(2).png](https://support.optisigns.com/hc/article_attachments/44668581927443)
+
+![5(2).png](https://support.optisigns.com/hc/article_attachments/44668581927443)
 
 ### This guide will walk you through setting up the OptiKiosk 10 Countertop Digital Signage Kiosk and getting started with OptiSigns.
 
@@ -185,9 +186,3 @@ If you have further questions, please contact us:
 
 * Email: <support@optisigns.com>
 * Phone: [+1 (832) 410-8132](tel:18324108132)
-        ---
-        Article ID: 44652521310099
-        Section ID: 26726383037715
-        Updated At: 2026-05-28T16:41:17Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10
-    

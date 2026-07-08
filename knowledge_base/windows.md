@@ -1,5 +1,6 @@
 # Windows
-        ### In this guide, we will walk you through the end-to-end process to install OptiSigns Digital Signage App on your Windows. You can easily use your Windows laptop or PC as a test screen. Follow the steps below:
+
+### In this guide, we will walk you through the end-to-end process to install OptiSigns Digital Signage App on your Windows. You can easily use your Windows laptop or PC as a test screen. Follow the steps below:
 
 ## **Here are the high-level steps:**
 
@@ -54,9 +55,3 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360034379293
-        Section ID: 26398464765075
-        Updated At: 2025-09-04T19:17:16Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360034379293-Windows
-    

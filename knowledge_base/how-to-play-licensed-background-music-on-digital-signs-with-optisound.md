@@ -1,5 +1,6 @@
 # How to Play Licensed Background Music on Digital Signs with OptiSound
-        ### In this article, we’ll guide you through setting up **OptiSound**, our licensed background music add-on built directly into OptiSigns.
+
+### In this article, we’ll guide you through setting up **OptiSound**, our licensed background music add-on built directly into OptiSigns.
 
 * [What is OptiSound?](#Whatis)
 * [What You'll Need](#WhatYouNeed)
@@ -121,9 +122,3 @@ Double-check your device’s audio output settings to make sure it matches your 
 With OptiSound, your digital signage now delivers both stunning visuals and a fully licensed audio experience — all managed from one place inside OptiSigns.
 
 If you have any questions or need help getting started, be sure to contact our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 40671590645651
-        Section ID: 26499750035603
-        Updated At: 2026-04-08T22:33:37Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound
-    

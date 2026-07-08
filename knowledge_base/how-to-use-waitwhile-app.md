@@ -1,5 +1,6 @@
 # How to use Waitwhile App
-        Waitwhile is a great platform to display and manage your in location waitlist and more.  
+
+Waitwhile is a great platform to display and manage your in location waitlist and more.  
 Customers, visitors can sign up for a waitlist by scanning QR code (or with links you text them even before they arrived).  
 Then you can use OptiSigns to display this waitlist on your digital signs.
 
@@ -60,9 +61,3 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 11784310183571
-        Section ID: 26324441989651
-        Updated At: 2025-08-29T21:22:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/11784310183571-How-to-use-Waitwhile-App
-    

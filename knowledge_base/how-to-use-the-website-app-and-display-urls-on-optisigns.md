@@ -1,5 +1,6 @@
 # How to Use the Website App and Display URLs on OptiSigns
-        ### In this article, we'll show you how to set up the Website app to display basic websites on your digital signs.
+
+### In this article, we'll show you how to set up the Website app to display basic websites on your digital signs.
 
 * [What You'll Need](#WhatYouNeed)
 * [Setting Up a Website App](#SettingUp)
@@ -73,9 +74,3 @@ In order to display multiple web pages, you can create individual Website assets
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016382473
-        Section ID: 26324169707283
-        Updated At: 2026-02-03T18:12:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns
-    

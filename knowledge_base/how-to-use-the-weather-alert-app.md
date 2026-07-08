@@ -1,5 +1,6 @@
 # How to Use the Weather Alert App
-        ### In this article, we walk you through setting up a Weather Alert App to subscribe to weather alerts from the [**National Weather** **Service**](https://www.weather.gov/).
+
+### In this article, we walk you through setting up a Weather Alert App to subscribe to weather alerts from the [**National Weather** **Service**](https://www.weather.gov/).
 
 With the OptiSigns Weather Alert App, you can select a region to receive weather alerts from. The app will listen to the ATOM feed published by the National Weather Service and display any incoming notices. Filters can be applied for certain types of messages and target locations.\
 
@@ -46,9 +47,3 @@ Once you've set the app up to your satisfaction, click **Save**.
 After saving, the app will listen to the ATOM feed of the area you specified. If the condition of the feed matches your settings, it will display the weather alert on screen. If there is no weather alert being broadcast, it will display your Default Content.
 
 If you have any additional questions, concerns, or feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 6757989639827
-        Section ID: 26323968117139
-        Updated At: 2025-08-29T20:04:43Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/6757989639827-How-to-Use-the-Weather-Alert-App
-    

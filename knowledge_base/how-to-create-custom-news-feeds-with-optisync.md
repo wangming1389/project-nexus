@@ -1,5 +1,6 @@
 # How to Create Custom News Feeds with  OptiSync
-        ### In this article, we will cover OptiSigns’ ability to create custom news apps using the OptiSync feature.
+
+### In this article, we will cover OptiSigns’ ability to create custom news apps using the OptiSync feature.
 
 * [SharePoint News Examples](#Examples)
 * [How to Set Up a Custom News Feed](#Setup)
@@ -302,9 +303,3 @@ There are dozens of possibilities using the OptiSync filter to show even more pr
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 35337746613139
-        Section ID: 42924355604627
-        Updated At: 2025-10-01T19:04:05Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/35337746613139-How-to-Create-Custom-News-Feeds-with-OptiSync
-    

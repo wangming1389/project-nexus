@@ -1,5 +1,6 @@
 # OptiSigns Side Menu Options
-        * [OptiSigns Devices](#OptiSigns)
+
+* [OptiSigns Devices](#OptiSigns)
   + [OptiStick Player Side Menu](#AndroidStick)
 * [Other Devices](#Other)
   + [Amazon FireStick, Amazon Digital Signage Player, and Other Android Devices](#NonOptiSigns)
@@ -139,9 +140,3 @@ Click the three-bar button on the top right of a screen, then your screen will p
 Here you go, you know more what these settings mean.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360056090593
-        Section ID: 26319441450131
-        Updated At: 2025-09-04T17:29:50Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options
-    

@@ -1,5 +1,6 @@
 # Whitelist OptiSigns IP addresses & ports
-        If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:
+
+If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:
 
 Port: please whitelist HTTPS port 443
 
@@ -65,9 +66,3 @@ IP Address for **AeriCast**:
 **IMPORTANT NOTE:** we use CDN to optimize file distribution to your devices. Some firewalls may block CDNs. If you experiencing issues where your device is online, but when you assign files, it's just a black screen because the device cannot download files. You can contact us at [support@optisigns.com](mailto:support@optisigns.com) to disable the CDN feature for your account. (Note: It requires the Engage or Enterprise Plan)
 
 There's no set of IP addresses for Social Media and some other apps like Facebook, Instagram, YouTube, and Google Calendar, so if you restrict HTTPS access by IP, you may not be able to use those apps.
-        ---
-        Article ID: 360047275934
-        Section ID: 26319751042451
-        Updated At: 2026-06-18T00:48:15Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-    

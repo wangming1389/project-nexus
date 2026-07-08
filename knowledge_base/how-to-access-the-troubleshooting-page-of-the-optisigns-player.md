@@ -1,5 +1,6 @@
 # How to access the Troubleshooting page of the OptiSigns Player
-        Sometimes you may experience issues with the OptiSigns app. If that happens, you can navigate to the **Troubleshooting page** from the side menu in the OptiSigns app to check the connection status and other details.
+
+Sometimes you may experience issues with the OptiSigns app. If that happens, you can navigate to the **Troubleshooting page** from the side menu in the OptiSigns app to check the connection status and other details.
 
 ### **How to Access the Troubleshooting Page**
 
@@ -84,9 +85,3 @@ From there, you can view detailed information about the app’s status with Abou
   + MAC Address, IP Address, WiFi SSID
 
 If you have any questions or issues that need support, please feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 36501302096915
-        Section ID: 26319759137811
-        Updated At: 2025-09-02T20:08:24Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player
-    

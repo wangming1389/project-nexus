@@ -1,5 +1,6 @@
 # Performance/Stability issues on Android devices and Best Practices
-        Android devices are devices such as Smart TV with Android TV, Google ChromeCast,  Amazon Fire TV, FireSticks devices and OptiSigns Android Sticks are good options for regular digital signage uses. It is low cost, small form factor or built-in TVs hence can be installed easily without drilling holes, and the Android system is user friendly too.
+
+Android devices are devices such as Smart TV with Android TV, Google ChromeCast,  Amazon Fire TV, FireSticks devices and OptiSigns Android Sticks are good options for regular digital signage uses. It is low cost, small form factor or built-in TVs hence can be installed easily without drilling holes, and the Android system is user friendly too.
 
 However, these devices are not powerful devices, generally with 1-2GB of RAM, and Android TV is mainly designed to run streaming contents at full screen for a few hours a day, if you are playing heavy contents for extended time, you may experience performance and stability issues.
 
@@ -26,9 +27,3 @@ To make your Android TV devices running stable and smooth, we recommend you foll
 ## Recommendation
 
 Android TV devices are not rated as commercial grade hardware, and are normally not very powerful. If your use cases require 3+ more zones, multiple heavy content at a time, or keep your digital signage contents running 24x7. Please consider using professional grade devices, such as the [OptiSigns Pro Player](https://www.optisigns.com/product/hardware) or other windows, Linux devices that more powerful and industrial/commercial grade rated. These devices are more robust hardware which are built to handle heavy content and can be played continuously for longer duration.
-        ---
-        Article ID: 28427819992979
-        Section ID: 26319581425043
-        Updated At: 2025-09-04T16:21:18Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices
-    

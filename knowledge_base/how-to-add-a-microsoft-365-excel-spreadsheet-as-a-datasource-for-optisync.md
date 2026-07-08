@@ -1,5 +1,6 @@
 # How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync
-        #### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. To learn more about OptiSync, please visit our guide [**here**](https://support.optisigns.com/hc/en-us/articles/29217646663187).
+
+#### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. To learn more about OptiSync, please visit our guide [**here**](https://support.optisigns.com/hc/en-us/articles/29217646663187).
 
 |  |
 | --- |
@@ -70,9 +71,3 @@ The duration of time between updates if you chose "Periodic direct access" or "P
 ## That's it!
 
 Now you've successfully added your Excel spreadsheet as a DataSource to be used for data mapping with OptiSync!
-        ---
-        Article ID: 29863080711059
-        Section ID: 42924355604627
-        Updated At: 2026-01-29T16:01:49Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/29863080711059-How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync
-    

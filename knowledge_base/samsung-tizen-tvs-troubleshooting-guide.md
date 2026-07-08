@@ -1,5 +1,6 @@
 # Samsung Tizen TVs Troubleshooting Guide
-        ### **IMPORTANT NOTE:**
+
+### **IMPORTANT NOTE:**
 
 While OptiSigns app is available on Samsung Tizen app store, we still recommend using a dedicated player like our [OptiStick Player](https://links.optisigns.com/szzk) for these reasons:
 
@@ -44,9 +45,3 @@ Here are a few known workarounds:
 * Keep all videos encoded in h264, but ensure the resolution for all videos are the same.
   + In other words, don't switch between HD (1980x1080) and 4K (3840x2160) videos.
 * Re-encode all videos to h265 (we recommend [**Handbrake**](https://handbrake.fr/)for this). This way, all the videos can keep their resolution.
-        ---
-        Article ID: 28424138317971
-        Section ID: 26319705295123
-        Updated At: 2026-01-12T16:10:54Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide
-    

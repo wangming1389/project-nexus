@@ -1,5 +1,6 @@
 # How to use the CBC News App
-        ### In this article, we'll explain how to use the CBC News app on OptiSigns.
+
+### In this article, we'll explain how to use the CBC News app on OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating a CBC News Asset](#Creating)
@@ -64,9 +65,3 @@ After you've configured the CBC News app to your liking, hit **Save**. Your CBC 
 ## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500011611322
-        Section ID: 26324224269459
-        Updated At: 2025-10-10T18:50:47Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App
-    

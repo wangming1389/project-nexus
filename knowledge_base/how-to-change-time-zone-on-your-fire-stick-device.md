@@ -1,5 +1,6 @@
 # How to Change Time Zone on Your Fire Stick device
-        Your schedule doesn't start or end at the same time as your schedule. The issue may be your device's time zone setting. You can check your device's setting.
+
+Your schedule doesn't start or end at the same time as your schedule. The issue may be your device's time zone setting. You can check your device's setting.
 
 In this guide, we will walk you through end to end process to change the time zone on your Amazon Fire Stick device.
 
@@ -34,9 +35,3 @@ Changing the time zone on your Fire Stick can let your screen start and end with
 You're ready to go.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360056086653
-        Section ID: 26319570450195
-        Updated At: 2026-05-20T21:12:27Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device
-    

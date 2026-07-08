@@ -1,5 +1,6 @@
 # How to install OptiSigns Player on Apple TV
-        Apple TV is one of the most cost efficient ways to get your digital signs going if you're just starting.
+
+Apple TV is one of the most cost efficient ways to get your digital signs going if you're just starting.
 
 Before we get going, a few limitations you should take note.
 
@@ -63,9 +64,3 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 6636047009427
-        Section ID: 26318650413843
-        Updated At: 2025-09-02T19:59:56Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV
-    

@@ -1,5 +1,6 @@
 # How to get the MAC Address on your media player
-        If your IT team is looking for the MAC address on your media player, you can follow this article to get the MAC Address on your devices.
+
+If your IT team is looking for the MAC address on your media player, you can follow this article to get the MAC Address on your devices.
 
 In this article, we will guide you on how to get the MAC Address on these devices.
 
@@ -83,9 +84,3 @@ ipconfig /all
 ## That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 8099928867475
-        Section ID: 26319751042451
-        Updated At: 2025-08-29T20:29:34Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/8099928867475-How-to-get-the-MAC-Address-on-your-media-player
-    

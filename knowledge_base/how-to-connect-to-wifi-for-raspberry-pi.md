@@ -1,5 +1,6 @@
 # How To Connect To WiFi For Raspberry Pi
-        In this guide, we will walk you through end to end process to connect to WiFi on your Raspberry Pi.
+
+In this guide, we will walk you through end to end process to connect to WiFi on your Raspberry Pi.
 
 If you haven't set up a Raspberry Pi OS on your device, you can check [here](https://support.optisigns.com/hc/en-us/articles/360034379693-How-to-install-OptiSigns-Player-on-Raspberry-Pi).
 
@@ -56,9 +57,3 @@ Follow this guide for a more GUI approach:
 <https://raspberrypi.stackexchange.com/a/119653>
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360056627833
-        Section ID: 26319645952019
-        Updated At: 2025-09-02T19:22:01Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360056627833-How-To-Connect-To-WiFi-For-Raspberry-Pi
-    

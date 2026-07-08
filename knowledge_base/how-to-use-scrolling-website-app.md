@@ -1,5 +1,6 @@
 # How to use Scrolling Website App
-        Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
+
+Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
 Scrolling Website App is the solution for that, it will allow you to:
 
 * Use any Website URL
@@ -41,9 +42,3 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360056356414
-        Section ID: 26324169707283
-        Updated At: 2025-09-02T18:32:51Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App
-    

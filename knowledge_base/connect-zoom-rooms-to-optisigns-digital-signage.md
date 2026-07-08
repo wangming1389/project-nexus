@@ -1,5 +1,6 @@
 # Connect Zoom Rooms to OptiSigns Digital Signage
-        Turn idle Zoom Rooms into digital signage. When a Zoom Room is not in a meeting, OptiSigns plays your assigned content — images, videos, dashboards, web apps — between meetings, and clears it the moment a meeting starts.
+
+Turn idle Zoom Rooms into digital signage. When a Zoom Room is not in a meeting, OptiSigns plays your assigned content — images, videos, dashboards, web apps — between meetings, and clears it the moment a meeting starts.
 
 This guide walks a Zoom Account Owner or Admin through the one-time setup at the account level, and then per-room signage activation.
 
@@ -179,9 +180,3 @@ OptiSigns Zoom Rooms integration uses a screen license, same as any other device
 ## Related documentation
 
 For full details on the Zoom permissions (scopes) OptiSigns uses, how to add or remove the app, and what happens to your data after removal, see [OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App](https://support.optisigns.com/hc/en-us/articles/52523606879251).
-        ---
-        Article ID: 52069065128723
-        Section ID: 26324330971411
-        Updated At: 2026-06-11T22:22:00Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage
-    

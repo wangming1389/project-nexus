@@ -1,5 +1,6 @@
 # How to use Walls.io App
-        You can display walls.io social media walls on your digital signs using OptiSigns Wall.io app.  
+
+You can display walls.io social media walls on your digital signs using OptiSigns Wall.io app.  
 Simply by copying the walls.io URL and put it on OptiSigns Walls.io app.
 
 If you prefer not to have the walls.io brand bar on top, you can use walls.io's embed code with our [Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114).
@@ -48,9 +49,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls of Playlists and Schedules too.
 
  If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049159814
-        Section ID: 26324141467539
-        Updated At: 2025-09-04T20:16:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-use-Walls-io-App
-    

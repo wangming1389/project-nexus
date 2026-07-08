@@ -1,5 +1,6 @@
 # How to Change Time Zone on Your Raspberry Pi device
-        Your schedule doesn't start or end at the same time as your schedule. The issue may be your device's time zone setting. You can check your device's setting.
+
+Your schedule doesn't start or end at the same time as your schedule. The issue may be your device's time zone setting. You can check your device's setting.
 
 In this guide, we will walk you through end to end process to change the time zone on your Raspberry Pi device.
 
@@ -42,9 +43,3 @@ Changing the time zone on your Raspberry Pi can let your screen start and end wi
 You're all set.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360056655633
-        Section ID: 26319645952019
-        Updated At: 2025-09-04T15:35:11Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360056655633-How-to-Change-Time-Zone-on-Your-Raspberry-Pi-device
-    

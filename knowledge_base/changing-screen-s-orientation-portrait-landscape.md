@@ -1,5 +1,6 @@
 # Changing screen's orientation (portrait & landscape)
-        OptiSigns support rotation of your screens:
+
+OptiSigns support rotation of your screens:
 
 * Landscape (0 Degree)
 * Rotate 90 Degrees
@@ -19,9 +20,3 @@ Or on the device's side menu:
 ![](https://support.optisigns.com/hc/article_attachments/360025424473)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016833514
-        Section ID: 26499750035603
-        Updated At: 2025-09-04T15:18:11Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape
-    

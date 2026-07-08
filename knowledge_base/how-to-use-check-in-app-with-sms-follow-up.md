@@ -1,5 +1,6 @@
 # How to use Check-in app with SMS follow up
-        **What is the OptiSigns Check-in app with SMS follow-up?**
+
+**What is the OptiSigns Check-in app with SMS follow-up?**
 
 This app streamlines your business's check-in process, ensuring a seamless experience. Customers easily provide their phone numbers and details upon arrival, with the added opportunity to enhance your online reputation by sending an SMS follow-up that encourages Google reviews, ultimately keeping your customers satisfied.
 
@@ -140,9 +141,3 @@ By default, the customer will receive an SMS message **4 hours** after check-in 
 We hope Check-in all will help you to enhance your customer experience and grow your business faster!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 23566927217939
-        Section ID: 26323754944147
-        Updated At: 2025-09-04T15:04:03Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up
-    

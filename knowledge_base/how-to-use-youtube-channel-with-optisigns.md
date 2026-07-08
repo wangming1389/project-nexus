@@ -1,5 +1,6 @@
 # How to use YouTube Channel with OptiSigns 
-        Putting YouTube Channel on your digital signs screens is easy with OptiSigns.  
+
+Putting YouTube Channel on your digital signs screens is easy with OptiSigns.  
 You just need to copy the YouTube Channel Link and paste in the YouTube Channel app in OptiSigns.
 
 This article will guide you through how to create and use a YouTube Channel App.
@@ -50,9 +51,3 @@ You can assign the newly created YouTube Channel asset to your screen by going t
 You can put the YouTube Channel to a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360060202914
-        Section ID: 26324076807315
-        Updated At: 2025-08-29T20:51:56Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360060202914-How-to-use-YouTube-Channel-with-OptiSigns
-    

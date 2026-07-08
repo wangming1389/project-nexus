@@ -1,5 +1,6 @@
 # How to unpair a device, screen?
-        Sometimes you need to unpair a screens when you not using it anymore or to move to different account.
+
+Sometimes you need to unpair a screens when you not using it anymore or to move to different account.
 
 You can do so from the Portal or from the device.
 
@@ -16,9 +17,3 @@ you can open side menu (press the 3 bars button on FireStick Remote or press Ent
 Then select Unpair
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360096443094)
-        ---
-        Article ID: 360058700673
-        Section ID: 26318906819091
-        Updated At: 2025-08-28T20:07:13Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen
-    

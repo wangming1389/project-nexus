@@ -1,5 +1,6 @@
 # How to use Crypto Index & Crypto Exchange App
-        With OptiSigns you can display up to date information on Cryptocurrency market. We offer 2 apps:
+
+With OptiSigns you can display up to date information on Cryptocurrency market. We offer 2 apps:
 
 1. Crypto Index: display prices of any major cryptocurrencies (BTC, BTH, ETH, etc.) in term of USD
 2. Crypto Exchange: display prices of Cryptocurrencies in term of another Cryptocurrency. It's commonly used to display exchange of lesser known currencies in term of Bitcoins.
@@ -46,9 +47,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls of Playlists and Schedules too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049919933
-        Section ID: 26324377674003
-        Updated At: 2025-08-29T21:36:03Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-use-Crypto-Index-Crypto-Exchange-App
-    

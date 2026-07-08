@@ -1,5 +1,6 @@
 # How to use Embed App
-        Embed app is used to display embed codes that you get from the internet for sharing content such as YouTube videos, Google Slides, Calendar, or social media posts.
+
+Embed app is used to display embed codes that you get from the internet for sharing content such as YouTube videos, Google Slides, Calendar, or social media posts.
 
 Here's an example of a shared Google Calendar embed code.
 
@@ -24,9 +25,3 @@ Then give it a name and paste your embed code there.
 Now, you can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc like any other assets. If you need more information on how to set up & assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360035815114
-        Section ID: 26324169707283
-        Updated At: 2025-09-04T15:10:33Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360035815114-How-to-use-Embed-App
-    

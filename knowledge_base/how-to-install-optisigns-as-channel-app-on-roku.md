@@ -1,5 +1,6 @@
 # How to install OptiSigns as channel/app on Roku
-        |  |
+
+|  |
 | --- |
 | Updated Sep 2023: After Roku OS 12.0.0 updates, Roku is more strict with power management and screensaver feature. |
 
@@ -74,9 +75,3 @@ You can remove the click sound in the Roku settings.
 Go to Settings > Audio > Menu Volume. Set this to **Off**.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360039566974
-        Section ID: 26318650413843
-        Updated At: 2025-09-02T19:35:39Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku
-    

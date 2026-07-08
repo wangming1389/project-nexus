@@ -1,5 +1,6 @@
 # Adjust the GPU memory on the Raspberry Pi
-        Sometimes, videos won't run smoothly on your Raspberry Pi. Adjusting the GPU memory on your Raspberry Pi can help solve this issue.
+
+Sometimes, videos won't run smoothly on your Raspberry Pi. Adjusting the GPU memory on your Raspberry Pi can help solve this issue.
 
 In this guide, we'll walk you through how to adjust the GPU memory on your Raspberry Pi.
 
@@ -38,9 +39,3 @@ In this guide, we'll walk you through how to adjust the GPU memory on your Raspb
 The GPU memory is now set to 256 MB on your Raspberry Pi.
 
 If you have any additional questions, concerns, or feedback about OptiSigns, feel free to reach out to our support team at support@optisigns.com.
-        ---
-        Article ID: 1500010436341
-        Section ID: 26319645952019
-        Updated At: 2025-08-29T20:24:46Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi
-    

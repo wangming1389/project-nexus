@@ -1,5 +1,6 @@
 # How to Contact OptiSigns Support
-        **Email Support:** [support@optisigns.com](mailto:support@optisigns.com)
+
+**Email Support:** [support@optisigns.com](mailto:support@optisigns.com)
 
 **Email Support Hours:** 7AM - 7PM US CDT
 
@@ -25,9 +26,3 @@ Support options are based on your [product plan](https://www.optisigns.com/prici
 | **Pro Plus** | ✔ | ✔ | ✔ |  |
 | **Engage** | ✔ | ✔ | ✔ |  |
 | **Enterprise** | ✔ | ✔ | ✔ | ✔ |
-        ---
-        Article ID: 35626165056787
-        Section ID: 26398357451923
-        Updated At: 2025-09-04T17:13:59Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support
-    

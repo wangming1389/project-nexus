@@ -1,5 +1,6 @@
 # Disk Encryption
-        ### In this article, we’ll walk you through how to set up Disk Encryption on your OptiSigns Players.
+
+### In this article, we’ll walk you through how to set up Disk Encryption on your OptiSigns Players.
 
 * [What You’ll Need](#WhatYouNeed)
 * [How to Set Up Encryption on an OptiSigns Player](#EncryptionSetup)
@@ -60,9 +61,3 @@ By inputting this password, you’ll be able to access the data and use it howev
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 40212027797523
-        Section ID: 26319169224851
-        Updated At: 2025-09-04T16:19:23Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption
-    

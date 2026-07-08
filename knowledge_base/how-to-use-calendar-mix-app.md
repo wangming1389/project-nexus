@@ -1,5 +1,6 @@
 # How to use Calendar Mix app
-        This app is similar to [Microsoft Calendar app](https://support.optisigns.com/hc/en-us/articles/360036250853) or [Google Calendar app](https://support.optisigns.com/hc/en-us/articles/360019517953), but it gives you option to mix multiple calendars into 1 app, you can even mix multiple Google Calendar together with multiple Microsoft Calendar.
+
+This app is similar to [Microsoft Calendar app](https://support.optisigns.com/hc/en-us/articles/360036250853) or [Google Calendar app](https://support.optisigns.com/hc/en-us/articles/360019517953), but it gives you option to mix multiple calendars into 1 app, you can even mix multiple Google Calendar together with multiple Microsoft Calendar.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408420138515)
 
@@ -58,9 +59,3 @@ The app will also auto-adjust the format to a screen in portrait orientation (ro
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4408052949139
-        Section ID: 26324342893715
-        Updated At: 2025-09-04T14:10:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app
-    

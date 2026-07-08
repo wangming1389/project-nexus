@@ -1,5 +1,6 @@
 # How to Perform Mass Provisioning with OptiSigns
-        ### In this article, we explain how to Mass Provision your devices for easy digital signage setup across numerous devices.
+
+### In this article, we explain how to Mass Provision your devices for easy digital signage setup across numerous devices.
 
 * [How to Set Up Mass Provisioning in the OptiSigns Portal](#Setup)
   + [Prerequisites](#Prerequisites)
@@ -134,9 +135,3 @@ For more, see our articles on [configuring OptiSigns mass deployment on Apple de
 Now you know how to perform mass provisioning with OptiSigns.
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4416542923667
-        Section ID: 26319359505427
-        Updated At: 2026-04-16T14:17:14Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns
-    

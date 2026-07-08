@@ -1,5 +1,6 @@
 # Using an Enterprise Network (802.1x) with OptiSigns
-        ### In this article, we'll cover how to get OptiSigns working on an Enterprise-level security network, either over WiFi or Ethernet.
+
+### In this article, we'll cover how to get OptiSigns working on an Enterprise-level security network, either over WiFi or Ethernet.
 
 * [Supported Devices](#SupportedDevices)
 * [Setting Up 802.1x Enterprise WiFi on a Pro or ProMax Player](#SettingUp)
@@ -95,9 +96,3 @@ You'll need to enter a **Username** and **Password**, and upload a certificate d
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 44890229616403
-        Section ID: 26319359505427
-        Updated At: 2026-05-20T18:11:11Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns
-    

@@ -1,5 +1,6 @@
 # Linux
-        ### In this article, we'll cover how to get OptiSigns running on devices running Linux.
+
+### In this article, we'll cover how to get OptiSigns running on devices running Linux.
 
 * [Download the OptiSigns AppImage](#Download)
 * [Installing OptiSigns on Linux Distributions](#AnyLinux)
@@ -148,9 +149,3 @@ You now can go to our portal at: <https://app.optisigns.com/>to pair the screen 
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360034379573
-        Section ID: 26398464765075
-        Updated At: 2025-09-04T19:26:34Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360034379573-Linux
-    

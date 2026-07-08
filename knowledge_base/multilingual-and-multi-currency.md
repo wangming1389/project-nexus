@@ -1,5 +1,6 @@
 # Multilingual and multi-currency
-        #### **Multi-currency:**
+
+#### **Multi-currency:**
 
 OptiSigns support payment in USD, CAD, GBP, EUR, and AUD  
 Just select your preferred payment currency on checkout.
@@ -62,9 +63,3 @@ You can set the languages of those apps in Settings or Advanced settings:
 You can set the language for widgets in the widget settings:
 
 ![firefox_oHDJJNqE4J.jpg](https://support.optisigns.com/hc/article_attachments/43348281480467)
-        ---
-        Article ID: 4411762539027
-        Section ID: 26319191493267
-        Updated At: 2025-09-04T15:30:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency
-    

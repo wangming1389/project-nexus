@@ -1,5 +1,6 @@
 # How to create and use Instagram Wall
-        |  |
+
+|  |
 | --- |
 | **NOTE** |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |
@@ -75,9 +76,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016388733
-        Section ID: 26324141467539
-        Updated At: 2025-09-02T20:31:50Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall
-    

@@ -1,5 +1,6 @@
 # How to Set Up Dynamic Data Mapping with OptiSync
-        ### In today's fast-paced digital environment, manually updating digital displays can be both tedious and error-prone. This guide will show you how to integrate live data into your digital screens, allowing for seamless automatic updates across your displays.
+
+### In today's fast-paced digital environment, manually updating digital displays can be both tedious and error-prone. This guide will show you how to integrate live data into your digital screens, allowing for seamless automatic updates across your displays.
 
 **In this article:**
 
@@ -237,9 +238,3 @@ Your screen will automatically update based on your connected data source.
 You no longer need to manually update your data, which is time consuming and prone to errors.
 
 ## That's it! Now, you can set and forget it with OptiSync, an automated data mapping feature!
-        ---
-        Article ID: 29217646663187
-        Section ID: 42924355604627
-        Updated At: 2025-09-04T17:54:40Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync
-    

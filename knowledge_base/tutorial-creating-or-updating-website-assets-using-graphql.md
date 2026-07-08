@@ -1,5 +1,6 @@
 # Tutorial: Creating or Updating Website Assets Using GraphQL
-        Using GraphQL, it is possible to create a website asset on OptiSigns.
+
+Using GraphQL, it is possible to create a website asset on OptiSigns.
 
 |  |
 | --- |
@@ -66,9 +67,3 @@ Updating assets is as simple as running the same Mutation while providing an \_i
 **Previous Article - [Tutorial: Create, Update, Add, Remove Items from Playlists](https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists)**
 
 **Next Article - [Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL)**
-        ---
-        Article ID: 36562094987795
-        Section ID: 4414558217235
-        Updated At: 2025-09-04T18:54:21Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL
-    

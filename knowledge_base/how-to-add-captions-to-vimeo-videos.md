@@ -1,5 +1,6 @@
 # How to add captions to Vimeo videos
-        If you've implemented captions into your video then this guide will briefly show you how to enable those captions on your uploaded Vimeo content. Currently, there is no option to simply turn it on, however, there is another way to do so.
+
+If you've implemented captions into your video then this guide will briefly show you how to enable those captions on your uploaded Vimeo content. Currently, there is no option to simply turn it on, however, there is another way to do so.
 
 If your videos have **manually added captions**, then your link should look something like this:
 
@@ -32,9 +33,3 @@ Now you can take the URL link that you've created for your Vimeo video and plug 
 Click save and that's it! You're ready to push this to your screens!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 18500083191059
-        Section ID: 26319006646035
-        Updated At: 2025-09-04T15:31:00Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos
-    

@@ -1,5 +1,6 @@
 # Using RS-232 to Schedule TV Power On/Off or other commands
-        With OptiSigns, you can schedule TV Power On/Off using the advanced schedule feature. There are 2 ways you can do it with OptiSigns depending on what devices you are using.
+
+With OptiSigns, you can schedule TV Power On/Off using the advanced schedule feature. There are 2 ways you can do it with OptiSigns depending on what devices you are using.
 
 * If you are using a consumer-grade TV and an OptiStick, the TV Power On/Off is achieved through HDMI-CEC. See our **[Operational Schedule](https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232)**article for more information.
 * If you are using a commercial-grade display, RS232 will be the option for you.
@@ -82,9 +83,3 @@ To power your screen on or off using RS-232, there are two relevant options:
 That's all! Now you have learned how to schedule TV power on/off using RS-232.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 9061950942995
-        Section ID: 26319268269203
-        Updated At: 2025-09-19T18:38:49Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands
-    

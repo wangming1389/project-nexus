@@ -1,5 +1,6 @@
 # How to set an asset to Live or Expire at specific time
-        * [When to Use Live and Expire](#WhentoUse)
+
+* [When to Use Live and Expire](#WhentoUse)
 * [Setting Up Live and Expire](#SettingUp)
 * [Playlist and Schedule Behavior](#PlaylistandSchedule)
 
@@ -92,9 +93,3 @@ This provides:
 ### **That's all!**
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360042736794
-        Section ID: 26324698105235
-        Updated At: 2026-05-14T22:03:28Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time
-    

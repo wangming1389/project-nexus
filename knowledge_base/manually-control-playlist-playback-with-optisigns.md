@@ -1,5 +1,6 @@
 # Manually control playlist playback with OptiSigns
-        In some cases, you may want to give the users the capability to control the playlist playback, so that the users can advance to the next asset in the playlist or move back to the previous one.
+
+In some cases, you may want to give the users the capability to control the playlist playback, so that the users can advance to the next asset in the playlist or move back to the previous one.
 
 Example use cases:
 
@@ -25,9 +26,3 @@ With the playback control, you can pause/play the playlist, advance to the next 
 **That's it!** Now you know how to control playlist playback with OptiSigns.
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4416704273811
-        Section ID: 26319329063571
-        Updated At: 2025-08-29T18:48:01Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns
-    

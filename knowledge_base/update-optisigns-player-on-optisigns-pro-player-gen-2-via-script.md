@@ -1,5 +1,6 @@
 # Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script
-        If your Pro Player looks like the image below, read on. If it does not, read on [**Remote Commands for the OptiSigns Pro Player (Gen 3)**](https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux).
+
+If your Pro Player looks like the image below, read on. If it does not, read on [**Remote Commands for the OptiSigns Pro Player (Gen 3)**](https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux).
 
 ![Pro Player.png](https://support.optisigns.com/hc/article_attachments/38310905084947)
 
@@ -39,9 +40,3 @@ Other command line scripts:
   ```
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 21449362442003
-        Section ID: 26319495746195
-        Updated At: 2025-09-02T20:33:55Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script
-    

@@ -1,5 +1,6 @@
 # I received the OptiSigns device but it's OnHold and cannot assign content
-        ## Issue:
+
+## Issue:
 
 You ordered an OptiSigns Android Stick device and:
 
@@ -34,9 +35,3 @@ Open the OnHold Device folder and see if there are any devices listed
 Now to move the screen that you want to move outside the Onhold Device folder. Go to the onhold device folder, click on edit on the screen and select Move. This will move the device out of the onhold Device folder.
 
 ![](https://support.optisigns.com/hc/article_attachments/27676133573139) Congratulations!! your screen should now be ready to use.
-        ---
-        Article ID: 27676133574547
-        Section ID: 26319495746195
-        Updated At: 2025-08-28T19:48:56Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/27676133574547-I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content
-    

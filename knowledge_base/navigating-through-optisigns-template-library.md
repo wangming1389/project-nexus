@@ -1,5 +1,6 @@
 # Navigating Through OptiSigns' Template Library
-        ### Want to display captivating content? Our exclusive, extensive, and ever-growing template library covering various industries is here to optimize your screens in minutes!
+
+### Want to display captivating content? Our exclusive, extensive, and ever-growing template library covering various industries is here to optimize your screens in minutes!
 
 |  |
 | --- |
@@ -66,9 +67,3 @@ You can also directly push this template to your screens or do so from the scree
 ## That's it!
 
 Just push your templates to your screen or throw it in a playlist or schedule, and voila! You're ready to captivate your audiences with OptiSigns!
-        ---
-        Article ID: 20425113117459
-        Section ID: 26324589379091
-        Updated At: 2025-09-04T14:39:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library
-    

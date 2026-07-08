@@ -1,5 +1,6 @@
 # Getting Started with Designer
-        ### In this article, we’ll cover the basic functions and features of the OptiSigns Designer app.
+
+### In this article, we’ll cover the basic functions and features of the OptiSigns Designer app.
 
 * [Opening Designer](#OpeningDesigner)
 * [Designer App Overview](#DesignerAppOverview)
@@ -446,9 +447,3 @@ To go back to the old 1.0 version of Designer, simply click the **Use Designer 1
 ### **That’s all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42087942047379
-        Section ID: 42593092881043
-        Updated At: 2025-10-07T17:18:32Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer
-    

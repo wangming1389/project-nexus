@@ -1,5 +1,6 @@
 # How to use the Guardian App
-        ### In this article, we'll explain how to use the Guardian News app on OptiSigns.
+
+### In this article, we'll explain how to use the Guardian News app on OptiSigns.
 
 * [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360040991534#WhatYouNeed)
 * [Creating a The Guardian News Asset](https://support.optisigns.com/hc/en-us/articles/360040991534#Creating)
@@ -66,9 +67,3 @@ After you've configured the Guardian News app to your liking, hit **Save**. Your
 ## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360044613874
-        Section ID: 26324224269459
-        Updated At: 2025-10-10T19:42:20Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App
-    

@@ -1,5 +1,6 @@
 # Customize Text
-        ### In this article, we’ll explore all the options for creating and adding Text in the OptiSigns Designer App.
+
+### In this article, we’ll explore all the options for creating and adding Text in the OptiSigns Designer App.
 
 * [Adding Text](#AddingText)
 * [Editing Text](#EditingText)
@@ -359,9 +360,3 @@ This is useful for quickly formatting numerous text elements.
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42157810188179
-        Section ID: 42593092881043
-        Updated At: 2025-08-28T19:17:42Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42157810188179-Customize-Text
-    

@@ -1,5 +1,6 @@
 # Advanced: How to Install & Activate OptiSigns Remote Agent on Windows
-        ### In this article, we will explain how to install the OptiSigns Remote Agent on a Windows advice, which allows you to remotely control your device via the OptiSigns Portal.
+
+### In this article, we will explain how to install the OptiSigns Remote Agent on a Windows advice, which allows you to remotely control your device via the OptiSigns Portal.
 
 If you are running OptiSigns on a Windows, Linux or Raspberry Pi device, you can install the optisigns-remote-agent add-on that will allow you to remotely control your device from the portal.
 
@@ -39,9 +40,3 @@ That's it, your remote session will be open in a new browser tab for you to use.
 ### That's all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360057327693
-        Section ID: 26319660990099
-        Updated At: 2025-08-29T16:57:45Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360057327693-Advanced-How-to-Install-Activate-OptiSigns-Remote-Agent-on-Windows
-    

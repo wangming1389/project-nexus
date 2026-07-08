@@ -1,5 +1,6 @@
 # Synchronized playback (Sync Play) feature
-        With OptiSigns you can enable screens to play in-sync. This means:
+
+With OptiSigns you can enable screens to play in-sync. This means:
 
 * If content published screens are **the same**, all screens will play the content at the same time.
 * If content published screens are **different**, it will start playing them from the beginning
@@ -43,9 +44,3 @@ Another option: If you cannot find any server, you can set all devices to Google
 ### That's it. All screens will sync up.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at[support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4412065189267
-        Section ID: 26319329063571
-        Updated At: 2026-07-06T21:29:32Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature
-    

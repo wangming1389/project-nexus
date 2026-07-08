@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("🤖 OptiBot RAG Support")
+st.title("OptiBot RAG Support")
 st.markdown(
     "Ask me anything about OptiSigns based on the knowledge base!"
 )

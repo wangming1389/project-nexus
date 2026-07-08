@@ -1,5 +1,6 @@
 # How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)
-        With OptiSigns, you can use Power BI, Microsoft Outlook Calendar, OneDrive app to integrate your Dashboard, calendar or content from your OneDrive on to your digital signage screens.
+
+With OptiSigns, you can use Power BI, Microsoft Outlook Calendar, OneDrive app to integrate your Dashboard, calendar or content from your OneDrive on to your digital signage screens.
 
 In this article we will cover:
 
@@ -74,9 +75,3 @@ This administrator access is only needed for first time access. Once the OptiSig
 [Quickstart: Configure properties for an application in your Azure Active Directory (Azure AD) tenant | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal-configure)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4403616315539
-        Section ID: 26319778230419
-        Updated At: 2026-03-17T22:33:37Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4403616315539-How-to-approve-OptiSigns-as-Enterprise-App-on-Microsoft-Azure-for-Power-BI-Calendar-etc-access
-    

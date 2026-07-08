@@ -1,5 +1,6 @@
 # How to Create & Use Playlists
-        ### Playlists organize media files like images and videos into a preferred sequence, enhancing accessibility and continuous playback. This article will guide you through the process of creating playlists with OptiSigns.
+
+### Playlists organize media files like images and videos into a preferred sequence, enhancing accessibility and continuous playback. This article will guide you through the process of creating playlists with OptiSigns.
 
 |  |
 | --- |
@@ -105,9 +106,3 @@ If you're interested in exploring our advanced features further, we offer articl
 * [How to create and use Nested Playlists](https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-create-and-use-Nested-Playlists)
 
 These resources provide detailed insights into optimizing your playlist management experience with OptiSigns.
-        ---
-        Article ID: 28295104605843
-        Section ID: 26324652803475
-        Updated At: 2026-03-31T21:42:16Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists
-    

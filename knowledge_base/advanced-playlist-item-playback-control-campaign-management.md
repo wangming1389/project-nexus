@@ -1,5 +1,6 @@
 # Advanced Playlist Item Playback Control & Campaign Management
-        |  |
+
+|  |
 | --- |
 | **NOTE** |
 | This feature is available to **Pro Plus**subscribers or higher. |
@@ -87,9 +88,3 @@ See our full article on **[Content Tagging in Playlists](https://support.optisig
 **That's all!**
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 22474034993043
-        Section ID: 26319329063571
-        Updated At: 2025-10-10T15:42:34Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management
-    

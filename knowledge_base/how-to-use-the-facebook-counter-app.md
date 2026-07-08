@@ -1,5 +1,6 @@
 # How to use the Facebook Counter App
-        * [What You'll Need](#WhatYouNeed)
+
+* [What You'll Need](#WhatYouNeed)
 * [Setting Up a Facebook Counter App](#SettingUp)
 * [Deploying a Facebook Counter App](#Deploying)
 
@@ -86,9 +87,3 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360044619014
-        Section ID: 26324141467539
-        Updated At: 2026-02-02T15:31:45Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App
-    

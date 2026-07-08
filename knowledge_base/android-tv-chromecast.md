@@ -1,5 +1,6 @@
 # Android TV / ChromeCast
-        In this guide, we will walk you through end to end process to install OptiSigns Digital Signage App on your Android TV and assign a playlist to it.
+
+In this guide, we will walk you through end to end process to install OptiSigns Digital Signage App on your Android TV and assign a playlist to it.
 
 ---
 
@@ -65,9 +66,3 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500004699122
-        Section ID: 26398464765075
-        Updated At: 2025-09-02T19:55:41Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast
-    

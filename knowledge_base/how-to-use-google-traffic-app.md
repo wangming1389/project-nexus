@@ -1,5 +1,6 @@
 # How to use Google Traffic App
-        You can use OptiSigns to show Traffic around your locations, this could be helpful for your employees, customers, visitors as they are coming in and out of your location.
+
+You can use OptiSigns to show Traffic around your locations, this could be helpful for your employees, customers, visitors as they are coming in and out of your location.
 
 Here's an example how it would look.
 
@@ -40,9 +41,3 @@ You can assign the newly created instance to your screen by going to Screens, cl
 You can put the created social walls in a Playlist and/or Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360047499893
-        Section ID: 26324064516755
-        Updated At: 2025-08-28T19:56:05Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App
-    

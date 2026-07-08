@@ -1,5 +1,6 @@
 # Custom Branding Settings
-        ### In this article, we'll explain everything you need to know about Custom Branding in OptiSigns.
+
+### In this article, we'll explain everything you need to know about Custom Branding in OptiSigns.
 
 * [Branding Section](#Branding)
 * [Login Page Section](#Login)
@@ -176,9 +177,3 @@ You can set a Custom email address for users to receive these emails.
 ### That's all!
 
 If you have any questions, please contact us at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500000485202
-        Section ID: 26319276406419
-        Updated At: 2025-12-29T21:04:58Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings
-    

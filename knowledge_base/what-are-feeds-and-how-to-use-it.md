@@ -1,5 +1,6 @@
 # What Are Feeds and How to Use It
-        ## Want to bring your screens to life with curated content across a variety of topics? Let's get to know OptiSigns Feeds!
+
+## Want to bring your screens to life with curated content across a variety of topics? Let's get to know OptiSigns Feeds!
 
 |  |
 | --- |
@@ -61,9 +62,3 @@ Each feeds has a recommended duration. This way it helps keep the screen fresh, 
 | Safety feeds totaled about 4 minutes, and its recommended duration is 30s. So, that will be 2 slides of the feeds shown when in a playlist. The next time the playlist loops back to the feed, it will continue to the next slides on the feeds, till it finishes the 4 minutes. Afterward, it will then loop back. |
 
 ## That's it!
-        ---
-        Article ID: 24338756617747
-        Section ID: 26324645846291
-        Updated At: 2025-08-28T18:46:57Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It
-    

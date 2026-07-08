@@ -1,5 +1,6 @@
 # How to use Instagram Counter App
-        |  |
+
+|  |
 | --- |
 | **NOTE** |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |
@@ -50,9 +51,3 @@ You can assign the newly created instance to your screen by going to Screens, cl
 You can put the created social walls in a Playlist and/or Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360047501233
-        Section ID: 26324141467539
-        Updated At: 2025-08-29T20:18:47Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360047501233-How-to-use-Instagram-Counter-App
-    

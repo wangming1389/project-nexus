@@ -1,5 +1,6 @@
 # How to use the Atlassian JIRA app
-        ### Jira is a popular project management tool that helps teams plan, track, release, and support work. Let's go through how to set this app integration up!
+
+### Jira is a popular project management tool that helps teams plan, track, release, and support work. Let's go through how to set this app integration up!
 
 **What you'll need:**
 
@@ -46,9 +47,3 @@ For this, you will need a **keyboard and mouse**connected to your device to inpu
 ## Troubleshooting
 
 * If your dashboard is public, it may display as empty. Making your dashboard private will allow OptiSigns to properly run the login script.
-        ---
-        Article ID: 360037416494
-        Section ID: 26324330971411
-        Updated At: 2025-08-28T20:12:13Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Atlassian-JIRA-app
-    

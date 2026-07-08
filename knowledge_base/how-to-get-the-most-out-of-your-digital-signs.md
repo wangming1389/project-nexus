@@ -1,5 +1,6 @@
 # How to get the most out of your Digital Signs
-        Here is a quick list of ideas and things you can achieve with OptiSigns to get the most out of your digital signs:
+
+Here is a quick list of ideas and things you can achieve with OptiSigns to get the most out of your digital signs:
 
 * Besides images and videos, you can also upload any [PDF, PowerPoint, and many other file types](https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported)
 * Display a Website. This can be an [ordinary website](https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-use-a-Website-link-with-OptiSigns), a more [advanced website](https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App), a [scrolling website](https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App), or a [website/dashboard requiring a login](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App). We can even handle [websites needing 2FA](https://support.optisigns.com/hc/en-us/articles/19145077187859-How-to-use-Web-Scripting-App-with-2FA).
@@ -14,9 +15,3 @@
 Trying to do something else? Search our [knowledge base, we have 400+ articles](https://support.optisigns.com/hc/en-us) covering many use cases, scenarios.
 
 Still haven't found what you're looking for? We really do want to learn more & help you, just email us at [support@optisigns.com.](mailto:support%40optisigns.com "support@optisigns.com")
-        ---
-        Article ID: 25607930101907
-        Section ID: 26398357451923
-        Updated At: 2026-06-08T15:18:50Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs
-    

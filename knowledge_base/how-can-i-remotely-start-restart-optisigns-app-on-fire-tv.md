@@ -1,5 +1,6 @@
 # How can I remotely start/restart OptiSigns app on Fire TV?
-        If you are not physically at the location and need to check if the Fire TV is on or want to restart OptiSigns app, here’s a way to do it.
+
+If you are not physically at the location and need to check if the Fire TV is on or want to restart OptiSigns app, here’s a way to do it.
 
 Download the FireTV Remote app (available for both iPhone and Android)  
 <http://streaming-blog.com/amazon-fire-tv-stick-how-to-use-your-phone-as-remote/>  
@@ -30,9 +31,3 @@ You can also restart the OptiSigns app remotely by:
 # 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360016485633
-        Section ID: 26319570450195
-        Updated At: 2025-08-29T18:49:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV
-    

@@ -1,5 +1,6 @@
 # OptiSigns Pro Player Advanced Features
-        ### In this article, we go over the Advanced Features of the new Gen 3 OptiSigns Pro Player.
+
+### In this article, we go over the Advanced Features of the new Gen 3 OptiSigns Pro Player.
 
 |  |
 | --- |
@@ -234,9 +235,3 @@ Afterwards, your factory defaults will be restored.
 ### **That’s all!**
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 35577511423635
-        Section ID: 26726383037715
-        Updated At: 2026-03-30T17:22:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features
-    

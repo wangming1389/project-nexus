@@ -1,5 +1,6 @@
 # OptiSigns - Getting Started Guide
-        ### New to OptiSigns or need a refresher? Here's your one-stop guide to get your screens ready to go!
+
+### New to OptiSigns or need a refresher? Here's your one-stop guide to get your screens ready to go!
 
 #### In this article:
 
@@ -113,9 +114,3 @@ Now that your screens are set up and ready to go, here are some additional guide
 * [Invite a team member](https://support.optisigns.com/hc/en-us/articles/360016990233) to help you manage your screens.
 
 ## **That's it!**
-        ---
-        Article ID: 18823504383891
-        Section ID: 26398357451923
-        Updated At: 2026-03-31T21:41:21Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide
-    

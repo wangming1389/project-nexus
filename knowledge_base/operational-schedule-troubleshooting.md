@@ -1,5 +1,6 @@
 # Operational Schedule Troubleshooting
-        ### In this article, we will troubleshoot common issues related to the Operational Schedule feature in OptiSigns.
+
+### In this article, we will troubleshoot common issues related to the Operational Schedule feature in OptiSigns.
 
 * [Introduction to Operational Scheduling](#Introduction)
 * [Changing Display Settings](#ChangingSettings)
@@ -111,9 +112,3 @@ If you've tried the above, feel free to [reach out to our support team](https://
 ### That’s all!
 
 Still having problems with getting your Operational Schedule to work? Reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) for additional help.
-        ---
-        Article ID: 48241081473043
-        Section ID: 26319502894611
-        Updated At: 2026-04-20T21:26:17Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting
-    

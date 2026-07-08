@@ -1,5 +1,6 @@
 # The OptiSigns app keeps turning on the TV screen
-        If the OptiSigns app keeps turning on your TV screen, you can follow this article.
+
+If the OptiSigns app keeps turning on your TV screen, you can follow this article.
 
 1. Open the side menu of the OptiSigns app.
 
@@ -15,9 +16,3 @@
 Then when you power off your TV screen, the OptiSigns app will not turn on your TV screen.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 15808407287315
-        Section ID: 26319441450131
-        Updated At: 2025-09-04T15:11:52Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen
-    

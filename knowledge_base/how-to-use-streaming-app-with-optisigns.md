@@ -1,5 +1,6 @@
 # How to use Streaming App with OptiSigns
-        Putting a Streaming video on your digital signs screens is easy with OptiSigns.
+
+Putting a Streaming video on your digital signs screens is easy with OptiSigns.
 
 ## **Let's jump in and get started:**
 
@@ -33,9 +34,3 @@ You can assign the newly created Streaming App asset to your screen by going to 
 You can put the Streaming App to a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 16364134190355
-        Section ID: 26324076807315
-        Updated At: 2025-09-02T18:34:54Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns
-    

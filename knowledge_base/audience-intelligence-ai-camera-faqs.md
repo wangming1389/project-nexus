@@ -1,5 +1,6 @@
 # Audience Intelligence (AI Camera) FAQs
-        ### OptiSigns Audience Intelligence allows you to tailor your digital signs toward a specific demographic and collect and analyze customer demographic data.
+
+### OptiSigns Audience Intelligence allows you to tailor your digital signs toward a specific demographic and collect and analyze customer demographic data.
 
 * [What is OptiSigns Audience Intelligence?](#Audience%20Intelligence)
 * [How can I use OptiSigns AI Camera?](#AI%20Camera)
@@ -101,9 +102,3 @@ For the AI Detection program:
 #### **How much does OptiSigns Audience Intelligence cost?**
 
 The Audience Intelligence feature is part of our **Engage** subscription plan, which costs $30/month per screen.
-        ---
-        Article ID: 360058259834
-        Section ID: 26323817773843
-        Updated At: 2026-02-04T16:18:32Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360058259834-Audience-Intelligence-AI-Camera-FAQs
-    

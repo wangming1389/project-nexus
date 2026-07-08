@@ -1,5 +1,6 @@
 # How to use Yammer app on OptiSigns
-        You can display your Yammer Posts on your digital signs screen with OptiSigns.
+
+You can display your Yammer Posts on your digital signs screen with OptiSigns.
 
 ## **Let's jump in and get started:**
 
@@ -59,9 +60,3 @@ OptiSigns uses Microsoft APIs for integration. In order for our integrations to 
 This administrator access is only needed for first time access. Once the OptiSigns app is approved for use, other users can use OptiSigns directly.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 19171222981523
-        Section ID: 26324330971411
-        Updated At: 2025-09-04T18:49:13Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-use-Yammer-app-on-OptiSigns
-    

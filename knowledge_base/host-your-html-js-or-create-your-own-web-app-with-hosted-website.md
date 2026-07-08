@@ -1,5 +1,6 @@
 # Host your HTML/JS or Create your own Web App with Hosted Website
-        For advanced & enterprise users who know how to create their own HTML/JS app, you can use OptiSigns Hosted Website app to deploy & host your web app
+
+For advanced & enterprise users who know how to create their own HTML/JS app, you can use OptiSigns Hosted Website app to deploy & host your web app
 
 This eliminates the need to find your web hosting services, combines the management of all your Digital Signage apps in the OptiSigns platform, and makes simple edits, updates & redeploys quickly in OptiSigns.
 
@@ -66,9 +67,3 @@ To use this editor, you will need to either Import your project Zip file (not th
 ![mceclip8.png](https://support.optisigns.com/hc/article_attachments/7592678796819)
 
 If you need API to push data to device level and use your web app to consume this data, or if you further questions on how to use a Hosted Website please contact us at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 7592123111699
-        Section ID: 26319305433875
-        Updated At: 2025-08-29T20:55:40Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website
-    

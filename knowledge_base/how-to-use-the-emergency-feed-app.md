@@ -1,5 +1,6 @@
 # How to Use the Emergency Feed App
-        ### In this article, we'll explain how to set up and use the Emergency Feed app for displaying emergency messages on your digital signs.
+
+### In this article, we'll explain how to set up and use the Emergency Feed app for displaying emergency messages on your digital signs.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating an Emergency Feed App Asset](#Creating)
@@ -90,9 +91,3 @@ After Saving, the app will start listening to the RSS feed. If the conditions ma
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4409673381011
-        Section ID: 26324388001427
-        Updated At: 2025-12-29T21:30:40Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App
-    

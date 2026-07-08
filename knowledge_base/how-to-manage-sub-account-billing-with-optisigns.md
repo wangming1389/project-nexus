@@ -1,5 +1,6 @@
 # How to manage Sub-Account billing with OptiSigns
-        OptiSigns supports managing billing for sub-accounts. With this feature, headquarters/corporate can manage the billing & payment on behalf of the subsidiaries, like franchisees or different departments. For example, a branch manages the account and screens on its own, but corporates can set up the subaccount and add payment methods for local branches.  
+
+OptiSigns supports managing billing for sub-accounts. With this feature, headquarters/corporate can manage the billing & payment on behalf of the subsidiaries, like franchisees or different departments. For example, a branch manages the account and screens on its own, but corporates can set up the subaccount and add payment methods for local branches.  
   
 **Important Note**: Sub-account is a separate account, so **screens**, **contents**, **playlists,** and **schedules** are segregated in the subaccount. The sub-account billing feature is only to support the main account to manage the billing and payment for the sub-account.
 
@@ -45,9 +46,3 @@ You can only do these for your sub-account
 **Important Note**: Sub-account is a separate account. The main account can update the billing info for the sub-account. All screens, contents, playlists, and schedules will not be able to be shared between the main account and the sub-account.
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 17129313173395
-        Section ID: 26319191493267
-        Updated At: 2026-06-24T17:40:46Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns
-    

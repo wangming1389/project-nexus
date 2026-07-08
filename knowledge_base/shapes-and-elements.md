@@ -1,5 +1,6 @@
 # Shapes and Elements
-        ### In this article, we’ll explore all the options for creating and adding Shapes and Elements in Designer.
+
+### In this article, we’ll explore all the options for creating and adding Shapes and Elements in Designer.
 
 * [Adding Shapes and Elements](#AddingShapes)
 * [Shape and Element Options](#Options)
@@ -316,9 +317,3 @@ This is useful for quickly formatting numerous elements.
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42307234534547
-        Section ID: 42593092881043
-        Updated At: 2026-03-30T20:09:57Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements
-    

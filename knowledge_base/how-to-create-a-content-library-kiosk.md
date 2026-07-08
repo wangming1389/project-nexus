@@ -1,5 +1,6 @@
 # How to Create a Content Library Kiosk
-        ### Transform your catalogs of products or library of videos and documents into an interactive kiosk within minutes! This step-by-step guide will help you get your Content Library Kiosk set up in no time.
+
+### Transform your catalogs of products or library of videos and documents into an interactive kiosk within minutes! This step-by-step guide will help you get your Content Library Kiosk set up in no time.
 
 |  |
 | --- |
@@ -128,9 +129,3 @@ This description will appear on the kiosk screen to describe the list of individ
 ## **That's all! It's just that simple!**
 
 If you have any additional questions, concerns or feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 17604055961747
-        Section ID: 26322303862419
-        Updated At: 2025-08-29T19:38:25Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/17604055961747-How-to-Create-a-Content-Library-Kiosk
-    

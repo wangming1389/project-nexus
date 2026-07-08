@@ -1,5 +1,6 @@
 # Tutorial: Create, Update, Add, Remove items from Playlists
-        In this tutorial, we will walk through how to create a playlist and manage the assets assigned to the playlist through the API. Generally, it involves 4 steps.  Firstly, you will need to create a playlist. Secondly, you will need to add content to the playlist. Then you can update the playlist items to change the setting of the playlist items, e.g. change the play duration. Lastly, you can remove the contents from the playlist.
+
+In this tutorial, we will walk through how to create a playlist and manage the assets assigned to the playlist through the API. Generally, it involves 4 steps.  Firstly, you will need to create a playlist. Secondly, you will need to add content to the playlist. Then you can update the playlist items to change the setting of the playlist items, e.g. change the play duration. Lastly, you can remove the contents from the playlist.
 
 #### **1. Create a playlist**
 
@@ -97,9 +98,3 @@ Now you can see, the first 2 assets in the playlist are removed from the playlis
 **Previous Article - [Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen)**
 
 **Next Article - [Tutorial: Creating or Updating Website Assets Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL)**
-        ---
-        Article ID: 4414558295955
-        Section ID: 4414558217235
-        Updated At: 2025-09-04T19:02:46Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists
-    

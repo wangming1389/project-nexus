@@ -1,5 +1,6 @@
 # How to Install an APK file on your Fire TV
-        We strongly recommend to install the Fire TV app via Amazon App store, that way Amazon will automatically keep your app up to date with new releases.
+
+We strongly recommend to install the Fire TV app via Amazon App store, that way Amazon will automatically keep your app up to date with new releases.
 
 **Steps to install APK on your Fire TV:**
 
@@ -35,9 +36,3 @@
 * Installed apps will appear on your Fire Stick’s main page along with the rest of your software.
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360016313754
-        Section ID: 26319570450195
-        Updated At: 2026-06-19T15:42:09Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV
-    

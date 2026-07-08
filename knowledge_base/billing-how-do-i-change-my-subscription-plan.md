@@ -1,5 +1,6 @@
 # Billing: How Do I Change my Subscription Plan?
-        ### In this article, we will cover how to change the subscription plan on your OptiSigns account.
+
+### In this article, we will cover how to change the subscription plan on your OptiSigns account.
 
 * [From Free Trial](#Trial)
 * [From Existing Paid Subscription](#Existing)
@@ -97,9 +98,3 @@ Congratulations! You've changed the terms of your OptiSigns subscription.
 ### That's all!
 
 If you have questions or issues with changing your subscription plan, please contact us at: [support@optisigns.com.](https://support@optisigns.com)
-        ---
-        Article ID: 1500000493782
-        Section ID: 26319191493267
-        Updated At: 2026-07-08T04:10:51Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan
-    

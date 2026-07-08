@@ -1,5 +1,6 @@
 # What Access Does OptiSigns Have to My Account and Devices?
-        * [The Basics](#Basics)
+
+* [The Basics](#Basics)
 * [Why our Team Might Access Your Account](#Why)
 * [How our Remote Device Support Works](#RemoteDeviceSupport)
 * [How you Stay in Control](#Control)
@@ -107,9 +108,3 @@ No. We never sell or rent your data.
 ### Still have questions?
 
 Contact us at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 53216900345875
-        Section ID: 26319169224851
-        Updated At: 2026-07-06T15:29:04Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices
-    

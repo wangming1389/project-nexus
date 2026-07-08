@@ -1,5 +1,6 @@
 # Amazon Signage Stick
-        ### In this article, we’ll walk you through getting OptiSigns set up and working on an Android Signage Stick.
+
+### In this article, we’ll walk you through getting OptiSigns set up and working on an Android Signage Stick.
 
 * [Setting Up the Amazon Signage Stick](#Setting)
 * [Pairing with OptiSigns Web Portal](#Pairing)
@@ -78,9 +79,3 @@ Follow these guides for more detailed steps:
 ### That’s all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any questions or issues that need support, please feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 34087061669523
-        Section ID: 26398464765075
-        Updated At: 2025-09-02T18:43:56Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick
-    

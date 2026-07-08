@@ -1,5 +1,6 @@
 # Amazon Fire Stick and security considerations
-        This article will address some commons questions around security for Amazon Fire Stick.
+
+This article will address some commons questions around security for Amazon Fire Stick.
 
 ## **Physical Security:**
 
@@ -73,9 +74,3 @@ Raspberry Pi: fully support Linux, you can run the distribution of your choosing
 Or ChromeOS devices, ChromeOS is known for its enterprise support, from hardened hardware to Google Cloud Enterprise Device Management that allow you to remote manage devices, apply patches and more.
 
 Feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com) for a free consultation call regard this topic.
-        ---
-        Article ID: 360047232054
-        Section ID: 26319570450195
-        Updated At: 2025-08-29T17:00:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360047232054-Amazon-Fire-Stick-and-security-considerations
-    

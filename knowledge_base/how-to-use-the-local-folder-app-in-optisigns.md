@@ -1,5 +1,6 @@
 # How to Use the Local Folder App in OptiSigns
-        ### In this article, we'll explain how to use the Local Folder app in OptiSigns to let you access locally stored files on your device to display.
+
+### In this article, we'll explain how to use the Local Folder app in OptiSigns to let you access locally stored files on your device to display.
 
 * [How to Set Up the Local Folder App](#Setup)
   + [For Windows](#Windows)
@@ -164,9 +165,3 @@ Then, use this path to fill in the Local Folder value within the Local Folder Ap
 ### **That's all!**
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 1500001985341
-        Section ID: 26324330971411
-        Updated At: 2025-09-04T19:36:02Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns
-    

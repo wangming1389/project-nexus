@@ -1,5 +1,6 @@
 # Kiosk50
-        ![](https://support.optisigns.com/hc/article_attachments/46299797296787)
+
+![](https://support.optisigns.com/hc/article_attachments/46299797296787)
 
 ### This guide will walk you through setting up the OptiKiosk 50 Digital Signage Display Kiosk and getting started with OptiSigns.
 
@@ -250,9 +251,3 @@ If you have further questions, please contact us:
 
 * Email: [support@optisigns.com](mailto:support@optisigns.com)
 * Phone: [+1 (832) 410-8132](tel:%2B18324108132)
-        ---
-        Article ID: 46299245284243
-        Section ID: 26726383037715
-        Updated At: 2026-03-30T17:22:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/46299245284243-Kiosk50
-    

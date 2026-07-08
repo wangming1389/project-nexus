@@ -1,5 +1,6 @@
 # How to create and use Google Reviews Wall
-        If you are a business with a lot of reviews on Google Maps, or Google My Business, you can display these reviews on your big screen TVs to show case your business and also incentive, and make it easy for customers to post more reviews.
+
+If you are a business with a lot of reviews on Google Maps, or Google My Business, you can display these reviews on your big screen TVs to show case your business and also incentive, and make it easy for customers to post more reviews.
 
 Customer can scan the QR code to be taken to write a new review on your business, or other actions such as open a website, send a SMS Text, follow your Instagram, etc. that you can customize.
 
@@ -69,9 +70,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360037463934
-        Section ID: 26324064516755
-        Updated At: 2025-09-04T20:21:45Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall
-    

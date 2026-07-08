@@ -1,5 +1,6 @@
 # LG WebOS Signage (Commercial Grade)
-        LG is one of the world leader in manufacturing commercial grade TV screens that are used in hotels, restaurants, retails and other environment.
+
+LG is one of the world leader in manufacturing commercial grade TV screens that are used in hotels, restaurants, retails and other environment.
 
 OptiSigns does support LG WebOS Signage, all apps, features are supported, include offline playback and auto update of OptiSigns app on LG WebOS Signage devices.
 
@@ -157,9 +158,3 @@ On the first device push ‘Export Setting Data’
 On the other devices push ‘Import Setting Data’
 
 If you have questions or need additional help, please contact us at [support@optisigns.com.](mailto:support@optisigns.com)
-        ---
-        Article ID: 4414496579475
-        Section ID: 26398464765075
-        Updated At: 2025-09-04T18:03:17Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade
-    

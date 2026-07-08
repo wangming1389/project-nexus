@@ -1,5 +1,6 @@
 # How to use the CNN News App
-        ### In this article, we'll explain how to use the CNN News app on OptiSigns.
+
+### In this article, we'll explain how to use the CNN News app on OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating a CNN News Asset](#Creating)
@@ -66,9 +67,3 @@ After you've configured the CNN News app to your liking, hit **Save**. Your CNN 
 ## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360041476213
-        Section ID: 26324224269459
-        Updated At: 2025-09-30T20:41:34Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App
-    

@@ -1,5 +1,6 @@
 # Accepted Payment Methods
-        OptiSigns supports multiple currencies. Below is a list of available payment methods for each currency. You can also find more details on our [Pricing page](https://www.optisigns.com/pricing)
+
+OptiSigns supports multiple currencies. Below is a list of available payment methods for each currency. You can also find more details on our [Pricing page](https://www.optisigns.com/pricing)
 
 The quickest way to start your subscription is by using a credit or debit card. You can begin your subscription [here](https://app.optisigns.com/app/s/subscription-plan).
 
@@ -32,9 +33,3 @@ Our billing team will then send you a quote. Once you’ve obtained a Purchase O
 For OptiSigns Vendor Payment Information, you can find it [here](https://drive.google.com/open?id=1KMc3ukI7kA6v6SnUJDzqT9mAtvY5GVwm&usp=drive_fs).
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our billing team at [billing@optisigns.com](mailto:billing@optisigns.com)
-        ---
-        Article ID: 34379983350163
-        Section ID: 26319091934611
-        Updated At: 2025-09-04T15:39:32Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods
-    

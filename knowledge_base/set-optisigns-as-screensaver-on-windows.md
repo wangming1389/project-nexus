@@ -1,5 +1,6 @@
 # Set OptiSigns as ScreenSaver on Windows
-        Sometimes, you would want to set OptiSigns to run if the PC is idle for some time.  
+
+Sometimes, you would want to set OptiSigns to run if the PC is idle for some time.  
 This is a good use case for Kiosk and Public use computers.
 
 In this guide, we will walk you through end to end process to set OptiSigns app as Screen Saver on Windows.
@@ -77,9 +78,3 @@ Because OptiSigns is closed on any mouse move, click or key press when Screen Sa
 If you want to control OptiSigns again, press Ctrl + Alt + A or Ctrl + Alt + S, this will turn off Screen Saver mode, and you can interact with OptiSigns.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360053211594
-        Section ID: 26318906819091
-        Updated At: 2025-08-29T20:39:30Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows
-    

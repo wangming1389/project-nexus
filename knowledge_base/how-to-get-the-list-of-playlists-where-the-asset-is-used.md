@@ -1,5 +1,6 @@
 # How to get the list of playlists where the asset is used 
-        When there are a lot of assets and playlists to manage, especially the assets are included in many playlists and you need to replace the asset, it may be difficult to find all the playlists and get the asset replaced.  Knowing in which playlist the asset is used is very helpful in this situation. And this is possible with OptiSigns.
+
+When there are a lot of assets and playlists to manage, especially the assets are included in many playlists and you need to replace the asset, it may be difficult to find all the playlists and get the asset replaced.  Knowing in which playlist the asset is used is very helpful in this situation. And this is possible with OptiSigns.
 
 **To get the list of playlists where the asset is used.**
 
@@ -18,9 +19,3 @@ You can see all the playlists in the popup window, and the playlist name is clic
 This is how you can get the list of playlists where the asset is used.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4472060158355
-        Section ID: 26318906819091
-        Updated At: 2025-08-29T19:04:36Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used
-    

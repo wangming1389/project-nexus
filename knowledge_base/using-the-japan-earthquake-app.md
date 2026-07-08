@@ -1,5 +1,6 @@
 # Using the Japan Earthquake App
-        * [What You'll Need](#WhatYouNeed)
+
+* [What You'll Need](#WhatYouNeed)
 * [Creating a Japan Earthquake App](#CreateanApp)
 * [Deploying a Japan Earthquake App](#Deploying)
 
@@ -80,9 +81,3 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 ### That's all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting the Earthquake app to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 53095698149011
-        Section ID: 26324388001427
-        Updated At: 2026-07-06T14:22:20Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
-    

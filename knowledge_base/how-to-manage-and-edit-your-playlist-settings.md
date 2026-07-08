@@ -1,5 +1,6 @@
 # How to Manage and Edit Your Playlist Settings
-        ### This guide will show you how to manage and edit your playlist settings in OptiSigns.
+
+### This guide will show you how to manage and edit your playlist settings in OptiSigns.
 
 In this article:
 
@@ -185,9 +186,3 @@ To learn more about this feature, you can click [here](https://support.optisigns
 If you're interested in exploring our advanced features further, consider [Nested Playlists.](https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-create-and-use-Nested-Playlists) These resources offer detailed insights into optimizing your playlist management experience with OptiSigns.
 
 Please let us know if you have any questions or feedback.
-        ---
-        Article ID: 28295074995859
-        Section ID: 26324652803475
-        Updated At: 2026-06-04T22:14:32Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings
-    

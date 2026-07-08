@@ -1,5 +1,6 @@
 # How to Set up an Instagram Business/Creator account
-        |  |
+
+|  |
 | --- |
 | **NOTE** |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |
@@ -33,9 +34,3 @@ You can now use your Instagram with OptiSigns, when log in, authenticate, please
 With a business account, you'll be able to access business features and Instagram Insights. These tools can help you understand who is engaging with your business on Instagram.
 
 You also have the option to display or hide your business category and contact information on your profile. After setting up, go to your profile and tap **Edit Profile**. Go to **Profile Display** under Public Business Information to choose whether you want to hide or display your category label and contact info. Then, tap **Done**.
-        ---
-        Article ID: 360051745633
-        Section ID: 26319441450131
-        Updated At: 2025-08-28T18:43:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account
-    

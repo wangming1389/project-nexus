@@ -1,5 +1,6 @@
 # Your Templates
-        * [Saving and Using Custom Templates](#Templates)
+
+* [Saving and Using Custom Templates](#Templates)
 * [Saving and Using Custom Components](#Components)
 
 In Designer, the **Your Temp** (short for “Your Templates”) tab allows you to save and reuse your created templates across multiple designs.
@@ -73,9 +74,3 @@ To delete a Custom Component, hover over it and click the trash can:
 ### **That’s all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at <support@optisigns.com>.
-        ---
-        Article ID: 42830652820115
-        Section ID: 42593092881043
-        Updated At: 2026-05-12T21:04:13Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates
-    

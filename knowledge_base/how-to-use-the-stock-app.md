@@ -1,5 +1,6 @@
 # How to Use the Stock App
-        ### The Stock app allows you to display your choice of stock tickers on screen, or as part of a Split Screen configuration as a ticker.
+
+### The Stock app allows you to display your choice of stock tickers on screen, or as part of a Split Screen configuration as a ticker.
 
 * [What You'll Need](#WhatYouNeed)
 * [Setting Up a Stock App](#SettingUp)
@@ -100,9 +101,3 @@ That's it! It is now ready to be part of a Split Screen. See our article on [**C
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360044115513
-        Section ID: 26324377674003
-        Updated At: 2026-01-26T17:43:31Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App
-    

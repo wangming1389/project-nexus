@@ -1,5 +1,6 @@
 # How to use Emergency Message/Alert App
-        With OptiSigns, you can use Emergency Message App to quickly push a pre-defined message to show on your screens in case of emergency. Here are the key features:
+
+With OptiSigns, you can use Emergency Message App to quickly push a pre-defined message to show on your screens in case of emergency. Here are the key features:
 
 * Pre-built emergency customizable templates for Fire, Tornado, Gas Leak, etc.
 * You can set which screens, or group of screens to be targeted (i.e. Building-1)
@@ -93,9 +94,3 @@ You can manually deactivate by clicking Deactivate.
 You have created your Emergency Message App, and know how to activate it in emergency situations.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360052513253
-        Section ID: 26324388001427
-        Updated At: 2025-09-04T20:02:00Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-use-Emergency-Message-Alert-App
-    

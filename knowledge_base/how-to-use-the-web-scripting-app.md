@@ -1,5 +1,6 @@
 # How to use the Web Scripting App
-        ### Web Scripting is an advanced feature for OptiSigns' Pro Plus subscribers or higher, enabling users to automate website navigation and form entries without any coding. This guide will walk you through recording your script, creating Web Scripting assets in OptiSigns, and using them securely on your screens.
+
+### Web Scripting is an advanced feature for OptiSigns' Pro Plus subscribers or higher, enabling users to automate website navigation and form entries without any coding. This guide will walk you through recording your script, creating Web Scripting assets in OptiSigns, and using them securely on your screens.
 
 **In this article**
 
@@ -198,9 +199,3 @@ It then sends securely to devices, and decrypted at device level right before ex
 Congratulations, you have created Web Scripting assets! Now you can automatically log in to gated websites and navigate to pages as needed.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500012522362
-        Section ID: 26324169707283
-        Updated At: 2026-05-14T16:05:37Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App
-    

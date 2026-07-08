@@ -1,5 +1,6 @@
 # How to Use the CAP Alert App
-        ### In this article, we will show you how to set up and test the CAP Alert app in OptiSigns.
+
+### In this article, we will show you how to set up and test the CAP Alert app in OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [How to Set Up a CAP Alert App](#Set)
@@ -207,9 +208,3 @@ The rest of the test can be performed identically.
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 6604468198291
-        Section ID: 26324388001427
-        Updated At: 2026-03-13T16:05:48Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App
-    

@@ -1,5 +1,6 @@
 # How to create and use QR Code, Call To Action app
-        QR Codes is a great way to connect with your customers. By displaying a Call To Action QR Code as part of your digital signs, customer can scan it and take variety number of actions such as open a website, send a SMS Text, follow your Instagram, etc. that you can customize.
+
+QR Codes is a great way to connect with your customers. By displaying a Call To Action QR Code as part of your digital signs, customer can scan it and take variety number of actions such as open a website, send a SMS Text, follow your Instagram, etc. that you can customize.
 
 All smartphone (Android and iPhone) have QR Code scanning built-in with their default camera app. Users just need to open the camera app, point toward the QR code and actions will be prompted.
 
@@ -54,9 +55,3 @@ You can use it with a number of apps that integrate QR code such as Google Revie
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360050796394)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360039264133
-        Section ID: 26499750035603
-        Updated At: 2025-08-29T18:55:06Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360039264133-How-to-create-and-use-QR-Code-Call-To-Action-app
-    

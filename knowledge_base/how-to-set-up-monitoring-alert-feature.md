@@ -1,5 +1,6 @@
 # How to set up Monitoring Alert feature 
-        Monitoring & Alert is a Pro Plus and Enterprise feature that will allow you to receive notifications when devices are down.
+
+Monitoring & Alert is a Pro Plus and Enterprise feature that will allow you to receive notifications when devices are down.
 
 **You will be able to set up:**
 
@@ -49,9 +50,3 @@ You can click "Manage Alert Rules" to go to manage alert rule pages and update y
 You have created Monitoring Alert rule to help you get notifications when your screens are down, so you can take actions.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4403306341523
-        Section ID: 26319268269203
-        Updated At: 2025-09-04T18:20:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4403306341523-How-to-set-up-Monitoring-Alert-feature
-    

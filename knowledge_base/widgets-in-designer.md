@@ -1,5 +1,6 @@
 # Widgets in Designer
-        ### In this article, we’ll cover all the various Widgets you can add to a design via the Designer app.
+
+### In this article, we’ll cover all the various Widgets you can add to a design via the Designer app.
 
 * [Overlay Image](#OverlayImage)
 * [Video](#Video)
@@ -449,9 +450,3 @@ For more information on setting up AeriCast, see our article on [**How to Use Ae
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42436941395475
-        Section ID: 42593092881043
-        Updated At: 2026-06-03T15:53:35Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42436941395475-Widgets-in-Designer
-    

@@ -1,5 +1,6 @@
 # How to Change Account Owners
-        Account Owner is a special role. Only Account Owners can request deletion of accounts.  
+
+Account Owner is a special role. Only Account Owners can request deletion of accounts.  
 There's only 1 Owner per account.
 
 You can change owner to another user/admin in OptiSigns by:
@@ -32,9 +33,3 @@ To do this, an authorized representative will need to fill out [this form](https
 You have changed the owner to another account successfully.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4404616314515
-        Section ID: 26319191493267
-        Updated At: 2026-05-05T16:36:22Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners
-    

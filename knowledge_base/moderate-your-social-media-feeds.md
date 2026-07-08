@@ -1,5 +1,6 @@
 # Moderate your social media feeds
-        If you are using OptiSigns to display your social feed like Instagram, Facebook, and Twitter, sometimes you want the option to review/approve certain posts before they show up on your screens. This is particularly useful when you use Hashtags as your social feeds, as this gives you a chance to review the content.
+
+If you are using OptiSigns to display your social feed like Instagram, Facebook, and Twitter, sometimes you want the option to review/approve certain posts before they show up on your screens. This is particularly useful when you use Hashtags as your social feeds, as this gives you a chance to review the content.
 
 OptiSigns has a built-in content moderation feature that allows you to do just that.
 
@@ -24,9 +25,3 @@ And click ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4
 That's it, you have learned how to moderate your social media feed on your digital signage screens.
 
 If you have any questions or suggestions, please feel free to contact us at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4403015887763
-        Section ID: 26319006646035
-        Updated At: 2025-09-02T19:15:50Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4403015887763-Moderate-your-social-media-feeds
-    

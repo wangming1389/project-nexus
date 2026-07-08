@@ -1,5 +1,6 @@
 # How to use Google Docs with OptiSigns
-        You can set up Google Docs with OptiSigns so that whenever changes are made on Google Docs it will automatically show up on your screen.
+
+You can set up Google Docs with OptiSigns so that whenever changes are made on Google Docs it will automatically show up on your screen.
 
 In this guide, we will walk you through the end-to-end process to use Google Docs in OptiSigns.
 
@@ -75,9 +76,3 @@ You can put the created Google Docs in a Playlist, Schedule too.
 | Make sure your asset file size **does not exceed 10MB**. If it does, it will only display a black screen. |
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360058855273
-        Section ID: 26324064516755
-        Updated At: 2025-09-05T14:48:20Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360058855273-How-to-use-Google-Docs-with-OptiSigns
-    

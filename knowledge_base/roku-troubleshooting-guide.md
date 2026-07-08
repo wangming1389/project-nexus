@@ -1,5 +1,6 @@
 # Roku Troubleshooting guide
-        ### **IMPORTANT NOTE:**
+
+### **IMPORTANT NOTE:**
 
 Updated Sep 2023. After version 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.
 
@@ -65,9 +66,3 @@ For better compatibility and reliability, we recommend a dedicated player like o
 **Factory Reset:**
 
 Lastly, you can try [Factory Reset the Roku device](https://support.roku.com/en-ca/article/208757008).
-        ---
-        Article ID: 28421615261971
-        Section ID: 26319632936723
-        Updated At: 2025-09-02T20:10:19Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide
-    

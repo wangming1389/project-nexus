@@ -1,5 +1,6 @@
 # Present / share your screen with OptiSigns & AeriCast Add-on
-        In this article, we will guide you on how to present/ share from your laptop to your screen.
+
+In this article, we will guide you on how to present/ share from your laptop to your screen.
 
 On your TVs running OptiSigns, you should see 4 digit presenter codes like below:  
 ![](https://support.optisigns.com/hc/article_attachments/14557704816659)  
@@ -47,9 +48,3 @@ When there are more than 1 presenters, the app will show the list of presenters,
 You can also present from iOS, Android phone, or tablet to your screen. Click [here](https://support.optisigns.com/hc/en-us/articles/14557706459283) for more info. You can download the **AeriCast Presenter** app from the app store.  
 ![AeriCast_Presenter_QR.png](https://support.optisigns.com/hc/article_attachments/23736190630547)  
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 14502378549907
-        Section ID: 26500520147347
-        Updated At: 2025-09-02T20:12:05Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on
-    

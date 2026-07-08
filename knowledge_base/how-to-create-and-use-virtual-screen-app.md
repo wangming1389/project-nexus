@@ -1,5 +1,6 @@
 # How to create and use Virtual Screen App
-        This article will guide you through how to create and use a Virtual Screen app.
+
+This article will guide you through how to create and use a Virtual Screen app.
 
 |  |
 | --- |
@@ -43,9 +44,3 @@ You can change the Virtual Screen App any time by click on it in the Files/Asset
 Note: By default, you are limited to 1 Virtual Screens because could potentially be misused and cause unnecessary load on our servers. To create more Virtual Screens, please contact [support@optisigns.com](mailto:support@optisigns.com) with a bit more more details on how you would be using Virtual Screens in your organization.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360055900513
-        Section ID: 26324441989651
-        Updated At: 2025-09-04T17:02:05Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App
-    

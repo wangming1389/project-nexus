@@ -1,5 +1,6 @@
 # How to use the Motivational Quote App
-        This article will show you how to set up and display the Motivational Quote app on your big screens TVs.
+
+This article will show you how to set up and display the Motivational Quote app on your big screens TVs.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360072446473)
 
@@ -35,9 +36,3 @@ You have created an instance of the  Motivational Quote app.
 You can assign it to your screen by going to Screens, click Edit screens and assign the wall directly to a screen or add it to a playlist.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049030453
-        Section ID: 26324330971411
-        Updated At: 2025-08-29T21:33:29Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App
-    

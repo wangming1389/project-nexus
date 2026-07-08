@@ -1,5 +1,6 @@
 # AI Camera App - Quick Start
-        OptiSigns AI Camera app that allows you to use any camera, plug into the device playing OptiSigns Digital Signage player to:
+
+OptiSigns AI Camera app that allows you to use any camera, plug into the device playing OptiSigns Digital Signage player to:
 
 1. Detect and collect data about passing by foot traffic to analyze impressions and exposure of your Digital Sign.
 
@@ -131,9 +132,3 @@ If you leave "Send AI data" on, you can view the analytics report here:
 ![Screenshot 2024-03-22 141025.png](https://support.optisigns.com/hc/article_attachments/27696211826835)
 
 Please let us know if you have any questions or feedback.
-        ---
-        Article ID: 27690296225555
-        Section ID: 26323817773843
-        Updated At: 2026-06-29T19:26:02Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start
-    

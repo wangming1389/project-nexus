@@ -1,5 +1,6 @@
 # How to use Asana App
-        To put Asana Board on your Digital Signs.  
+
+To put Asana Board on your Digital Signs.  
 Go to Asana.com on your browser, open the board,  
 Copy the board's URL Link from the address bar.
 
@@ -22,9 +23,3 @@ You only need to do it once and set remember credential.
 If you are using FireStick, you can connect up a Bluetooth keyboard, mouse to enter the User name and password. Here is a related [article](https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login-).
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500002233221
-        Section ID: 26324330971411
-        Updated At: 2025-09-04T15:11:27Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App
-    

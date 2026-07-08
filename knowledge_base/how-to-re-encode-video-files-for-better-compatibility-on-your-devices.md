@@ -1,5 +1,6 @@
 # How to re-encode video files for better compatibility on your devices
-        Amazon Fire TV, Android or Roku rely on Hardware decode to decode your videos files.
+
+Amazon Fire TV, Android or Roku rely on Hardware decode to decode your videos files.
 
 Most of the time it should be OK, however, there could be times when codec is not recognized or support by your devices.
 
@@ -32,9 +33,3 @@ Depend on video length and quality, and how fast your computer is. It could take
 When it's done, you can upload the file back to OptiSigns and assign to your playlists, screens.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360042143753
-        Section ID: 26319502894611
-        Updated At: 2026-06-29T19:08:36Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices
-    

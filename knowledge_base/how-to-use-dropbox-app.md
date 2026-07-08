@@ -1,5 +1,6 @@
 # How to use Dropbox App
-        With OptiSigns, you can quickly put images, videos from your Dropbox on your Digital Signs screens  by using Dropbox App. The app will create a playlist for files in your Dropbox, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal.
+
+With OptiSigns, you can quickly put images, videos from your Dropbox on your Digital Signs screens  by using Dropbox App. The app will create a playlist for files in your Dropbox, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal.
 
 With the OptiSigns Dropbox app you can:
 
@@ -75,9 +76,3 @@ You can also force refresh, sync by clicking the Refresh Data button.
   + **Create a personal folder** within your Dropbox account and upload your content there. You should then be able to create and access it within the **OptiSigns portal**.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360050665413
-        Section ID: 26324023523603
-        Updated At: 2025-10-10T11:34:21Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-use-Dropbox-App
-    

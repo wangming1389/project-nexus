@@ -1,5 +1,6 @@
 # How to Use the OptiDev App
-        ### In this article, we will go over setting up an OptiDev app and getting your OptiDev projects onto your digital signs.
+
+### In this article, we will go over setting up an OptiDev app and getting your OptiDev projects onto your digital signs.
 
 * [What You’ll Need](https://support.optisigns.com/hc/en-us/articles/undefined#WhatYouNeed)
 * [Setting Up an OptiDev App from OptiSigns](https://support.optisigns.com/hc/en-us/articles/undefined#SettingUp)
@@ -93,9 +94,3 @@ To use this feature, you will need a Standard subscription on the OptiDev platfo
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 47616485609491
-        Section ID: 26324330971411
-        Updated At: 2026-02-11T23:03:49Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App
-    

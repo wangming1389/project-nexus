@@ -1,5 +1,6 @@
 # Subscription Function in GraphQL
-        Subscriptions are a query type that allows you to be notified when any changes are made to a device, asset, or playlist.
+
+Subscriptions are a query type that allows you to be notified when any changes are made to a device, asset, or playlist.
 
 An example might be that you want to be notified of any changes made to your device, be that changing the asset or playlist. This can be done entirely within GraphQL by using queries to find the information about a device, setting up a subscription, then using mutations to alter the device attributes.
 
@@ -85,9 +86,3 @@ When we perform this Mutation, we can switch over to where our Subscription is L
 **Previous Article - [Error Handling](https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling)**
 
 **Next Article - [API Reference](https://support.optisigns.com/hc/en-us/articles/4414558392339-API-Reference)**
-        ---
-        Article ID: 36558469962643
-        Section ID: 4414558217235
-        Updated At: 2025-09-04T15:00:36Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL
-    

@@ -1,5 +1,6 @@
 # How to Use the Data Studio App
-        ### In this article, we'll show how to display Google Data Studio (formerly Looker Studio) information on your digital signs with OptiSigns.
+
+### In this article, we'll show how to display Google Data Studio (formerly Looker Studio) information on your digital signs with OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating a Data Studio App](#CreatingApp)
@@ -95,9 +96,3 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360052088413
-        Section ID: 26324064516755
-        Updated At: 2026-06-12T19:57:31Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App
-    

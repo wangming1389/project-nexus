@@ -1,5 +1,6 @@
 # ProPlayer
-        * [What is the OptiSigns Pro Digital Signage Player?](#WhatIs)
+
+* [What is the OptiSigns Pro Digital Signage Player?](#WhatIs)
   + [Why you should consider using the OptiSigns Pro Player over the Android Player](#WhyConsider)
   + [Key Features of the OptiSigns Pro Digital Signage Player](#KeyFeatures)
   + [How to Order the Pro Digital Signage Player](#HowtoOrder)
@@ -184,9 +185,3 @@ If you ever need to reboot your device, view logs, or revisit the Wi-Fi setup, y
 ## That’s it!
 
 You’re all set up and ready to go. Now, dive into the countless possibilities to enhance your digital displays with OptiSigns' powerful apps and integrations.
-        ---
-        Article ID: 32272215514131
-        Section ID: 26726383037715
-        Updated At: 2026-03-30T17:22:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer
-    

@@ -1,5 +1,6 @@
 # Advanced: How to assign security for users to only edit certain zones of the screens
-        This article will guide you through how to assign security for users to only edit certain zones of the screens.  
+
+This article will guide you through how to assign security for users to only edit certain zones of the screens.  
 Use Case: a Company with 2 departments, Department A and Department B, each will have a section/zone of the screen that they can update freely, but they cannot change the zone belong to other departments. Administrators can edit modify the whole screen.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360102952113)
@@ -66,9 +67,3 @@ DepartmentB User can see the
 * Department B Playlist Folder in the Playlist
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500002047642
-        Section ID: 26503214488979
-        Updated At: 2025-09-02T19:14:05Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500002047642-Advanced-How-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens
-    

@@ -1,5 +1,6 @@
 # Getting Started with an OptiSigns Free Trial
-        ### In this article, we take you through the features you'll have access to with an OptiSigns Free Trial
+
+### In this article, we take you through the features you'll have access to with an OptiSigns Free Trial
 
 * [How Do I Start an OptiSigns Free Trial?](#Start)
 * [What Comes With an OptiSigns Free Trial?](#Comes)
@@ -80,9 +81,3 @@ We recommend playing around with our platform to learn the UI/UX and the full pl
 * [Getting Started with OptiSigns](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide)
 * [How to get the most out of your digital signs](https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs)
 * [How to contact OptiSigns support](https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support)
-        ---
-        Article ID: 37966066335891
-        Section ID: 360003143773
-        Updated At: 2025-09-04T18:44:24Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial
-    

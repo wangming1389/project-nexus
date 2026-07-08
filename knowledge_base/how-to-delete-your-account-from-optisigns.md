@@ -1,5 +1,6 @@
 # How to Delete Your Account from OptiSigns
-        When you delete your account, all your data, images, videos, assets, playlists, schedules, proof of play, etc. will be permanently deleted. Please do so with caution.
+
+When you delete your account, all your data, images, videos, assets, playlists, schedules, proof of play, etc. will be permanently deleted. Please do so with caution.
 
 After your account is deleted, you can sign up again with the same username.
 
@@ -19,9 +20,3 @@ Before deleting your account, you may want to log in and download a copy of you
 Your account has been deleted successfully from our system.
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4404608957075
-        Section ID: 26319191493267
-        Updated At: 2025-08-29T17:02:02Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns
-    

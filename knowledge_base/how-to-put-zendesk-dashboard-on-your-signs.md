@@ -1,5 +1,6 @@
 # How to put ZenDesk Dashboard on your signs
-        This article will guide you through how to create and use a Zendesk App.
+
+This article will guide you through how to create and use a Zendesk App.
 
 ## Let's jump in and get started:
 
@@ -31,9 +32,3 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360060919453
-        Section ID: 26324330971411
-        Updated At: 2025-09-02T18:19:33Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs
-    

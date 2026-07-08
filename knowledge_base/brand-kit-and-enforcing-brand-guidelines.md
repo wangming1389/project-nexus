@@ -1,5 +1,6 @@
 # Brand Kit and Enforcing Brand Guidelines
-        ### In this article, we’ll go over Designer’s Brand Kit options for enforcing brand guidelines across created content.
+
+### In this article, we’ll go over Designer’s Brand Kit options for enforcing brand guidelines across created content.
 
 * [What You’ll Need](#WhatYouNeed)
 * [Basics of the Brand Kit](#Basics)
@@ -112,9 +113,3 @@ The checkmark denotes the default color. This can be altered by hovering over ot
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 42313875427859
-        Section ID: 42593092881043
-        Updated At: 2025-09-04T17:25:47Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines
-    

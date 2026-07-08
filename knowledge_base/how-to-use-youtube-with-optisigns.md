@@ -1,5 +1,6 @@
 # How to use YouTube with OptiSigns
-        Putting YouTube video on your digital signs screens is easy with OptiSigns.  
+
+Putting YouTube video on your digital signs screens is easy with OptiSigns.  
 You just need to copy the YouTube Link and paste in the YouTube app in OptiSigns.
 
 ## **Let's jump in and get started:**
@@ -44,9 +45,3 @@ You can assign the newly created YouTube asset to your screen by going to Screen
 You can put the YouTube Video to a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360051014713
-        Section ID: 26324076807315
-        Updated At: 2026-06-18T05:00:56Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns
-    

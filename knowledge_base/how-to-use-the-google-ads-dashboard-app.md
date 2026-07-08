@@ -1,5 +1,6 @@
 # How to Use the Google Ads Dashboard App
-        ### In this article, we'll show how to display Google Ads information on your digital signs with OptiSigns.
+
+### In this article, we'll show how to display Google Ads information on your digital signs with OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Accessing Looker Studio and Linking Google Ads Data](#AccessingLooker)
@@ -137,9 +138,3 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 48751096814995
-        Section ID: 26324064516755
-        Updated At: 2026-02-02T17:54:16Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App
-    

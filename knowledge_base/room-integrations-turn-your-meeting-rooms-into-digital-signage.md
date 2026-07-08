@@ -1,5 +1,6 @@
 # Room Integrations: Turn Your Meeting Rooms into Digital Signage
-        ![OptiSigns Room Integrations — one place to manage and push digital signage to all your meeting room systems](https://support.optisigns.com/hc/article_attachments/52113329657491)
+
+![OptiSigns Room Integrations — one place to manage and push digital signage to all your meeting room systems](https://support.optisigns.com/hc/article_attachments/52113329657491)
 
 Your meeting rooms sit idle most of the day. OptiSigns **Room Integrations** put that screen time to work: when a room is between meetings, OptiSigns plays your content — announcements, dashboards, branding, menus, or emergency messages — right on the room display, and clears it the instant a meeting starts.
 
@@ -114,9 +115,3 @@ Disconnecting stops syncing and removes the OptiSigns signage URL from your room
 * [Connect Microsoft Teams Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage)
 * [Connect Google Meet Hardware to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage)
 * [OptiSigns Help Center](https://support.optisigns.com/hc/en-us)
-        ---
-        Article ID: 52113036672403
-        Section ID: 26324330971411
-        Updated At: 2026-06-15T19:14:16Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage
-    

@@ -1,5 +1,6 @@
 # How to use the CountDown App
-        ### In this article, we'll explain how to use the CountDown app on OptiSigns.
+
+### In this article, we'll explain how to use the CountDown app on OptiSigns.
 
 * [What You'll Need](#WhatYouNeed)
 * [Creating a CountDown Asset](#Creating)
@@ -115,9 +116,3 @@ After you've configured the CountDown app to your liking, hit **Save**. Your Cou
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360041638433
-        Section ID: 26324441989651
-        Updated At: 2026-05-05T17:08:12Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App
-    

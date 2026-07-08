@@ -1,5 +1,6 @@
 # Difference between Instagram & Instagram Business App
-        |  |
+
+|  |
 | --- |
 | **NOTE** |
 | To set up an Instagram Business account, we recommend following [this article on Instagram's website](https://help.instagram.com/502981923235522). |
@@ -18,9 +19,3 @@ As result of Facebook's change in policies, Instagram Consumer and Instagram Bus
 * Get follower counts (for [Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233))
 
 To learn how to use our Instagram [click here](https://support.optisigns.com/hc/en-us/articles/360016388733); or how to use our Instagram Business app [click here.](https://support.optisigns.com/hc/en-us/articles/360051495193)
-        ---
-        Article ID: 360050728934
-        Section ID: 26319759137811
-        Updated At: 2025-12-12T20:55:05Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360050728934-Difference-between-Instagram-Instagram-Business-App
-    

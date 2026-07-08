@@ -1,5 +1,6 @@
 # OptiSigns IoT Sensor Add-on - Quick Start
-        ### How to quickly get your IoT sensors up and running on any screens you wish.
+
+### How to quickly get your IoT sensors up and running on any screens you wish.
 
 In this article:
 
@@ -221,9 +222,3 @@ Now you have completed all the needed configurations to use the IoT sensors add-
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/13110301584531)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 13097501958291
-        Section ID: 26323750881043
-        Updated At: 2025-09-02T18:16:29Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start
-    

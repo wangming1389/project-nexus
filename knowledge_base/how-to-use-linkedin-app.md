@@ -1,5 +1,6 @@
 # How to use LinkedIn App
-        To use LinkedIn app with any 3rd party app like OptiSigns you will need:
+
+To use LinkedIn app with any 3rd party app like OptiSigns you will need:
 
 1. Create a Company page if it is not existed. See how to [here](https://business.linkedin.com/marketing-solutions/linkedin-pages).
 2. If your LinkedIn account is not Admin of your Company page, link your account to your Company page by requesting Admin access. See how to [here](https://www.linkedin.com/help/linkedin/answer/17481/request-admin-access-to-a-linkedin-page?lang=en).
@@ -75,9 +76,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4406180781203
-        Section ID: 26324141467539
-        Updated At: 2025-09-04T18:05:53Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App
-    

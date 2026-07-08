@@ -1,5 +1,6 @@
 # Folder Level Permissions
-        ### In this article, we'll explain Folder Level Permissions in detail and how to grant desired users and Teams proper access.
+
+### In this article, we'll explain Folder Level Permissions in detail and how to grant desired users and Teams proper access.
 
 * [Change Folder Permissions](#Permissions)
   + [Restricting or Granting Access by User or Team](#RestrictingGranting)
@@ -154,9 +155,3 @@ When dealing with Playlists and Schedules, there are some specific nuances.
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 360044600474
-        Section ID: 26319169224851
-        Updated At: 2025-09-10T15:02:26Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions
-    

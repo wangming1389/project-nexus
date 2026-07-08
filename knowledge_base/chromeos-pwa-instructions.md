@@ -1,5 +1,6 @@
 # ChromeOS PWA Instructions
-        ### In this article, we will show how to set up OptiSigns on ChromeOS devices. This can be used for mass provisioning across numerous Chrome boxes without the use of any Chrome apps.
+
+### In this article, we will show how to set up OptiSigns on ChromeOS devices. This can be used for mass provisioning across numerous Chrome boxes without the use of any Chrome apps.
 
 * [What You'll Need](#WhatYouNeed)
 * [Adding OptiSigns Player to a Google Admin Account](#AddingOptiSigns)
@@ -179,9 +180,3 @@ This will allow OptiSigns to run!
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 49039295567891
-        Section ID: 26398464765075
-        Updated At: 2026-05-05T15:48:27Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions
-    

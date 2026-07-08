@@ -1,5 +1,6 @@
 # Configuring Mass Deployment with Jamf Pro MDM on Apple Devices
-        Efficiently managing digital signage across multiple devices is crucial for businesses to ensure smooth operations and consistent updates. OptiSigns, in conjunction with a Mobile Device Management (MDM) system, offers a streamlined process for mass enrolling your devices. This guide will walk you through the steps to distribute and manage OptiSigns digital signage software using a Jamf MDM system on Apple devices.
+
+Efficiently managing digital signage across multiple devices is crucial for businesses to ensure smooth operations and consistent updates. OptiSigns, in conjunction with a Mobile Device Management (MDM) system, offers a streamlined process for mass enrolling your devices. This guide will walk you through the steps to distribute and manage OptiSigns digital signage software using a Jamf MDM system on Apple devices.
 
 ---
 
@@ -77,9 +78,3 @@ Finally, you can check installation status in MDM:
 ### That's all! Congratulations!
 
 Now, you can enjoy OptiSigns Digital Signage across your Apple devices.
-        ---
-        Article ID: 31695220475283
-        Section ID: 26319049025683
-        Updated At: 2025-08-29T17:04:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices
-    

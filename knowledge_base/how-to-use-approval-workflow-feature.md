@@ -1,5 +1,6 @@
 # How to use Approval Workflow feature
-        With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that you can have:
+
+With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that you can have:
 
 1) Contributors in your organization that can create, upload contents, make changes to Playlists
 
@@ -97,9 +98,3 @@ Content Proposer cannot Edit Screens, Change Assets, Schedule.
 We would like to keep the process simple for both the Proposers and Approvers. Imagine if an approver needs to look at a change in an asset that belong to a Playlist that's in a Schedule 2 weeks from now. It would not be easy for the approver to figure out what's the actual impact of the change.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360063693093
-        Section ID: 26503214488979
-        Updated At: 2025-08-29T18:47:00Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360063693093-How-to-use-Approval-Workflow-feature
-    

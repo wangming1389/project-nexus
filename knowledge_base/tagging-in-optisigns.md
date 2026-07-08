@@ -1,5 +1,6 @@
 # Tagging in OptiSigns
-        ### In this article, we will go over how to best use the tagging feature in OptiSigns to organize your assets and screens.
+
+### In this article, we will go over how to best use the tagging feature in OptiSigns to organize your assets and screens.
 
 * [Screen Tagging](#ScreenTagging)
   + [Pushing to Multiple Screens](#Pushing)
@@ -208,9 +209,3 @@ Don’t forget: it’s possible to add as many tags as you’d like to any given
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
-        ---
-        Article ID: 38062664690195
-        Section ID: 26318933920019
-        Updated At: 2025-09-09T19:34:07Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns
-    

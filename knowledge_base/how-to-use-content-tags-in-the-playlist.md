@@ -1,5 +1,6 @@
 # How to Use Content Tags in The Playlist
-        ## Want more control over which assets and tags in your playlist display on your screen? Follow this guide to learn more!
+
+## Want more control over which assets and tags in your playlist display on your screen? Follow this guide to learn more!
 
 |  |
 | --- |
@@ -111,9 +112,3 @@ You also have the option to set an exclusion rule, which will prevent any assets
 By following these steps, you can efficiently manage and customize tags for playlists and individual assets.
 
 **That's it!**
-        ---
-        Article ID: 20879903340947
-        Section ID: 26319329063571
-        Updated At: 2025-09-04T19:48:57Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist
-    

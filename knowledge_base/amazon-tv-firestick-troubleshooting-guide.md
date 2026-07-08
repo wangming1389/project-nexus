@@ -1,5 +1,6 @@
 # Amazon TV / FireStick Troubleshooting Guide
-        If you are experiencing black screens, device not powering up, not connected to network, etc.
+
+If you are experiencing black screens, device not powering up, not connected to network, etc.
 
 Please follow the steps below for troubleshooting, it commonly resolve 90%+ of the issues.
 
@@ -56,9 +57,3 @@ If you already have a newer model and still want to try to use it, and you can 
 **Factory Reset:**
 
 Lastly, you can try [Factory Reset the device](https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device).
-        ---
-        Article ID: 27463953562899
-        Section ID: 26319570450195
-        Updated At: 2026-04-28T15:36:27Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide
-    

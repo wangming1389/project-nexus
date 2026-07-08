@@ -1,5 +1,6 @@
 # How to use Advanced Website App
-        Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
+
+Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
 Advanced Website App is the solution for that, it will allow you to:
 
 * Set the app to scroll down & up the web page, or just scroll to a certain location
@@ -46,9 +47,3 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 5149077938835
-        Section ID: 26324169707283
-        Updated At: 2025-08-29T19:27:36Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App
-    

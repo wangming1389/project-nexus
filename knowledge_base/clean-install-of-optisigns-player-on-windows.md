@@ -1,5 +1,6 @@
 # Clean install of OptiSigns Player on Windows
-        Performing a clean install of OptiSigns on Windows could help to resolve issues you experiencing.
+
+Performing a clean install of OptiSigns on Windows could help to resolve issues you experiencing.
 
 |  |
 | --- |
@@ -31,9 +32,3 @@ And install it again.
 That's all you have performed a clean uninstall and reinstall of OptiSigns player.
 
 If you still experiencing issues, please contact us at support@optisigns.com
-        ---
-        Article ID: 1500005467601
-        Section ID: 26319660990099
-        Updated At: 2025-10-23T21:18:17Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows
-    

@@ -1,5 +1,6 @@
 # How to use World Clock App
-        World Clock App allow you to show up to 6 clocks of different cities, locations on your screen.  
+
+World Clock App allow you to show up to 6 clocks of different cities, locations on your screen.  
 Below is an example:
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360057588553)
@@ -42,9 +43,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360042450514
-        Section ID: 26324342893715
-        Updated At: 2025-08-29T21:54:59Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360042450514-How-to-use-World-Clock-App
-    

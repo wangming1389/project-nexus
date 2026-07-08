@@ -1,5 +1,6 @@
 # How to use On This Day app
-        On this day is a small trivia app getting highlights from Wikipedia's database of what happens on this date. Usually it's birthday or some holiday events.
+
+On this day is a small trivia app getting highlights from Wikipedia's database of what happens on this date. Usually it's birthday or some holiday events.
 
 Here's how it look.  
 \* Not all event has pictures  
@@ -41,9 +42,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 1500009492202
-        Section ID: 26324441989651
-        Updated At: 2025-08-29T21:31:21Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-use-On-This-Day-app
-    

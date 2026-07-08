@@ -1,5 +1,6 @@
 # Working with Teams and Security Levels
-        With OptiSigns, you can set up Teams, invite other users / account members and set security levels.  
+
+With OptiSigns, you can set up Teams, invite other users / account members and set security levels.  
 Team(like workspace) is built for segregation, all the resources (Screens, Assets, Users etc) in a team are segregated from other teams. Account owner will have access to all the teams, if you need to act as a global administrator and have access to all the teams, you can use the Super Admin role for that purpose.
 
 |  |
@@ -108,9 +109,3 @@ If you belong to more than 1 team, you can switch between teams to manage screen
 To do so, simply click on your name on the top right, then in the drop-down click the team name to expand and select the team you want to switch to.
 
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360045728873)
-        ---
-        Article ID: 360034883113
-        Section ID: 26319169224851
-        Updated At: 2026-06-01T19:53:55Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels
-    

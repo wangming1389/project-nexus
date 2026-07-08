@@ -1,5 +1,6 @@
 # Kiosk32
-        ![6(1).png](https://support.optisigns.com/hc/article_attachments/44668998108947)
+
+![6(1).png](https://support.optisigns.com/hc/article_attachments/44668998108947)
 
 ### This guide will walk you through setting up the OptiKiosk 32 Digital Signage Kiosk and getting started with OptiSigns.
 
@@ -256,9 +257,3 @@ If you have further questions, please contact us:
 
 * Email: <support@optisigns.com>
 * Phone: [+1 (832) 410-8132](tel:18324108132)
-        ---
-        Article ID: 44669013147923
-        Section ID: 26726383037715
-        Updated At: 2026-04-29T15:27:37Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32
-    

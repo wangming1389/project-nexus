@@ -1,5 +1,6 @@
 # How to Configure Multi-Factor Authentication with your OptiSigns account.
-        Nowadays, digital security is critical in the world because both businesses and users store sensitive information online. You can set up Multi-Factor Authentication with your OptiSigns account. This increases your account's security.  
+
+Nowadays, digital security is critical in the world because both businesses and users store sensitive information online. You can set up Multi-Factor Authentication with your OptiSigns account. This increases your account's security.  
   
 **Important Note:**
 
@@ -53,9 +54,3 @@ You can download the Backup Codes.
 You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 18381542133779
-        Section ID: 26319169224851
-        Updated At: 2025-09-04T16:20:40Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/18381542133779-How-to-Configure-Multi-Factor-Authentication-with-your-OptiSigns-account
-    

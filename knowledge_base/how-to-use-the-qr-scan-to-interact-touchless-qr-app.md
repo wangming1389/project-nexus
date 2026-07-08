@@ -1,5 +1,6 @@
 # How to use the QR Scan-to-Interact (Touchless QR) app
-        ### Turn any static screens into interactive experience - no additional sensor or camera needed. Viewers can scan QR codes, get a list of actionable menu like play a video, display more info and the screen will play that content. A quick, step-by-step guide on how to get your QR Codes running quickly through our QR Scan-to-Interact feature on Engage.
+
+### Turn any static screens into interactive experience - no additional sensor or camera needed. Viewers can scan QR codes, get a list of actionable menu like play a video, display more info and the screen will play that content. A quick, step-by-step guide on how to get your QR Codes running quickly through our QR Scan-to-Interact feature on Engage.
 
 In this article:
 
@@ -148,9 +149,3 @@ You'll also be able to Preview your screen before you push it live.
 You've successfully created a QR Scan-to-Interact app. It can be edited at any time from the **Engage** tab. These QR codes can be added to any existing content schedules or playlists.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 8899727608083
-        Section ID: 26323803674515
-        Updated At: 2025-08-05T15:21:30Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/8899727608083-How-to-use-the-QR-Scan-to-Interact-Touchless-QR-app
-    

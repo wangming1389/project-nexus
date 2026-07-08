@@ -1,5 +1,6 @@
 # How to use Slack App
-        To use Slack app with any 3rd party app like OptiSigns you will need:
+
+To use Slack app with any 3rd party app like OptiSigns you will need:
 
 * Create a Slack workspace. See how to [here](https://slack.com/intl/en-vn/help/articles/206845317-Create-a-Slack-workspace).
 
@@ -89,9 +90,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created Slack walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4407335862931
-        Section ID: 26324330971411
-        Updated At: 2025-12-22T15:34:06Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App
-    

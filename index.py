@@ -45,12 +45,6 @@ def load_markdown(filename: str) -> str:
     return filepath.read_text(encoding="utf-8")
 
 
-def remove_footer(markdown: str) -> str:
-    """Strip the metadata footer appended by scrape.py."""
-    marker = "\n---\nArticle ID:"
-    return markdown.split(marker)[0] if marker in markdown else markdown
-
-
 def split_article(article: dict, markdown: str) -> list[dict]:
     """
     Split one article into chunks.
@@ -59,7 +53,7 @@ def split_article(article: dict, markdown: str) -> list[dict]:
     Timestamps and hashes are kept in metadata only
     so they don't pollute the semantic vector.
     """
-    chunks = text_splitter.split_text(remove_footer(markdown))
+    chunks = text_splitter.split_text(markdown)
 
     results = [
         {

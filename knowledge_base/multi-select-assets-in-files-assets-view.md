@@ -1,5 +1,6 @@
 # Multi-select assets in Files/Assets view
-        There are a few ways to can select multiple assets at a time:
+
+There are a few ways to can select multiple assets at a time:
 
 **1) Press Ctrl and click on the assets you want to select:**
 
@@ -20,9 +21,3 @@ In your Personal Settings: <https://app.optisigns.com/app/s/personal-profile>
 You can check "Single click to select assets" this will allow you to single click to select the asset instead of opening it. Double Click will open the asset in this case.
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500008041902)
-        ---
-        Article ID: 1500006056101
-        Section ID: 26319069331219
-        Updated At: 2025-08-29T19:08:26Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500006056101-Multi-select-assets-in-Files-Assets-view
-    

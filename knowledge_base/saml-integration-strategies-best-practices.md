@@ -1,5 +1,6 @@
 # SAML Integration Strategies & Best Practices
-        There are many ways to implement SAML to manage users and access OptiSigns with your IDP.
+
+There are many ways to implement SAML to manage users and access OptiSigns with your IDP.
 
 Here are some high-level best practices with OptiSigns that will help to plan your integration and reduce overhead and manual work later.
 
@@ -85,9 +86,3 @@ This way you can keep the system clean and only users needing access to the app 
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4407136240659)
 
 If you have any questions or need help with SAML integration please feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4407128433299
-        Section ID: 26319189062803
-        Updated At: 2026-02-05T20:22:33Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-Integration-Strategies-Best-Practices
-    

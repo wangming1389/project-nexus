@@ -1,5 +1,6 @@
 # How to use the ESPN News App
-        ### In this article, we'll explain how to use the ESPN News app on OptiSigns.
+
+### In this article, we'll explain how to use the ESPN News app on OptiSigns.
 
 * [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360041476213#WhatYouNeed)
 * [Creating a ESPN News Asset](https://support.optisigns.com/hc/en-us/articles/360041476213#Creating)
@@ -66,9 +67,3 @@ After you've configured the ESPN News app to your liking, hit **Save**. Your ESP
 ## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360040991474
-        Section ID: 26324224269459
-        Updated At: 2025-10-10T18:54:38Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App
-    

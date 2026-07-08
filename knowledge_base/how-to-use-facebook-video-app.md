@@ -1,5 +1,6 @@
 # How to use Facebook Video App
-        This article will guide you through how to create and use Facebook Video App.
+
+This article will guide you through how to create and use Facebook Video App.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360075549614)
 
@@ -42,9 +43,3 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 360049872414
-        Section ID: 26324141467539
-        Updated At: 2025-09-05T14:55:21Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App
-    

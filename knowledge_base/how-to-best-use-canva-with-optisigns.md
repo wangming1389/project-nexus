@@ -1,5 +1,6 @@
 # How to Best Use Canva with OptiSigns
-        ### Turn your ideas into striking designs effortlessly with Canva, a versatile graphic design tool. Follow this guide learn how to bring your screens to life with Canva.
+
+### Turn your ideas into striking designs effortlessly with Canva, a versatile graphic design tool. Follow this guide learn how to bring your screens to life with Canva.
 
 |  |
 | --- |
@@ -123,9 +124,3 @@ Canva is an excellent resource for graphics, marketing, and designs. While using
 ## That's it!
 
 Click [here](https://designschool.canva.com/tutorials/) to learn more about Canva's capabilities and how to utilize its full potential!
-        ---
-        Article ID: 1500005888781
-        Section ID: 26324301064211
-        Updated At: 2025-09-04T13:52:52Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns
-    

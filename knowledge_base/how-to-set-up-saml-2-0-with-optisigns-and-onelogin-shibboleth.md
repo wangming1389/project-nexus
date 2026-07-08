@@ -1,5 +1,6 @@
 # How to set up SAML 2.0 with OptiSigns and OneLogin(Shibboleth)
-        With Pro Plus and Enterprise plans, you can configure SAML 2.0 with OptiSigns via OneLogin using Shibboleth. Shibboleth is based on SAML, the setup of the authentication using the Shibboleth connector on OneLogin will be similar to the normal SAML connector.
+
+With Pro Plus and Enterprise plans, you can configure SAML 2.0 with OptiSigns via OneLogin using Shibboleth. Shibboleth is based on SAML, the setup of the authentication using the Shibboleth connector on OneLogin will be similar to the normal SAML connector.
 
 OneLogin will be acting as the IDP (Identity Provider), and OptiSigns will be working as the SP(Service Provider).
 
@@ -133,9 +134,3 @@ Now your users can log in using the subdomain that you configured (in this case 
 You can share the URL with your users and they can log in with their SSO credentials.
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-        ---
-        Article ID: 4407476403859
-        Section ID: 26319189062803
-        Updated At: 2025-09-02T20:38:51Z
-        Article URL: https://support.optisigns.com/hc/en-us/articles/4407476403859-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin-Shibboleth
-    
