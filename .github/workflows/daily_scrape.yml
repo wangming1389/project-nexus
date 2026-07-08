@@ -1,0 +1,37 @@
+name: Daily Scraper and Indexer (Dockerized)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write 
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build Docker Image
+        run: docker build -t optibot-scraper .
+
+      - name: Run Job inside Docker
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: >
+          docker run 
+          --env GEMINI_API_KEY=$GEMINI_API_KEY 
+          -v ${{ github.workspace }}:/app 
+          optibot-scraper
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update knowledge base and chroma_db via Docker"
+          file_pattern: 'knowledge_base/* chroma_db/*'
