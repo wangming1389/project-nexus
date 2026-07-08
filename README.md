@@ -1,10 +1,11 @@
 # Support Bot RAG Pipeline
 
-![OptiBot UI](assets/screenshot.png)
+![Bot UI](assets/screenshot.png)
 
 This is a test submission for building a Retrieval-Augmented Generation (RAG) pipeline for support articles. The project includes scraping, vector indexing, a terminal chat interface, and a deployment configuration for daily updates.
 
 ## Architecture
+
 1. **Scraper**: Pulls support articles via API, converts HTML to Markdown, and calculates content hashes to detect changes.
 2. **Indexer**: Uses `sentence-transformers/all-MiniLM-L6-v2` to locally embed articles and stores them in ChromaDB. Only new or updated articles (delta) are processed.
 3. **Chat**: Terminal interface that retrieves relevant chunks from ChromaDB and uses Gemini to generate accurate, cited answers.
@@ -13,16 +14,20 @@ This is a test submission for building a Retrieval-Augmented Generation (RAG) pi
 ## Setup Instructions
 
 ### 1. Requirements
+
 - Python 3.10+
 - Google Gemini API Key
 
 ### 2. Environment Configuration
+
 Create a `.env` file in the root directory:
+
 ```env
 GEMINI_API_KEY="your_api_key_here"
 ```
 
 ### 3. Install Dependencies
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
@@ -35,24 +40,28 @@ Use the `main.py` script to run different parts of the pipeline:
 
 **1. Scrape Knowledge Base**
 Downloads and converts articles to markdown.
+
 ```bash
 python main.py scrape
 ```
 
 **2. Index to Vector DB**
 Generates local embeddings and upserts only new/updated articles into ChromaDB.
+
 ```bash
 python main.py index
 ```
 
 **3. Run Chatbot (Terminal)**
 Starts the interactive terminal chat.
+
 ```bash
 python main.py chat
 ```
 
 **4. Run Web UI (Streamlit)**
 Starts a modern web-based chat interface.
+
 ```bash
 python main.py ui
 ```
@@ -62,6 +71,7 @@ python main.py ui
 You can run the pipeline using Docker without needing Python installed locally.
 
 **1. Build the Docker Image**
+
 ```bash
 docker build -t optibot .
 ```
@@ -78,6 +88,7 @@ docker run \
 ```
 
 This command:
+
 - Scrapes the latest OptiSigns articles
 - Detects new or updated content
 - Updates the local ChromaDB index
@@ -104,9 +115,10 @@ docker run \
 
 ## Deployment (Daily Job)
 
-The scraper is packaged using a `Dockerfile` and scheduled to run automatically once per day using GitHub Actions (`.github/workflows/daily_scrape.yml`). 
+The scraper is packaged using a `Dockerfile` and scheduled to run automatically once per day using GitHub Actions (`.github/workflows/daily_scrape.yml`).
 
 The scheduled job performs the following:
+
 1. Builds the Docker container.
 2. Re-scrapes the knowledge base.
 3. Detects modifications (using `content_hash`).
@@ -114,7 +126,11 @@ The scheduled job performs the following:
 5. Logs the execution counts (`New`, `Updated`, `Skipped`).
 6. Mounts the volume and commits the updated `chroma_db` back to the repository to persist the database.
 
+**Workflow & execution logs:**
+https://github.com/wangming1389/project-nexus/actions/workflows/daily_scrape.yml
+
 To manually trigger the job or view logs:
+
 - Go to the **Actions** tab on GitHub.
 - Select the **Daily Scraper and Indexer (Dockerized)** workflow.
 - Click **Run workflow** or view past runs to see the log counts.
