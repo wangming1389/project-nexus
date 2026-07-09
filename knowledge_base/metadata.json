@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-07-08T15:39:05.782117+00:00",
-    "article_count": 405,
-    "saved": 405,
+    "generated_at": "2026-07-09T01:58:29.130199+00:00",
+    "article_count": 406,
+    "saved": 406,
     "skipped": 0,
     "failed": 0,
     "articles": [
@@ -4039,9 +4039,9 @@
             "id": 53095698149011,
             "title": "Using the Japan Earthquake App",
             "slug": "using-the-japan-earthquake-app.md",
-            "section_id": 26324388001427,
+            "section_id": 26324224269459,
             "created_at": "2026-07-01T20:52:44Z",
-            "updated_at": "2026-07-06T14:22:20Z",
+            "updated_at": "2026-07-08T18:39:51Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
             "content_hash": "5a9319549c8ecdda5f60d574ea9a3bfdb2996ad85950b5b84526fa7a12cdcc25"
         },
@@ -4054,6 +4054,16 @@
             "updated_at": "2026-07-06T15:29:04Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
             "content_hash": "f33d738086737bd34bdf5a4379bc6cce122175d322fe906cb977675f04f63e80"
+        },
+        {
+            "id": 53293393593491,
+            "title": "Refer & Earn: OptiSigns Referral Program",
+            "slug": "refer-earn-optisigns-referral-program.md",
+            "section_id": 26319191493267,
+            "created_at": "2026-07-08T16:33:51Z",
+            "updated_at": "2026-07-08T17:09:50Z",
+            "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+            "content_hash": "6c7127485b70976882d530fe68ee1f28c991507f31d04cc7a68f0a08314d6cf0"
         }
     ]
 }
