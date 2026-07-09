@@ -62,7 +62,7 @@ This will open the **Split Screen Configs** menu:
 * **Resolution** - Choose the final display resolution. This should match the total resolution of the screen you plan to display the split screen on.
 * **Background Music -** Lets you choose the Zone Playlist background music will be played.
 * **Audio Zone** - Lets you select which zone audio will be played in. Zones not selected will be muted.
-* **Primary Zone** - This settings lets you sync timing of all secondary zones to the zone selected. With None selected, all content will play at their own pace.
+* **Primary Zone** - This settings lets you sync timing of all secondary zones to the zone selected. With None selected, all content will play at their own pace. Note that this is only available for **Pro Plus plan** subscribers or above.
 
 ### 6. Preview and Save
 
