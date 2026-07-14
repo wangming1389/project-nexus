@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-14T17:25:56.265095+00:00",
+    "generated_at": "2026-07-14T18:37:39.810235+00:00",
     "article_count": 406,
     "saved": 406,
     "skipped": 0,
@@ -1527,13 +1527,13 @@
         },
         {
             "id": 1500000480302,
-            "title": "Advanced: Custom Domain mapping",
+            "title": "Advanced: Custom Domain Mapping",
             "slug": "advanced-custom-domain-mapping.md",
             "section_id": 26319276406419,
             "created_at": "2020-12-17T14:42:40Z",
-            "updated_at": "2026-05-29T17:34:19Z",
-            "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping",
-            "content_hash": "f3c9decc038fcf482e33683ce6866e938a0fe314edd5bf3cc9a7449779a627fc"
+            "updated_at": "2026-07-14T17:53:32Z",
+            "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
+            "content_hash": "d190de74a7b8193b9971911c7d221da4db63ca277334064b050f9d1ea4b4dedb"
         },
         {
             "id": 1500000485202,
