@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-07-16T16:07:32.619209+00:00",
-    "article_count": 406,
-    "saved": 406,
+    "generated_at": "2026-07-16T17:38:57.904966+00:00",
+    "article_count": 407,
+    "saved": 407,
     "skipped": 0,
     "failed": 0,
     "articles": [
@@ -4064,6 +4064,16 @@
             "updated_at": "2026-07-08T17:09:50Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
             "content_hash": "6c7127485b70976882d530fe68ee1f28c991507f31d04cc7a68f0a08314d6cf0"
+        },
+        {
+            "id": 53497007807251,
+            "title": "Device Management and Mass Provisioning",
+            "slug": "device-management-and-mass-provisioning.md",
+            "section_id": 26318650413843,
+            "created_at": "2026-07-15T15:34:29Z",
+            "updated_at": "2026-07-16T16:39:52Z",
+            "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+            "content_hash": "ed6ff8ffc7432a90848b910e5b9cea6c2961ef230acde1f6e3f2aa0706c32692"
         }
     ]
 }
