@@ -1,8 +1,6 @@
 name: Daily Scraper and Indexer (Dockerized)
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
