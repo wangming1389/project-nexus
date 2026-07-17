@@ -12,7 +12,7 @@ The Branding feature is available to OptiSigns **Pro Plus**plan subscribers or h
 
 To use it, navigate to the [**Branding Page**](https://app.optisigns.com/app/s/branding-settings) in your Account Settings:
 
-![firefox_d9M2jq9spn(1).jpg](https://support.optisigns.com/hc/article_attachments/38892952107923)
+![](https://support.optisigns.com/hc/article_attachments/53464263645459)
 
 Inside, you'll find three sections: Branding, Login Page, and Account Management. Below, we'll go over each setting within the three sections and explain what they do.
 
@@ -22,7 +22,7 @@ Inside, you'll find three sections: Branding, Login Page, and Account Management
 
 The Branding section primarily deals with how your custom portal will appear and be shared with others.
 
-![firefox_Km8sVBeFVo.jpg](https://support.optisigns.com/hc/article_attachments/38892952110099)
+![](https://support.optisigns.com/hc/article_attachments/53464263646995)
 
 **Site Title:**
 
@@ -41,6 +41,8 @@ More on domain/sub-domain mapping [here](https://support.optisigns.com/hc/en-us/
 **Your domain:**
 
 You can map your sub-domain, i.e. login.abcmedia.com so that your users can log in and use the portal from login.abcmedia.com and use the app like the screenshot below.
+
+This requires a **Custom Domain add-on**. You can start a 14-day Trial, after which it will cost an additional $10/month for this feature.
 
 More on domain/sub-domain mapping [here](https://support.optisigns.com/hc/en-us/articles/1500000480302).
 
@@ -62,7 +64,7 @@ This is the logo on the top left after user login.
 
 The Login Page section deals with settings for your login page - where your users will initially engage with the platform.
 
-![firefox_WkUJ7s8Stl.jpg](https://support.optisigns.com/hc/article_attachments/38892952112787)
+![](https://support.optisigns.com/hc/article_attachments/53464263647635)
 
 **Upload new Logo**
 
@@ -102,7 +104,7 @@ Check this option to remove the option to login through Microsoft from the Login
 
 You can move the login box location and customize it further.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/7865527783955)
+![](https://support.optisigns.com/hc/article_attachments/53464263649043)
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/7865525101715)
 
@@ -110,7 +112,7 @@ You can move the login box location and customize it further.
 
 ## Account Management Page
 
-![firefox_Lkvy7zVYLt.jpg](https://support.optisigns.com/hc/article_attachments/38892952113683)
+![](https://support.optisigns.com/hc/article_attachments/53464274979603)
 
 **Hide Payment History Page**
 
@@ -154,7 +156,7 @@ Allows you to customize the color of the portal. Just hit the Color Theme button
 
 Customize the Apps that can appear in your branded portal. Selected apps will appear - to hide apps, make sure they are unselected.
 
-![](https://support.optisigns.com/hc/article_attachments/42392086965267)
+![](https://support.optisigns.com/hc/article_attachments/53464274982291)
 
 **Show/Hide Apps For Share Links**
 
@@ -164,14 +166,14 @@ Customize the Apps that appear when Share Links are sent. Works the same as norm
 
 Customize the template categories which will appear in your portal here:
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/7865564899347)
+![](https://support.optisigns.com/hc/article_attachments/53464274982675)
 
 **Send emails from:**
 
 For Proof of play report, you can schedule report emails to be sent directly to your users.
 
 With this setting you can set the reports to be sent from your email address (not OptiSigns email address).  
-![firefox_QuyaaFIYHe.jpg](https://support.optisigns.com/hc/article_attachments/38892924945811)  
+![](https://support.optisigns.com/hc/article_attachments/53464263663379)  
 You can set a Custom email address for users to receive these emails.
 
 ### That's all!

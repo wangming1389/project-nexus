@@ -16,6 +16,8 @@
 | --- |
 | Note: OptiSync is only available on Pro Plus and above plans. |
 
+---
+
 ## What is OptiSync?
 
 OptiSync is an integrated solution designed to seamlessly connect with various data sources, including spreadsheets, APIs, and tables.
@@ -38,6 +40,8 @@ OptiSync is ideal for a wide range of use cases, such as:
 * And, many more!
 
 With OptiSync, your digital displays remain accurate and up-to-date, enhancing communication and engagement in various settings.
+
+---
 
 ## Adding Your Data Source
 
@@ -72,7 +76,7 @@ In addition, you can integrate and test API requests, and execute any necessary 
 
 ![](https://support.optisigns.com/hc/article_attachments/29217646654099)
 
-Once your data source is set up, you can see **Where Used,** **Edit** the data source, and/or **Duplicate** it.
+Once your data source is set up, you can see **Where Used, Edit** the data source, and/or **Duplicate** it.
 
 ![](https://support.optisigns.com/hc/article_attachments/29689445946003)
 
@@ -111,6 +115,18 @@ A pop-up message will appear, asking "**Would you like to use this data in a Rep
 | **IMPORTANT** |
 | OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show. |
 
+When you choose to use the data as a Repeater, you're presented with additional options:
+
+![](https://support.optisigns.com/hc/article_attachments/53326329463315)
+
+You can create the Repeater as Text, as an Image, or as a QR code.
+
+* **Use it as Text:** Displays the Repeater data as-is. This is the most commonly used option.
+* **Use it as Image:** Displays the Repeater data as an image. Please note that this option will only work with API data uploaded in image format - otherwise, you will receive an error message when you try and select this option.
+* **Use it as QR Code:** Displays the Repeater data as a QR Code. Most useful for URLs, this automatically creates a dynamic QR code for your display.
+
+---
+
 ## Editing and Designing Your Repeater in Designer
 
 You can edit both the template and the Repeater in Designer!
@@ -142,7 +158,7 @@ You can also adjust the formatting of a Repeater by selecting it, then selecting
 
 This will open up the **Data Mapping**section for the Repeater on the Side Menu:
 
-![](https://support.optisigns.com/hc/article_attachments/42705284276243)
+![](https://support.optisigns.com/hc/article_attachments/53326317461011)
 
 Then, these options will be presented:
 
@@ -154,16 +170,21 @@ Then, these options will be presented:
   + **Skip:** Skip it, or get rid of additional repeater items if there isn't enough data to reach the set "Total Items displayed per Page".
   + **Use Default Value:** Show default content, which is what your Repeater element looks like by itself.
   + **Use Blank:** The Repeater will show nothing.
-* **Spacing Betwee****n** **Items:**Increase or decrease the space between the Repeater items.
+* **Spacing Between Items:**Increase or decrease the space between the Repeater items.
 * **Item Display Direction:** Change the positioning of the rows from your DataSource within the Repeater items.   
   + **Left To Right**: It will display the rows going from left to right.
   + **Top To Bottom**: It will display the rows going top to bottom.
 * **Item Display Alignment:** Change the alignment of the remaining element items (less than the configured items) to be aligned left/center/right or top/center/bottom.
 * **Total Items Displayed per Page:** Increase or decrease how many Repeater items you'd like to be shown.
 * **Maximum Items in Each Row/Column:** Increase or decrease how many Repeater items you'd like shown in each row/column.
-* **Additional Row/Column Spacing:** Increase or decrease the spacing between rows/columns.
+* **Additional Row/Column Spacing:** Increase or decrease the spacing between rows/columns.![](https://support.optisigns.com/hc/article_attachments/53326329465619)
 * **Duration (seconds):** Adjust the duration of time for how long each Repeater item is shown before.
+* **Page Transition:** Create a page transition for your Repeater. You can choose between Fade and Carousel options, or None at all.
+* **Sort by:** Allows you to quickly sort Repeaters by any data field, with quick filter shortcuts.
 * **Shuffle:** Randomly shuffle the items in your DataSource to be displayed on the Repeater.
+* **Swipe to Advance:** Allows you to tap or swipe to move between items. Ideal for touchscreen kiosks.
+* **Resume on Next Play:** When checked, the Repeater will resume from where it left off if used in a Playlist.
+* **Show Counter**: Toggle a "2/7 pages" or "13/45" display on or off.
 
 If you edit a Repeater, it will replicate your updates for each instance of data in the dataset.
 
@@ -225,11 +246,13 @@ If you'd like to change how the formatting of certain data from your DataSource 
 | Date Time | You can change the time zone, date format, and time format with available options. |
 | Number | You can format numbers to display as percentages, decimals, currency, and more. |
 
+---
+
 ## Push to Screens
 
 Once your design is completed, it is ready to push to screen.
 
-*(Here's **[a guide](https://support.optisigns.com/hc/en-us/articles/18988049363859)** if you need further assistance with this.)*
+*(Here's* [***a guide***](https://support.optisigns.com/hc/en-us/articles/18988049363859)*if you need further assistance with this.)*
 
 ![](https://support.optisigns.com/hc/article_attachments/42702980943507)
 

@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-07-09T01:58:29.130199+00:00",
-    "article_count": 406,
-    "saved": 406,
+    "generated_at": "2026-07-17T16:57:18.882670+00:00",
+    "article_count": 407,
+    "saved": 407,
     "skipped": 0,
     "failed": 0,
     "articles": [
@@ -91,7 +91,7 @@
             "slug": "how-to-install-an-apk-file-on-your-fire-tv.md",
             "section_id": 26319570450195,
             "created_at": "2019-01-29T13:40:34Z",
-            "updated_at": "2026-06-19T15:42:09Z",
+            "updated_at": "2026-07-10T23:06:42Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
             "content_hash": "826ec628baac21caf0810a5629f939f6c399f9e022e9338d85c1202c9da7f3d9"
         },
@@ -181,7 +181,7 @@
             "slug": "how-to-create-and-use-instagram-wall.md",
             "section_id": 26324141467539,
             "created_at": "2019-01-28T20:27:01Z",
-            "updated_at": "2025-09-02T20:31:50Z",
+            "updated_at": "2026-07-15T15:27:32Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
             "content_hash": "0b91a9bc1209dd195e5d36afc929808609cbace9a32d61fb5fca13316345ca11"
         },
@@ -311,7 +311,7 @@
             "slug": "what-hardware-and-devices-are-supported.md",
             "section_id": 360003143773,
             "created_at": "2019-04-17T22:24:31Z",
-            "updated_at": "2026-01-07T16:05:26Z",
+            "updated_at": "2026-07-13T15:50:57Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
             "content_hash": "f7d1ecff8fd90d2d0a426531ee21607b3397834c6b55ff49520329c708fcbca5"
         },
@@ -391,9 +391,9 @@
             "slug": "how-to-create-and-use-the-split-screen-app.md",
             "section_id": 26324687977491,
             "created_at": "2019-07-13T06:45:17Z",
-            "updated_at": "2026-02-04T16:37:07Z",
+            "updated_at": "2026-07-09T21:32:58Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-            "content_hash": "b3237fae9a50224a7bed03dc6110675fa199238b4a85137775051c13e503003c"
+            "content_hash": "d7b8072d4e14df9f54cca7e31308cb2884e9d2068b7ef53700629faad09b3f79"
         },
         {
             "id": 360026559613,
@@ -891,7 +891,7 @@
             "slug": "whitelist-optisigns-ip-addresses-ports.md",
             "section_id": 26319751042451,
             "created_at": "2020-05-06T16:19:56Z",
-            "updated_at": "2026-06-18T00:48:15Z",
+            "updated_at": "2026-07-16T10:01:04Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
             "content_hash": "770b027846489a1920af54169325f7e05be38797bf27d584c10f74ecdcdb0345"
         },
@@ -1201,7 +1201,7 @@
             "slug": "set-optisigns-as-screensaver-on-windows.md",
             "section_id": 26318906819091,
             "created_at": "2020-09-08T16:16:53Z",
-            "updated_at": "2025-08-29T20:39:30Z",
+            "updated_at": "2026-07-16T22:15:47Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
             "content_hash": "67cd5a115367e02ae7d184d881a3b8c03b8a52bb0b4565939d4272b21667898b"
         },
@@ -1301,7 +1301,7 @@
             "slug": "how-to-change-time-zone-on-your-fire-stick-device.md",
             "section_id": 26319570450195,
             "created_at": "2020-09-25T23:30:40Z",
-            "updated_at": "2026-05-20T21:12:27Z",
+            "updated_at": "2026-07-09T18:27:02Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
             "content_hash": "a93ab7687487a840c28af2b2c73dd985f3cfc3b41e2795f439db9a1642348080"
         },
@@ -1527,13 +1527,13 @@
         },
         {
             "id": 1500000480302,
-            "title": "Advanced: Custom Domain mapping",
+            "title": "Advanced: Custom Domain Mapping",
             "slug": "advanced-custom-domain-mapping.md",
             "section_id": 26319276406419,
             "created_at": "2020-12-17T14:42:40Z",
-            "updated_at": "2026-05-29T17:34:19Z",
-            "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping",
-            "content_hash": "f3c9decc038fcf482e33683ce6866e938a0fe314edd5bf3cc9a7449779a627fc"
+            "updated_at": "2026-07-14T17:53:32Z",
+            "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
+            "content_hash": "d190de74a7b8193b9971911c7d221da4db63ca277334064b050f9d1ea4b4dedb"
         },
         {
             "id": 1500000485202,
@@ -1541,9 +1541,9 @@
             "slug": "custom-branding-settings.md",
             "section_id": 26319276406419,
             "created_at": "2020-12-17T16:53:14Z",
-            "updated_at": "2025-12-29T21:04:58Z",
+            "updated_at": "2026-07-14T16:23:24Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-            "content_hash": "bb1570f136c774f986d71e7d075e3ed71bbfa6daad9d320f2ecd15fe2414cd87"
+            "content_hash": "414b61e2216945f70c177d5a4c0f2b49e1f9e5ba69c4bcd8680e6583ae1c219f"
         },
         {
             "id": 1500000493782,
@@ -2411,7 +2411,7 @@
             "slug": "how-to-use-the-cap-alert-app.md",
             "section_id": 26324388001427,
             "created_at": "2022-05-31T00:32:58Z",
-            "updated_at": "2026-03-13T16:05:48Z",
+            "updated_at": "2026-07-13T17:44:57Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
             "content_hash": "ff6997fcbc39f5e8cf0b26765152c4536ed2ea828325aaec0c554f86c0223a5b"
         },
@@ -2741,7 +2741,7 @@
             "slug": "how-to-design-kiosk-apps-using-kiosk-designer-pro.md",
             "section_id": 26322303862419,
             "created_at": "2023-03-29T22:00:45Z",
-            "updated_at": "2025-11-05T17:31:50Z",
+            "updated_at": "2026-07-14T07:45:20Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
             "content_hash": "2eb0926e3da5cfe5943bc89f6a983da5a66997342c59e79fa98e61a35b2a9469"
         },
@@ -3241,7 +3241,7 @@
             "slug": "how-to-create-use-playlists.md",
             "section_id": 26324652803475,
             "created_at": "2024-04-10T16:37:33Z",
-            "updated_at": "2026-03-31T21:42:16Z",
+            "updated_at": "2026-07-14T12:09:21Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
             "content_hash": "a4be557899f09a270c04f33ad09dc76f2938e00ff1911a43fb2d63f7b9923a94"
         },
@@ -3291,9 +3291,9 @@
             "slug": "how-to-set-up-dynamic-data-mapping-with-optisync.md",
             "section_id": 42924355604627,
             "created_at": "2024-05-09T14:04:50Z",
-            "updated_at": "2025-09-04T17:54:40Z",
+            "updated_at": "2026-07-09T15:33:50Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-            "content_hash": "120d57eac3044b3ef0d5b8bdf7641692a94c2c30497bb5f9a94e7ea91a5f208e"
+            "content_hash": "f2fbdf13d1bf8bd801d54c5eb2215b20fec8bdf349894efbd47c6d3763ac75a4"
         },
         {
             "id": 29232460955539,
@@ -4064,6 +4064,16 @@
             "updated_at": "2026-07-08T17:09:50Z",
             "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
             "content_hash": "6c7127485b70976882d530fe68ee1f28c991507f31d04cc7a68f0a08314d6cf0"
+        },
+        {
+            "id": 53497007807251,
+            "title": "Device Management and Mass Provisioning",
+            "slug": "device-management-and-mass-provisioning.md",
+            "section_id": 26318650413843,
+            "created_at": "2026-07-15T15:34:29Z",
+            "updated_at": "2026-07-16T16:39:52Z",
+            "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+            "content_hash": "ed6ff8ffc7432a90848b910e5b9cea6c2961ef230acde1f6e3f2aa0706c32692"
         }
     ]
 }
